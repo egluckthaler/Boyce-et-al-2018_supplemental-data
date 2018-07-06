@@ -1,0 +1,43 @@
+#nexus
+
+BEGIN Taxa;
+DIMENSIONS ntax=10;
+TAXLABELS
+[1] 'Coere1'
+[2] 'DrSc'
+[3] 'Emusc_isoH'
+[4] 'Pfor'
+[5] 'ZRAD'
+[6] 'Conco1'
+[7] 'N159'
+[8] 'Conth1'
+[9] 'MPLAT'
+[10] 'MCIC'
+;
+END; [Taxa]
+
+BEGIN Splits;
+DIMENSIONS ntax=10 nsplits=18;
+FORMAT labels=no weights=yes confidences=no intervals=no;
+MATRIX
+	100	 2,
+	100	 4,
+	100	 2 4,
+	100	 5,
+	100	 2 4 5,
+	100	 3,
+	100	 9,
+	100	 10,
+	98	 9 10,
+	100	 3 9 10,
+	100	 1 6 7 8,
+	100	 8,
+	100	 1 6 7,
+	100	 6,
+	100	 7,
+	100	 6 7,
+	100	 1,
+	2	 3 9,
+;
+END; [Splits]
+
