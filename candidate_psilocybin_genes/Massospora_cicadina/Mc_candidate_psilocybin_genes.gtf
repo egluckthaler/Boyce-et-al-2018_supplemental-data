@@ -1,0 +1,538 @@
+NODE_20967	AUGUSTUS	gene	1	433	0.54	+	.	g24
+NODE_20967	AUGUSTUS	transcript	1	433	0.54	+	.	g24.t1
+NODE_20967	AUGUSTUS	terminal	205	433	0.54	+	1	transcript_id "g24.t1"; gene_id "g24";
+NODE_20967	AUGUSTUS	intron	1	204	0.54	+	.	transcript_id "g24.t1"; gene_id "g24";
+NODE_20967	AUGUSTUS	CDS	205	433	0.54	+	1	transcript_id "g24.t1"; gene_id "g24";
+NODE_20967	AUGUSTUS	stop_codon	431	433	.	+	0	transcript_id "g24.t1"; gene_id "g24";
+NODE_20967	AUGUSTUS	gene	3792	4919	0.6	-	.	NODE_20967.g25.t1.p450
+NODE_20967	AUGUSTUS	transcript	3792	4919	0.6	-	.	NODE_20967.g25.t1.p450.t1
+NODE_20967	AUGUSTUS	stop_codon	3792	3794	.	-	0	transcript_id NODE_20967.g25.t1.p450; gene_id "NODE_20967.g25.t1.p450";
+NODE_20967	AUGUSTUS	terminal	3792	3902	0.62	-	0	transcript_id NODE_20967.g25.t1.p450; gene_id "NODE_20967.g25.t1.p450";
+NODE_20967	AUGUSTUS	initial	4179	4919	0.6	-	0	transcript_id NODE_20967.g25.t1.p450; gene_id "NODE_20967.g25.t1.p450";
+NODE_20967	AUGUSTUS	intron	3903	4178	0.61	-	.	transcript_id NODE_20967.g25.t1.p450; gene_id "NODE_20967.g25.t1.p450";
+NODE_20967	AUGUSTUS	CDS	3792	3902	0.62	-	0	transcript_id NODE_20967.g25.t1.p450; gene_id "NODE_20967.g25.t1.p450";
+NODE_20967	AUGUSTUS	CDS	4179	4919	0.6	-	0	transcript_id NODE_20967.g25.t1.p450; gene_id "NODE_20967.g25.t1.p450";
+NODE_20967	AUGUSTUS	start_codon	4917	4919	.	-	0	transcript_id NODE_20967.g25.t1.p450; gene_id "NODE_20967.g25.t1.p450";
+NODE_127345	AUGUSTUS	gene	232	547	0.77	+	.	g46
+NODE_127345	AUGUSTUS	transcript	232	547	0.77	+	.	g46.t1
+NODE_127345	AUGUSTUS	start_codon	232	234	.	+	0	transcript_id "g46.t1"; gene_id "g46";
+NODE_127345	AUGUSTUS	initial	232	357	0.78	+	0	transcript_id "g46.t1"; gene_id "g46";
+NODE_127345	AUGUSTUS	terminal	410	547	0.78	+	0	transcript_id "g46.t1"; gene_id "g46";
+NODE_127345	AUGUSTUS	intron	358	409	0.77	+	.	transcript_id "g46.t1"; gene_id "g46";
+NODE_127345	AUGUSTUS	CDS	232	357	0.78	+	0	transcript_id "g46.t1"; gene_id "g46";
+NODE_127345	AUGUSTUS	CDS	410	547	0.78	+	0	transcript_id "g46.t1"; gene_id "g46";
+NODE_127345	AUGUSTUS	stop_codon	545	547	.	+	0	transcript_id "g46.t1"; gene_id "g46";
+NODE_127345	AUGUSTUS	gene	1386	1766	0.92	+	.	g47
+NODE_127345	AUGUSTUS	transcript	1386	1766	0.92	+	.	g47.t1
+NODE_127345	AUGUSTUS	start_codon	1386	1388	.	+	0	transcript_id "g47.t1"; gene_id "g47";
+NODE_127345	AUGUSTUS	single	1386	1766	0.92	+	0	transcript_id "g47.t1"; gene_id "g47";
+NODE_127345	AUGUSTUS	CDS	1386	1766	0.92	+	0	transcript_id "g47.t1"; gene_id "g47";
+NODE_127345	AUGUSTUS	stop_codon	1764	1766	.	+	0	transcript_id "g47.t1"; gene_id "g47";
+NODE_3450	AUGUSTUS	gene	1	100	0.53	-	.	g16
+NODE_3450	AUGUSTUS	transcript	1	100	0.53	-	.	g16.t1
+NODE_3450	AUGUSTUS	initial	34	100	0.53	-	0	transcript_id "g16.t1"; gene_id "g16";
+NODE_3450	AUGUSTUS	intron	1	33	0.59	-	.	transcript_id "g16.t1"; gene_id "g16";
+NODE_3450	AUGUSTUS	CDS	34	100	0.53	-	0	transcript_id "g16.t1"; gene_id "g16";
+NODE_3450	AUGUSTUS	start_codon	98	100	.	-	0	transcript_id "g16.t1"; gene_id "g16";
+NODE_3450	AUGUSTUS	gene	3638	4051	0.48	+	.	g17
+NODE_3450	AUGUSTUS	transcript	3638	4051	0.48	+	.	g17.t1
+NODE_3450	AUGUSTUS	start_codon	3638	3640	.	+	0	transcript_id "g17.t1"; gene_id "g17";
+NODE_3450	AUGUSTUS	single	3638	4051	0.48	+	0	transcript_id "g17.t1"; gene_id "g17";
+NODE_3450	AUGUSTUS	CDS	3638	4051	0.48	+	0	transcript_id "g17.t1"; gene_id "g17";
+NODE_3450	AUGUSTUS	stop_codon	4049	4051	.	+	0	transcript_id "g17.t1"; gene_id "g17";
+NODE_3450	AUGUSTUS	gene	4265	5097	0.69	+	.	g18
+NODE_3450	AUGUSTUS	transcript	4265	5097	0.69	+	.	g18.t1
+NODE_3450	AUGUSTUS	start_codon	4265	4267	.	+	0	transcript_id "g18.t1"; gene_id "g18";
+NODE_3450	AUGUSTUS	initial	4265	4491	0.7	+	0	transcript_id "g18.t1"; gene_id "g18";
+NODE_3450	AUGUSTUS	terminal	4911	5097	0.93	+	1	transcript_id "g18.t1"; gene_id "g18";
+NODE_3450	AUGUSTUS	intron	4492	4910	0.84	+	.	transcript_id "g18.t1"; gene_id "g18";
+NODE_3450	AUGUSTUS	CDS	4265	4491	0.7	+	0	transcript_id "g18.t1"; gene_id "g18";
+NODE_3450	AUGUSTUS	CDS	4911	5097	0.93	+	1	transcript_id "g18.t1"; gene_id "g18";
+NODE_3450	AUGUSTUS	stop_codon	5095	5097	.	+	0	transcript_id "g18.t1"; gene_id "g18";
+NODE_3450	AUGUSTUS	gene	7513	7752	0.98	+	.	g19
+NODE_3450	AUGUSTUS	transcript	7513	7752	0.98	+	.	g19.t1
+NODE_3450	AUGUSTUS	start_codon	7513	7515	.	+	0	transcript_id "g19.t1"; gene_id "g19";
+NODE_3450	AUGUSTUS	single	7513	7752	0.98	+	0	transcript_id "g19.t1"; gene_id "g19";
+NODE_3450	AUGUSTUS	CDS	7513	7752	0.98	+	0	transcript_id "g19.t1"; gene_id "g19";
+NODE_3450	AUGUSTUS	stop_codon	7750	7752	.	+	0	transcript_id "g19.t1"; gene_id "g19";
+NODE_3450	AUGUSTUS	gene	7918	8711	0.32	+	.	g20
+NODE_3450	AUGUSTUS	transcript	7918	8711	0.32	+	.	g20.t1
+NODE_3450	AUGUSTUS	start_codon	7918	7920	.	+	0	transcript_id "g20.t1"; gene_id "g20";
+NODE_3450	AUGUSTUS	initial	7918	8317	0.6	+	0	transcript_id "g20.t1"; gene_id "g20";
+NODE_3450	AUGUSTUS	terminal	8509	8711	0.55	+	2	transcript_id "g20.t1"; gene_id "g20";
+NODE_3450	AUGUSTUS	intron	8318	8508	0.62	+	.	transcript_id "g20.t1"; gene_id "g20";
+NODE_3450	AUGUSTUS	CDS	7918	8317	0.6	+	0	transcript_id "g20.t1"; gene_id "g20";
+NODE_3450	AUGUSTUS	CDS	8509	8711	0.55	+	2	transcript_id "g20.t1"; gene_id "g20";
+NODE_3450	AUGUSTUS	stop_codon	8709	8711	.	+	0	transcript_id "g20.t1"; gene_id "g20";
+NODE_3450	AUGUSTUS	gene	9435	9827	0.94	+	.	g21
+NODE_3450	AUGUSTUS	transcript	9435	9827	0.94	+	.	g21.t1
+NODE_3450	AUGUSTUS	start_codon	9435	9437	.	+	0	transcript_id "g21.t1"; gene_id "g21";
+NODE_3450	AUGUSTUS	single	9435	9827	0.94	+	0	transcript_id "g21.t1"; gene_id "g21";
+NODE_3450	AUGUSTUS	CDS	9435	9827	0.94	+	0	transcript_id "g21.t1"; gene_id "g21";
+NODE_3450	AUGUSTUS	stop_codon	9825	9827	.	+	0	transcript_id "g21.t1"; gene_id "g21";
+NODE_21094	AUGUSTUS	gene	1	2630	0.93	+	.	g63
+NODE_21094	AUGUSTUS	transcript	1	2630	0.93	+	.	g63.t1
+NODE_21094	AUGUSTUS	internal	1	1196	0.98	+	1	transcript_id "g63.t1"; gene_id "g63";
+NODE_21094	AUGUSTUS	internal	1251	1478	0.94	+	2	transcript_id "g63.t1"; gene_id "g63";
+NODE_21094	AUGUSTUS	terminal	1522	2630	0.99	+	2	transcript_id "g63.t1"; gene_id "g63";
+NODE_21094	AUGUSTUS	intron	1197	1250	0.94	+	.	transcript_id "g63.t1"; gene_id "g63";
+NODE_21094	AUGUSTUS	intron	1479	1521	0.98	+	.	transcript_id "g63.t1"; gene_id "g63";
+NODE_21094	AUGUSTUS	CDS	1	1196	0.98	+	1	transcript_id "g63.t1"; gene_id "g63";
+NODE_21094	AUGUSTUS	CDS	1251	1478	0.94	+	2	transcript_id "g63.t1"; gene_id "g63";
+NODE_21094	AUGUSTUS	CDS	1522	2630	0.99	+	2	transcript_id "g63.t1"; gene_id "g63";
+NODE_21094	AUGUSTUS	stop_codon	2628	2630	.	+	0	transcript_id "g63.t1"; gene_id "g63";
+NODE_235607	AUGUSTUS	gene	1	554	0.58	+	.	g55+g56
+NODE_235607	AUGUSTUS	transcript	1	554	0.58	+	.	g55+g56.t1
+NODE_235607	AUGUSTUS	internal	68	295	0.71	+	2	transcript_id "g55+g56.t1"; gene_id "g55+g56";
+NODE_235607	AUGUSTUS	terminal	1015	1165	0.46	+	1	transcript_id "g55+g56.t1"; gene_id "g55+g56";
+NODE_235607	AUGUSTUS	intron	1	67	0.99	+	.	transcript_id "g55+g56.t1"; gene_id "g55+g56";
+NODE_235607	AUGUSTUS	intron	296	372	0.71	+	.	transcript_id "g55+g56.t1"; gene_id "g55+g56";
+NODE_235607	AUGUSTUS	intron	763	809	0.59	+	.	transcript_id "g55+g56.t1"; gene_id "g55+g56";
+NODE_235607	AUGUSTUS	intron	962	1014	0.3	+	.	transcript_id "g55+g56.t1"; gene_id "g55+g56";
+NODE_235607	AUGUSTUS	CDS	68	295	0.71	+	2	transcript_id "g55+g56.t1"; gene_id "g55+g56";
+NODE_235607	AUGUSTUS	CDS	373	554	0.81	+	2	transcript_id "g55+g56.t1"; gene_id "g55+g56";
+NODE_235607	AUGUSTUS	CDS	583	762	0.7	+	0	transcript_id "g55+g56.t1"; gene_id "g55+g56";
+NODE_235607	AUGUSTUS	CDS	810	961	0.27	+	0	transcript_id "g55+g56.t1"; gene_id "g55+g56";
+NODE_235607	AUGUSTUS	CDS	1015	1165	0.46	+	1	transcript_id "g55+g56.t1"; gene_id "g55+g56";
+NODE_235607	AUGUSTUS	stop_codon	1163	1165	.	+	0	transcript_id "g55+g56.t1"; gene_id "g55+g56";
+NODE_251129	AUGUSTUS	gene	1	1114	0.35	-	.	g38
+NODE_251129	AUGUSTUS	transcript	1	1114	0.35	-	.	g38.t1
+NODE_251129	AUGUSTUS	internal	66	486	0.39	-	1	transcript_id "g38.t1"; gene_id "g38";
+NODE_251129	AUGUSTUS	internal	562	758	0.8	-	0	transcript_id "g38.t1"; gene_id "g38";
+NODE_251129	AUGUSTUS	internal	818	907	0.88	-	0	transcript_id "g38.t1"; gene_id "g38";
+NODE_251129	AUGUSTUS	internal	960	1114	0.98	-	2	transcript_id "g38.t1"; gene_id "g38";
+NODE_251129	AUGUSTUS	intron	1	65	0.46	-	.	transcript_id "g38.t1"; gene_id "g38";
+NODE_251129	AUGUSTUS	intron	487	561	0.75	-	.	transcript_id "g38.t1"; gene_id "g38";
+NODE_251129	AUGUSTUS	intron	759	817	0.89	-	.	transcript_id "g38.t1"; gene_id "g38";
+NODE_251129	AUGUSTUS	intron	908	959	0.98	-	.	transcript_id "g38.t1"; gene_id "g38";
+NODE_251129	AUGUSTUS	CDS	66	486	0.39	-	1	transcript_id "g38.t1"; gene_id "g38";
+NODE_251129	AUGUSTUS	CDS	562	758	0.8	-	0	transcript_id "g38.t1"; gene_id "g38";
+NODE_251129	AUGUSTUS	CDS	818	907	0.88	-	0	transcript_id "g38.t1"; gene_id "g38";
+NODE_251129	AUGUSTUS	CDS	960	1114	0.98	-	2	transcript_id "g38.t1"; gene_id "g38";
+NODE_172140	AUGUSTUS	gene	1	915	0.65	+	.	NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12
+NODE_172140	AUGUSTUS	transcript	1	915	0.65	+	.	NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12.t1
+NODE_172140	AUGUSTUS	internal	327	458	0.82	+	2	transcript_id NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12; gene_id "NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12";
+NODE_172140	AUGUSTUS	terminal	551	915	0.66	+	2	transcript_id NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12; gene_id "NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12";
+NODE_172140	AUGUSTUS	intron	1	326	0.93	+	.	transcript_id NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12; gene_id "NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12";
+NODE_172140	AUGUSTUS	intron	459	550	0.67	+	.	transcript_id NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12; gene_id "NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12";
+NODE_172140	AUGUSTUS	CDS	327	458	0.82	+	2	transcript_id NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12; gene_id "NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12";
+NODE_172140	AUGUSTUS	CDS	551	915	0.66	+	2	transcript_id NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12; gene_id "NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12";
+NODE_172140	AUGUSTUS	stop_codon	913	915	.	+	0	transcript_id NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12; gene_id "NODE_172140.g3.t1.Methyltransf_11.Methyltransf_23.Methyltransf_12";
+NODE_87987	AUGUSTUS	gene	599	2239	1	-	.	NODE_87987.g62.t1.Pyridoxal_deC
+NODE_87987	AUGUSTUS	transcript	599	2239	1	-	.	NODE_87987.g62.t1.Pyridoxal_deC.t1
+NODE_87987	AUGUSTUS	stop_codon	599	601	.	-	0	transcript_id NODE_87987.g62.t1.Pyridoxal_deC; gene_id "NODE_87987.g62.t1.Pyridoxal_deC";
+NODE_87987	AUGUSTUS	single	599	2239	1	-	0	transcript_id NODE_87987.g62.t1.Pyridoxal_deC; gene_id "NODE_87987.g62.t1.Pyridoxal_deC";
+NODE_87987	AUGUSTUS	CDS	599	2239	1	-	0	transcript_id NODE_87987.g62.t1.Pyridoxal_deC; gene_id "NODE_87987.g62.t1.Pyridoxal_deC";
+NODE_87987	AUGUSTUS	start_codon	2237	2239	.	-	0	transcript_id NODE_87987.g62.t1.Pyridoxal_deC; gene_id "NODE_87987.g62.t1.Pyridoxal_deC";
+NODE_62215	AUGUSTUS	gene	1	223	0.72	+	.	g57
+NODE_62215	AUGUSTUS	transcript	1	223	0.72	+	.	g57.t1
+NODE_62215	AUGUSTUS	terminal	43	223	0.72	+	1	transcript_id "g57.t1"; gene_id "g57";
+NODE_62215	AUGUSTUS	intron	1	42	0.72	+	.	transcript_id "g57.t1"; gene_id "g57";
+NODE_62215	AUGUSTUS	CDS	43	223	0.72	+	1	transcript_id "g57.t1"; gene_id "g57";
+NODE_62215	AUGUSTUS	stop_codon	221	223	.	+	0	transcript_id "g57.t1"; gene_id "g57";
+NODE_62215	AUGUSTUS	gene	2471	3658	0.96	-	.	NODE_62215.g58.t1.p450
+NODE_62215	AUGUSTUS	transcript	2471	3658	0.96	-	.	NODE_62215.g58.t1.p450.t1
+NODE_62215	AUGUSTUS	stop_codon	2471	2473	.	-	0	transcript_id NODE_62215.g58.t1.p450; gene_id "NODE_62215.g58.t1.p450";
+NODE_62215	AUGUSTUS	terminal	2471	2643	1	-	2	transcript_id NODE_62215.g58.t1.p450; gene_id "NODE_62215.g58.t1.p450";
+NODE_62215	AUGUSTUS	internal	2683	3658	0.96	-	0	transcript_id NODE_62215.g58.t1.p450; gene_id "NODE_62215.g58.t1.p450";
+NODE_62215	AUGUSTUS	intron	2644	2682	0.97	-	.	transcript_id NODE_62215.g58.t1.p450; gene_id "NODE_62215.g58.t1.p450";
+NODE_62215	AUGUSTUS	CDS	2471	2643	1	-	2	transcript_id NODE_62215.g58.t1.p450; gene_id "NODE_62215.g58.t1.p450";
+NODE_62215	AUGUSTUS	CDS	2683	3658	0.96	-	0	transcript_id NODE_62215.g58.t1.p450; gene_id "NODE_62215.g58.t1.p450";
+NODE_125583	AUGUSTUS	gene	1	968	0.28	-	.	NODE_125583.g43.t1.Methyltransf_10
+NODE_125583	AUGUSTUS	transcript	1	968	0.28	-	.	NODE_125583.g43.t1.Methyltransf_10.t1
+NODE_125583	AUGUSTUS	internal	81	618	0.45	-	0	transcript_id NODE_125583.g43.t1.Methyltransf_10; gene_id "NODE_125583.g43.t1.Methyltransf_10";
+NODE_125583	AUGUSTUS	initial	819	968	0.58	-	0	transcript_id NODE_125583.g43.t1.Methyltransf_10; gene_id "NODE_125583.g43.t1.Methyltransf_10";
+NODE_125583	AUGUSTUS	intron	1	80	0.79	-	.	transcript_id NODE_125583.g43.t1.Methyltransf_10; gene_id "NODE_125583.g43.t1.Methyltransf_10";
+NODE_125583	AUGUSTUS	intron	619	818	0.83	-	.	transcript_id NODE_125583.g43.t1.Methyltransf_10; gene_id "NODE_125583.g43.t1.Methyltransf_10";
+NODE_125583	AUGUSTUS	CDS	81	618	0.45	-	0	transcript_id NODE_125583.g43.t1.Methyltransf_10; gene_id "NODE_125583.g43.t1.Methyltransf_10";
+NODE_125583	AUGUSTUS	CDS	819	968	0.58	-	0	transcript_id NODE_125583.g43.t1.Methyltransf_10; gene_id "NODE_125583.g43.t1.Methyltransf_10";
+NODE_125583	AUGUSTUS	start_codon	966	968	.	-	0	transcript_id NODE_125583.g43.t1.Methyltransf_10; gene_id "NODE_125583.g43.t1.Methyltransf_10";
+NODE_38685	AUGUSTUS	gene	1	899	0.79	+	.	NODE_38685.g27.t1.p450
+NODE_38685	AUGUSTUS	transcript	1	899	0.79	+	.	NODE_38685.g27.t1.p450.t1
+NODE_38685	AUGUSTUS	internal	1	362	0.95	+	1	transcript_id NODE_38685.g27.t1.p450; gene_id "NODE_38685.g27.t1.p450";
+NODE_38685	AUGUSTUS	internal	411	523	0.89	+	2	transcript_id NODE_38685.g27.t1.p450; gene_id "NODE_38685.g27.t1.p450";
+NODE_38685	AUGUSTUS	internal	573	720	0.94	+	0	transcript_id NODE_38685.g27.t1.p450; gene_id "NODE_38685.g27.t1.p450";
+NODE_38685	AUGUSTUS	terminal	769	899	0.94	+	2	transcript_id NODE_38685.g27.t1.p450; gene_id "NODE_38685.g27.t1.p450";
+NODE_38685	AUGUSTUS	intron	363	410	0.89	+	.	transcript_id NODE_38685.g27.t1.p450; gene_id "NODE_38685.g27.t1.p450";
+NODE_38685	AUGUSTUS	intron	524	572	0.94	+	.	transcript_id NODE_38685.g27.t1.p450; gene_id "NODE_38685.g27.t1.p450";
+NODE_38685	AUGUSTUS	intron	721	768	0.94	+	.	transcript_id NODE_38685.g27.t1.p450; gene_id "NODE_38685.g27.t1.p450";
+NODE_38685	AUGUSTUS	CDS	1	362	0.95	+	1	transcript_id NODE_38685.g27.t1.p450; gene_id "NODE_38685.g27.t1.p450";
+NODE_38685	AUGUSTUS	CDS	411	523	0.89	+	2	transcript_id NODE_38685.g27.t1.p450; gene_id "NODE_38685.g27.t1.p450";
+NODE_38685	AUGUSTUS	CDS	573	720	0.94	+	0	transcript_id NODE_38685.g27.t1.p450; gene_id "NODE_38685.g27.t1.p450";
+NODE_38685	AUGUSTUS	CDS	769	899	0.94	+	2	transcript_id NODE_38685.g27.t1.p450; gene_id "NODE_38685.g27.t1.p450";
+NODE_38685	AUGUSTUS	stop_codon	897	899	.	+	0	transcript_id NODE_38685.g27.t1.p450; gene_id "NODE_38685.g27.t1.p450";
+NODE_38685	AUGUSTUS	gene	2132	3096	0.85	-	.	g28
+NODE_38685	AUGUSTUS	transcript	2132	3096	0.85	-	.	g28.t1
+NODE_38685	AUGUSTUS	stop_codon	2132	2134	.	-	0	transcript_id "g28.t1"; gene_id "g28";
+NODE_38685	AUGUSTUS	terminal	2132	2295	0.88	-	2	transcript_id "g28.t1"; gene_id "g28";
+NODE_38685	AUGUSTUS	initial	2997	3096	0.85	-	0	transcript_id "g28.t1"; gene_id "g28";
+NODE_38685	AUGUSTUS	intron	2296	2996	0.85	-	.	transcript_id "g28.t1"; gene_id "g28";
+NODE_38685	AUGUSTUS	CDS	2132	2295	0.88	-	2	transcript_id "g28.t1"; gene_id "g28";
+NODE_38685	AUGUSTUS	CDS	2997	3096	0.85	-	0	transcript_id "g28.t1"; gene_id "g28";
+NODE_38685	AUGUSTUS	start_codon	3094	3096	.	-	0	transcript_id "g28.t1"; gene_id "g28";
+NODE_253555	AUGUSTUS	gene	1	793	0.32	+	.	NODE_253555.g12.t1.MTS.Methyltransf_4
+NODE_253555	AUGUSTUS	transcript	1	793	0.32	+	.	NODE_253555.g12.t1.MTS.Methyltransf_4.t1
+NODE_253555	AUGUSTUS	internal	132	308	0.59	+	1	transcript_id NODE_253555.g12.t1.MTS.Methyltransf_4; gene_id "NODE_253555.g12.t1.MTS.Methyltransf_4";
+NODE_253555	AUGUSTUS	terminal	466	793	0.35	+	1	transcript_id NODE_253555.g12.t1.MTS.Methyltransf_4; gene_id "NODE_253555.g12.t1.MTS.Methyltransf_4";
+NODE_253555	AUGUSTUS	intron	1	131	0.92	+	.	transcript_id NODE_253555.g12.t1.MTS.Methyltransf_4; gene_id "NODE_253555.g12.t1.MTS.Methyltransf_4";
+NODE_253555	AUGUSTUS	intron	309	465	0.38	+	.	transcript_id NODE_253555.g12.t1.MTS.Methyltransf_4; gene_id "NODE_253555.g12.t1.MTS.Methyltransf_4";
+NODE_253555	AUGUSTUS	CDS	132	308	0.59	+	1	transcript_id NODE_253555.g12.t1.MTS.Methyltransf_4; gene_id "NODE_253555.g12.t1.MTS.Methyltransf_4";
+NODE_253555	AUGUSTUS	CDS	466	793	0.35	+	1	transcript_id NODE_253555.g12.t1.MTS.Methyltransf_4; gene_id "NODE_253555.g12.t1.MTS.Methyltransf_4";
+NODE_253555	AUGUSTUS	stop_codon	791	793	.	+	0	transcript_id NODE_253555.g12.t1.MTS.Methyltransf_4; gene_id "NODE_253555.g12.t1.MTS.Methyltransf_4";
+NODE_18769	AUGUSTUS	gene	1	284	0.5	-	.	g10
+NODE_18769	AUGUSTUS	transcript	1	284	0.5	-	.	g10.t1
+NODE_18769	AUGUSTUS	initial	23	284	0.5	-	0	transcript_id "g10.t1"; gene_id "g10";
+NODE_18769	AUGUSTUS	intron	1	22	0.98	-	.	transcript_id "g10.t1"; gene_id "g10";
+NODE_18769	AUGUSTUS	CDS	23	284	0.5	-	0	transcript_id "g10.t1"; gene_id "g10";
+NODE_18769	AUGUSTUS	start_codon	282	284	.	-	0	transcript_id "g10.t1"; gene_id "g10";
+NODE_18769	AUGUSTUS	gene	2542	4158	0.49	-	.	NODE_18769.g11.t1.Pyridoxal_deC
+NODE_18769	AUGUSTUS	transcript	2542	4158	0.49	-	.	NODE_18769.g11.t1.Pyridoxal_deC.t1
+NODE_18769	AUGUSTUS	stop_codon	2542	2544	.	-	0	transcript_id NODE_18769.g11.t1.Pyridoxal_deC; gene_id "NODE_18769.g11.t1.Pyridoxal_deC";
+NODE_18769	AUGUSTUS	single	2542	4158	0.49	-	0	transcript_id NODE_18769.g11.t1.Pyridoxal_deC; gene_id "NODE_18769.g11.t1.Pyridoxal_deC";
+NODE_18769	AUGUSTUS	CDS	2542	4158	0.49	-	0	transcript_id NODE_18769.g11.t1.Pyridoxal_deC; gene_id "NODE_18769.g11.t1.Pyridoxal_deC";
+NODE_18769	AUGUSTUS	start_codon	4156	4158	.	-	0	transcript_id NODE_18769.g11.t1.Pyridoxal_deC; gene_id "NODE_18769.g11.t1.Pyridoxal_deC";
+NODE_220873	AUGUSTUS	gene	1	197	0.64	+	.	NODE_220873.g41.t1.p450
+NODE_220873	AUGUSTUS	transcript	1	197	0.64	+	.	NODE_220873.g41.t1.p450.t1
+NODE_220873	AUGUSTUS	terminal	49	197	0.64	+	2	transcript_id NODE_220873.g41.t1.p450; gene_id "NODE_220873.g41.t1.p450";
+NODE_220873	AUGUSTUS	intron	1	48	0.73	+	.	transcript_id NODE_220873.g41.t1.p450; gene_id "NODE_220873.g41.t1.p450";
+NODE_220873	AUGUSTUS	CDS	49	197	0.64	+	2	transcript_id NODE_220873.g41.t1.p450; gene_id "NODE_220873.g41.t1.p450";
+NODE_220873	AUGUSTUS	stop_codon	195	197	.	+	0	transcript_id NODE_220873.g41.t1.p450; gene_id "NODE_220873.g41.t1.p450";
+NODE_19653	AUGUSTUS	gene	1710	2559	0.76	+	.	g64
+NODE_19653	AUGUSTUS	transcript	1710	2559	0.76	+	.	g64.t1
+NODE_19653	AUGUSTUS	start_codon	1710	1712	.	+	0	transcript_id "g64.t1"; gene_id "g64";
+NODE_19653	AUGUSTUS	initial	1710	1858	0.77	+	0	transcript_id "g64.t1"; gene_id "g64";
+NODE_19653	AUGUSTUS	terminal	1932	2559	0.76	+	1	transcript_id "g64.t1"; gene_id "g64";
+NODE_19653	AUGUSTUS	intron	1859	1931	0.76	+	.	transcript_id "g64.t1"; gene_id "g64";
+NODE_19653	AUGUSTUS	CDS	1710	1858	0.77	+	0	transcript_id "g64.t1"; gene_id "g64";
+NODE_19653	AUGUSTUS	CDS	1932	2559	0.76	+	1	transcript_id "g64.t1"; gene_id "g64";
+NODE_19653	AUGUSTUS	stop_codon	2557	2559	.	+	0	transcript_id "g64.t1"; gene_id "g64";
+NODE_53219	AUGUSTUS	gene	955	3216	0.99	+	.	NODE_53219.g7.t1.Methyltransf_33
+NODE_53219	AUGUSTUS	transcript	955	3216	0.99	+	.	NODE_53219.g7.t1.Methyltransf_33.t1
+NODE_53219	AUGUSTUS	start_codon	955	957	.	+	0	transcript_id NODE_53219.g7.t1.Methyltransf_33; gene_id "NODE_53219.g7.t1.Methyltransf_33";
+NODE_53219	AUGUSTUS	single	955	3216	0.99	+	0	transcript_id NODE_53219.g7.t1.Methyltransf_33; gene_id "NODE_53219.g7.t1.Methyltransf_33";
+NODE_53219	AUGUSTUS	CDS	955	3216	0.99	+	0	transcript_id NODE_53219.g7.t1.Methyltransf_33; gene_id "NODE_53219.g7.t1.Methyltransf_33";
+NODE_53219	AUGUSTUS	stop_codon	3214	3216	.	+	0	transcript_id NODE_53219.g7.t1.Methyltransf_33; gene_id "NODE_53219.g7.t1.Methyltransf_33";
+NODE_137271	AUGUSTUS	gene	1181	2115	0.83	-	.	NODE_137271.g39.t1.p450
+NODE_137271	AUGUSTUS	transcript	1181	2115	0.83	-	.	NODE_137271.g39.t1.p450.t1
+NODE_137271	AUGUSTUS	stop_codon	1181	1183	.	-	0	transcript_id NODE_137271.g39.t1.p450; gene_id "NODE_137271.g39.t1.p450";
+NODE_137271	AUGUSTUS	terminal	1181	2115	0.83	-	2	transcript_id NODE_137271.g39.t1.p450; gene_id "NODE_137271.g39.t1.p450";
+NODE_137271	AUGUSTUS	CDS	1181	2115	0.83	-	2	transcript_id NODE_137271.g39.t1.p450; gene_id "NODE_137271.g39.t1.p450";
+NODE_272192	AUGUSTUS	gene	2	1000	0.55	-	.	NODE_272192.g32.t1.p450
+NODE_272192	AUGUSTUS	transcript	2	1000	0.55	-	.	NODE_272192.g32.t1.p450.t1
+NODE_272192	AUGUSTUS	internal	2	157	0.69	-	0	transcript_id NODE_272192.g32.t1.p450; gene_id "NODE_272192.g32.t1.p450";
+NODE_272192	AUGUSTUS	internal	217	585	0.78	-	0	transcript_id NODE_272192.g32.t1.p450; gene_id "NODE_272192.g32.t1.p450";
+NODE_272192	AUGUSTUS	internal	636	1000	0.92	-	2	transcript_id NODE_272192.g32.t1.p450; gene_id "NODE_272192.g32.t1.p450";
+NODE_272192	AUGUSTUS	intron	158	216	0.83	-	.	transcript_id NODE_272192.g32.t1.p450; gene_id "NODE_272192.g32.t1.p450";
+NODE_272192	AUGUSTUS	intron	586	635	0.83	-	.	transcript_id NODE_272192.g32.t1.p450; gene_id "NODE_272192.g32.t1.p450";
+NODE_272192	AUGUSTUS	CDS	2	157	0.69	-	0	transcript_id NODE_272192.g32.t1.p450; gene_id "NODE_272192.g32.t1.p450";
+NODE_272192	AUGUSTUS	CDS	217	585	0.78	-	0	transcript_id NODE_272192.g32.t1.p450; gene_id "NODE_272192.g32.t1.p450";
+NODE_272192	AUGUSTUS	CDS	636	1000	0.92	-	2	transcript_id NODE_272192.g32.t1.p450; gene_id "NODE_272192.g32.t1.p450";
+NODE_71441	AUGUSTUS	gene	1	1173	0.59	-	.	NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31
+NODE_71441	AUGUSTUS	transcript	1	1173	0.59	-	.	NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31.t1
+NODE_71441	AUGUSTUS	internal	61	629	0.72	-	2	transcript_id NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31; gene_id "NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31";
+NODE_71441	AUGUSTUS	internal	851	988	0.75	-	2	transcript_id NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31; gene_id "NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31";
+NODE_71441	AUGUSTUS	initial	1038	1173	1	-	0	transcript_id NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31; gene_id "NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31";
+NODE_71441	AUGUSTUS	intron	1	60	1	-	.	transcript_id NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31; gene_id "NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31";
+NODE_71441	AUGUSTUS	intron	630	850	0.59	-	.	transcript_id NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31; gene_id "NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31";
+NODE_71441	AUGUSTUS	intron	989	1037	0.76	-	.	transcript_id NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31; gene_id "NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31";
+NODE_71441	AUGUSTUS	CDS	61	629	0.72	-	2	transcript_id NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31; gene_id "NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31";
+NODE_71441	AUGUSTUS	CDS	851	988	0.75	-	2	transcript_id NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31; gene_id "NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31";
+NODE_71441	AUGUSTUS	CDS	1038	1173	1	-	0	transcript_id NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31; gene_id "NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31";
+NODE_71441	AUGUSTUS	start_codon	1171	1173	.	-	0	transcript_id NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31; gene_id "NODE_71441.g1.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_32.Methyltransf_10.Methyltransf_31";
+NODE_71441	AUGUSTUS	gene	1539	2476	0.51	+	.	g2
+NODE_71441	AUGUSTUS	transcript	1539	2476	0.51	+	.	g2.t1
+NODE_71441	AUGUSTUS	start_codon	1539	1541	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_71441	AUGUSTUS	initial	1539	1571	0.83	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_71441	AUGUSTUS	internal	1634	1896	0.55	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_71441	AUGUSTUS	terminal	2299	2476	0.59	+	1	transcript_id "g2.t1"; gene_id "g2";
+NODE_71441	AUGUSTUS	intron	1572	1633	0.83	+	.	transcript_id "g2.t1"; gene_id "g2";
+NODE_71441	AUGUSTUS	intron	1897	2298	0.59	+	.	transcript_id "g2.t1"; gene_id "g2";
+NODE_71441	AUGUSTUS	CDS	1539	1571	0.83	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_71441	AUGUSTUS	CDS	1634	1896	0.55	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_71441	AUGUSTUS	CDS	2299	2476	0.59	+	1	transcript_id "g2.t1"; gene_id "g2";
+NODE_71441	AUGUSTUS	stop_codon	2474	2476	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_186360	AUGUSTUS	gene	492	1250	0.42	+	.	NODE_186360.g36.t1.p450
+NODE_186360	AUGUSTUS	transcript	492	1250	0.42	+	.	NODE_186360.g36.t1.p450.t1
+NODE_186360	AUGUSTUS	start_codon	492	494	.	+	0	transcript_id NODE_186360.g36.t1.p450; gene_id "NODE_186360.g36.t1.p450";
+NODE_186360	AUGUSTUS	single	492	1250	0.42	+	0	transcript_id NODE_186360.g36.t1.p450; gene_id "NODE_186360.g36.t1.p450";
+NODE_186360	AUGUSTUS	CDS	492	1250	0.42	+	0	transcript_id NODE_186360.g36.t1.p450; gene_id "NODE_186360.g36.t1.p450";
+NODE_186360	AUGUSTUS	stop_codon	1248	1250	.	+	0	transcript_id NODE_186360.g36.t1.p450; gene_id "NODE_186360.g36.t1.p450";
+NODE_87691	AUGUSTUS	gene	1	1867	0.86	+	.	NODE_87691.g54.t1.Pyridoxal_deC
+NODE_87691	AUGUSTUS	transcript	1	1867	0.86	+	.	NODE_87691.g54.t1.Pyridoxal_deC.t1
+NODE_87691	AUGUSTUS	internal	411	1011	0.86	+	1	transcript_id NODE_87691.g54.t1.Pyridoxal_deC; gene_id "NODE_87691.g54.t1.Pyridoxal_deC";
+NODE_87691	AUGUSTUS	terminal	1058	1867	1	+	0	transcript_id NODE_87691.g54.t1.Pyridoxal_deC; gene_id "NODE_87691.g54.t1.Pyridoxal_deC";
+NODE_87691	AUGUSTUS	intron	1	410	0.87	+	.	transcript_id NODE_87691.g54.t1.Pyridoxal_deC; gene_id "NODE_87691.g54.t1.Pyridoxal_deC";
+NODE_87691	AUGUSTUS	intron	1012	1057	0.99	+	.	transcript_id NODE_87691.g54.t1.Pyridoxal_deC; gene_id "NODE_87691.g54.t1.Pyridoxal_deC";
+NODE_87691	AUGUSTUS	CDS	411	1011	0.86	+	1	transcript_id NODE_87691.g54.t1.Pyridoxal_deC; gene_id "NODE_87691.g54.t1.Pyridoxal_deC";
+NODE_87691	AUGUSTUS	CDS	1058	1867	1	+	0	transcript_id NODE_87691.g54.t1.Pyridoxal_deC; gene_id "NODE_87691.g54.t1.Pyridoxal_deC";
+NODE_87691	AUGUSTUS	stop_codon	1865	1867	.	+	0	transcript_id NODE_87691.g54.t1.Pyridoxal_deC; gene_id "NODE_87691.g54.t1.Pyridoxal_deC";
+NODE_35633	AUGUSTUS	gene	2993	4081	0.99	+	.	NODE_35633.g48.t1.p450
+NODE_35633	AUGUSTUS	transcript	2993	4081	0.99	+	.	NODE_35633.g48.t1.p450.t1
+NODE_35633	AUGUSTUS	start_codon	2993	2995	.	+	0	transcript_id NODE_35633.g48.t1.p450; gene_id "NODE_35633.g48.t1.p450";
+NODE_35633	AUGUSTUS	single	2993	4081	0.99	+	0	transcript_id NODE_35633.g48.t1.p450; gene_id "NODE_35633.g48.t1.p450";
+NODE_35633	AUGUSTUS	CDS	2993	4081	0.99	+	0	transcript_id NODE_35633.g48.t1.p450; gene_id "NODE_35633.g48.t1.p450";
+NODE_35633	AUGUSTUS	stop_codon	4079	4081	.	+	0	transcript_id NODE_35633.g48.t1.p450; gene_id "NODE_35633.g48.t1.p450";
+NODE_244346	AUGUSTUS	gene	1	549	0.27	+	.	g59
+NODE_244346	AUGUSTUS	transcript	1	549	0.27	+	.	g59.t1
+NODE_244346	AUGUSTUS	internal	1	285	0.78	+	0	transcript_id "g59.t1"; gene_id "g59";
+NODE_244346	AUGUSTUS	internal	346	378	0.3	+	0	transcript_id "g59.t1"; gene_id "g59";
+NODE_244346	AUGUSTUS	terminal	436	549	0.77	+	0	transcript_id "g59.t1"; gene_id "g59";
+NODE_244346	AUGUSTUS	intron	286	345	0.63	+	.	transcript_id "g59.t1"; gene_id "g59";
+NODE_244346	AUGUSTUS	intron	379	435	0.3	+	.	transcript_id "g59.t1"; gene_id "g59";
+NODE_244346	AUGUSTUS	CDS	1	285	0.78	+	0	transcript_id "g59.t1"; gene_id "g59";
+NODE_244346	AUGUSTUS	CDS	346	378	0.3	+	0	transcript_id "g59.t1"; gene_id "g59";
+NODE_244346	AUGUSTUS	CDS	436	549	0.77	+	0	transcript_id "g59.t1"; gene_id "g59";
+NODE_244346	AUGUSTUS	stop_codon	547	549	.	+	0	transcript_id "g59.t1"; gene_id "g59";
+NODE_124027	AUGUSTUS	gene	203	1177	0.97	-	.	NODE_124027.g35.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_18.Methyltransf_4
+NODE_124027	AUGUSTUS	transcript	203	1177	0.97	-	.	NODE_124027.g35.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_18.Methyltransf_4.t1
+NODE_124027	AUGUSTUS	stop_codon	203	205	.	-	0	transcript_id NODE_124027.g35.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_18.Methyltransf_4; gene_id "NODE_124027.g35.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_18.Methyltransf_4";
+NODE_124027	AUGUSTUS	single	203	1177	0.97	-	0	transcript_id NODE_124027.g35.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_18.Methyltransf_4; gene_id "NODE_124027.g35.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_18.Methyltransf_4";
+NODE_124027	AUGUSTUS	CDS	203	1177	0.97	-	0	transcript_id NODE_124027.g35.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_18.Methyltransf_4; gene_id "NODE_124027.g35.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_18.Methyltransf_4";
+NODE_124027	AUGUSTUS	start_codon	1175	1177	.	-	0	transcript_id NODE_124027.g35.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_18.Methyltransf_4; gene_id "NODE_124027.g35.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_18.Methyltransf_4";
+NODE_266999	AUGUSTUS	gene	1	559	0.95	+	.	NODE_266999.g31.t1.p450
+NODE_266999	AUGUSTUS	transcript	1	559	0.95	+	.	NODE_266999.g31.t1.p450.t1
+NODE_266999	AUGUSTUS	terminal	1	559	0.95	+	1	transcript_id NODE_266999.g31.t1.p450; gene_id "NODE_266999.g31.t1.p450";
+NODE_266999	AUGUSTUS	CDS	1	559	0.95	+	1	transcript_id NODE_266999.g31.t1.p450; gene_id "NODE_266999.g31.t1.p450";
+NODE_266999	AUGUSTUS	stop_codon	557	559	.	+	0	transcript_id NODE_266999.g31.t1.p450; gene_id "NODE_266999.g31.t1.p450";
+NODE_88867	AUGUSTUS	gene	1	1834	0.49	+	.	NODE_88867.g6.t1.p450
+NODE_88867	AUGUSTUS	transcript	1	1834	0.49	+	.	NODE_88867.g6.t1.p450.t1
+NODE_88867	AUGUSTUS	internal	345	991	0.99	+	2	transcript_id NODE_88867.g6.t1.p450; gene_id "NODE_88867.g6.t1.p450";
+NODE_88867	AUGUSTUS	internal	1059	1627	0.61	+	0	transcript_id NODE_88867.g6.t1.p450; gene_id "NODE_88867.g6.t1.p450";
+NODE_88867	AUGUSTUS	terminal	1678	1834	0.63	+	1	transcript_id NODE_88867.g6.t1.p450; gene_id "NODE_88867.g6.t1.p450";
+NODE_88867	AUGUSTUS	intron	1	344	0.84	+	.	transcript_id NODE_88867.g6.t1.p450; gene_id "NODE_88867.g6.t1.p450";
+NODE_88867	AUGUSTUS	intron	992	1058	0.97	+	.	transcript_id NODE_88867.g6.t1.p450; gene_id "NODE_88867.g6.t1.p450";
+NODE_88867	AUGUSTUS	intron	1628	1677	0.63	+	.	transcript_id NODE_88867.g6.t1.p450; gene_id "NODE_88867.g6.t1.p450";
+NODE_88867	AUGUSTUS	CDS	345	991	0.99	+	2	transcript_id NODE_88867.g6.t1.p450; gene_id "NODE_88867.g6.t1.p450";
+NODE_88867	AUGUSTUS	CDS	1059	1627	0.61	+	0	transcript_id NODE_88867.g6.t1.p450; gene_id "NODE_88867.g6.t1.p450";
+NODE_88867	AUGUSTUS	CDS	1678	1834	0.63	+	1	transcript_id NODE_88867.g6.t1.p450; gene_id "NODE_88867.g6.t1.p450";
+NODE_88867	AUGUSTUS	stop_codon	1832	1834	.	+	0	transcript_id NODE_88867.g6.t1.p450; gene_id "NODE_88867.g6.t1.p450";
+NODE_124553	AUGUSTUS	gene	721	2078	0.14	+	.	NODE_124553.g15.t1.p450
+NODE_124553	AUGUSTUS	transcript	721	2078	0.14	+	.	NODE_124553.g15.t1.p450.t1
+NODE_124553	AUGUSTUS	start_codon	721	723	.	+	0	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_124553	AUGUSTUS	initial	721	884	0.77	+	0	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_124553	AUGUSTUS	internal	1210	1243	0.2	+	1	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_124553	AUGUSTUS	internal	1304	1720	0.95	+	0	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_124553	AUGUSTUS	terminal	1800	2078	1	+	0	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_124553	AUGUSTUS	intron	885	1209	0.2	+	.	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_124553	AUGUSTUS	intron	1244	1303	0.27	+	.	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_124553	AUGUSTUS	intron	1721	1799	1	+	.	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_124553	AUGUSTUS	CDS	721	884	0.77	+	0	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_124553	AUGUSTUS	CDS	1210	1243	0.2	+	1	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_124553	AUGUSTUS	CDS	1304	1720	0.95	+	0	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_124553	AUGUSTUS	CDS	1800	2078	1	+	0	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_124553	AUGUSTUS	stop_codon	2076	2078	.	+	0	transcript_id NODE_124553.g15.t1.p450; gene_id "NODE_124553.g15.t1.p450";
+NODE_68678	AUGUSTUS	gene	1	2391	0.22	+	.	NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3
+NODE_68678	AUGUSTUS	transcript	1	2391	0.22	+	.	NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3.t1
+NODE_68678	AUGUSTUS	internal	600	766	0.98	+	2	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	internal	813	917	0.9	+	0	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	internal	963	1255	0.58	+	0	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	internal	1846	2049	0.72	+	1	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	terminal	2280	2391	0.69	+	1	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	intron	1	599	0.8	+	.	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	intron	767	812	0.9	+	.	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	intron	918	962	0.79	+	.	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	intron	1256	1845	0.61	+	.	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	intron	2050	2279	0.61	+	.	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	CDS	600	766	0.98	+	2	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	CDS	813	917	0.9	+	0	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	CDS	963	1255	0.58	+	0	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	CDS	1846	2049	0.72	+	1	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	CDS	2280	2391	0.69	+	1	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_68678	AUGUSTUS	stop_codon	2389	2391	.	+	0	transcript_id NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3; gene_id "NODE_68678.g40.t1.Methyltransf_24.Methyltransf_3";
+NODE_109982	AUGUSTUS	gene	733	1715	0.34	+	.	NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32
+NODE_109982	AUGUSTUS	transcript	733	1715	0.34	+	.	NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32
+NODE_109982	AUGUSTUS	start_codon	733	735	.	+	0	transcript_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32"; gene_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32";
+NODE_109982	AUGUSTUS	initial	733	1107	0.9	+	0	transcript_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32"; gene_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32";
+NODE_109982	AUGUSTUS	terminal	1164	1715	0.35	+	0	transcript_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32"; gene_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32";
+NODE_109982	AUGUSTUS	intron	1108	1163	0.48	+	.	transcript_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32"; gene_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32";
+NODE_109982	AUGUSTUS	CDS	733	1107	0.9	+	0	transcript_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32"; gene_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32";
+NODE_109982	AUGUSTUS	CDS	1164	1715	0.35	+	0	transcript_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32"; gene_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32";
+NODE_109982	AUGUSTUS	stop_codon	1713	1715	.	+	0	transcript_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32"; gene_id "NODE_109982.g44+g45.t1.Methyltransf_23.Methyltransf_32";
+NODE_87301	AUGUSTUS	gene	726	1820	0.43	-	.	NODE_87301.g60.t1.p450
+NODE_87301	AUGUSTUS	transcript	726	1820	0.43	-	.	NODE_87301.g60.t1.p450.t1
+NODE_87301	AUGUSTUS	stop_codon	726	728	.	-	0	transcript_id NODE_87301.g60.t1.p450; gene_id "NODE_87301.g60.t1.p450";
+NODE_87301	AUGUSTUS	single	726	1820	0.43	-	0	transcript_id NODE_87301.g60.t1.p450; gene_id "NODE_87301.g60.t1.p450";
+NODE_87301	AUGUSTUS	CDS	726	1820	0.43	-	0	transcript_id NODE_87301.g60.t1.p450; gene_id "NODE_87301.g60.t1.p450";
+NODE_87301	AUGUSTUS	start_codon	1818	1820	.	-	0	transcript_id NODE_87301.g60.t1.p450; gene_id "NODE_87301.g60.t1.p450";
+NODE_145958	AUGUSTUS	gene	153	1565	0.8	-	.	NODE_145958.g53.t1.p450
+NODE_145958	AUGUSTUS	transcript	153	1565	0.8	-	.	NODE_145958.g53.t1.p450.t1
+NODE_145958	AUGUSTUS	stop_codon	153	155	.	-	0	transcript_id NODE_145958.g53.t1.p450; gene_id "NODE_145958.g53.t1.p450";
+NODE_145958	AUGUSTUS	single	153	1565	0.8	-	0	transcript_id NODE_145958.g53.t1.p450; gene_id "NODE_145958.g53.t1.p450";
+NODE_145958	AUGUSTUS	CDS	153	1565	0.8	-	0	transcript_id NODE_145958.g53.t1.p450; gene_id "NODE_145958.g53.t1.p450";
+NODE_145958	AUGUSTUS	start_codon	1563	1565	.	-	0	transcript_id NODE_145958.g53.t1.p450; gene_id "NODE_145958.g53.t1.p450";
+NODE_212826	AUGUSTUS	gene	5	1360	0.8	+	.	NODE_212826.g49.t1.p450
+NODE_212826	AUGUSTUS	transcript	5	1360	0.8	+	.	NODE_212826.g49.t1.p450.t1
+NODE_212826	AUGUSTUS	start_codon	5	7	.	+	0	transcript_id NODE_212826.g49.t1.p450; gene_id "NODE_212826.g49.t1.p450";
+NODE_212826	AUGUSTUS	single	5	1360	0.8	+	0	transcript_id NODE_212826.g49.t1.p450; gene_id "NODE_212826.g49.t1.p450";
+NODE_212826	AUGUSTUS	CDS	5	1360	0.8	+	0	transcript_id NODE_212826.g49.t1.p450; gene_id "NODE_212826.g49.t1.p450";
+NODE_212826	AUGUSTUS	stop_codon	1358	1360	.	+	0	transcript_id NODE_212826.g49.t1.p450; gene_id "NODE_212826.g49.t1.p450";
+NODE_54116	AUGUSTUS	gene	1205	1645	0.47	+	.	NODE_54116.g51.t1.p450
+NODE_54116	AUGUSTUS	transcript	1205	1645	0.47	+	.	NODE_54116.g51.t1.p450.t1
+NODE_54116	AUGUSTUS	start_codon	1205	1207	.	+	0	transcript_id NODE_54116.g51.t1.p450; gene_id "NODE_54116.g51.t1.p450";
+NODE_54116	AUGUSTUS	single	1205	1645	0.47	+	0	transcript_id NODE_54116.g51.t1.p450; gene_id "NODE_54116.g51.t1.p450";
+NODE_54116	AUGUSTUS	CDS	1205	1645	0.47	+	0	transcript_id NODE_54116.g51.t1.p450; gene_id "NODE_54116.g51.t1.p450";
+NODE_54116	AUGUSTUS	stop_codon	1643	1645	.	+	0	transcript_id NODE_54116.g51.t1.p450; gene_id "NODE_54116.g51.t1.p450";
+NODE_96706	AUGUSTUS	gene	1	1071	0.38	-	.	NODE_96706.g42.t1.Pyridoxal_deC
+NODE_96706	AUGUSTUS	transcript	1	1071	0.38	-	.	NODE_96706.g42.t1.Pyridoxal_deC.t1
+NODE_96706	AUGUSTUS	internal	185	640	0.43	-	0	transcript_id NODE_96706.g42.t1.Pyridoxal_deC; gene_id "NODE_96706.g42.t1.Pyridoxal_deC";
+NODE_96706	AUGUSTUS	initial	700	1071	0.86	-	0	transcript_id NODE_96706.g42.t1.Pyridoxal_deC; gene_id "NODE_96706.g42.t1.Pyridoxal_deC";
+NODE_96706	AUGUSTUS	intron	1	184	0.43	-	.	transcript_id NODE_96706.g42.t1.Pyridoxal_deC; gene_id "NODE_96706.g42.t1.Pyridoxal_deC";
+NODE_96706	AUGUSTUS	intron	641	699	0.88	-	.	transcript_id NODE_96706.g42.t1.Pyridoxal_deC; gene_id "NODE_96706.g42.t1.Pyridoxal_deC";
+NODE_96706	AUGUSTUS	CDS	185	640	0.43	-	0	transcript_id NODE_96706.g42.t1.Pyridoxal_deC; gene_id "NODE_96706.g42.t1.Pyridoxal_deC";
+NODE_96706	AUGUSTUS	CDS	700	1071	0.86	-	0	transcript_id NODE_96706.g42.t1.Pyridoxal_deC; gene_id "NODE_96706.g42.t1.Pyridoxal_deC";
+NODE_96706	AUGUSTUS	start_codon	1069	1071	.	-	0	transcript_id NODE_96706.g42.t1.Pyridoxal_deC; gene_id "NODE_96706.g42.t1.Pyridoxal_deC";
+NODE_264888	AUGUSTUS	gene	1	907	0.28	-	.	NODE_264888.g22.t1.p450
+NODE_264888	AUGUSTUS	transcript	1	907	0.28	-	.	NODE_264888.g22.t1.p450.t1
+NODE_264888	AUGUSTUS	internal	43	547	0.5	-	1	transcript_id NODE_264888.g22.t1.p450; gene_id "NODE_264888.g22.t1.p450";
+NODE_264888	AUGUSTUS	initial	603	907	0.52	-	0	transcript_id NODE_264888.g22.t1.p450; gene_id "NODE_264888.g22.t1.p450";
+NODE_264888	AUGUSTUS	intron	1	42	0.56	-	.	transcript_id NODE_264888.g22.t1.p450; gene_id "NODE_264888.g22.t1.p450";
+NODE_264888	AUGUSTUS	intron	548	602	0.69	-	.	transcript_id NODE_264888.g22.t1.p450; gene_id "NODE_264888.g22.t1.p450";
+NODE_264888	AUGUSTUS	CDS	43	547	0.5	-	1	transcript_id NODE_264888.g22.t1.p450; gene_id "NODE_264888.g22.t1.p450";
+NODE_264888	AUGUSTUS	CDS	603	907	0.52	-	0	transcript_id NODE_264888.g22.t1.p450; gene_id "NODE_264888.g22.t1.p450";
+NODE_264888	AUGUSTUS	start_codon	905	907	.	-	0	transcript_id NODE_264888.g22.t1.p450; gene_id "NODE_264888.g22.t1.p450";
+NODE_87070	AUGUSTUS	gene	579	1964	0.97	+	.	NODE_87070.g61.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31
+NODE_87070	AUGUSTUS	transcript	579	1964	0.97	+	.	NODE_87070.g61.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.t1
+NODE_87070	AUGUSTUS	start_codon	579	581	.	+	0	transcript_id NODE_87070.g61.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_87070.g61.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_87070	AUGUSTUS	single	579	1964	0.97	+	0	transcript_id NODE_87070.g61.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_87070.g61.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_87070	AUGUSTUS	CDS	579	1964	0.97	+	0	transcript_id NODE_87070.g61.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_87070.g61.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_87070	AUGUSTUS	stop_codon	1962	1964	.	+	0	transcript_id NODE_87070.g61.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_87070.g61.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_237138	AUGUSTUS	gene	537	1199	0.71	+	.	NODE_237138.g50.t1.p450
+NODE_237138	AUGUSTUS	transcript	537	1199	0.71	+	.	NODE_237138.g50.t1.p450.t1
+NODE_237138	AUGUSTUS	start_codon	537	539	.	+	0	transcript_id NODE_237138.g50.t1.p450; gene_id "NODE_237138.g50.t1.p450";
+NODE_237138	AUGUSTUS	initial	537	1199	0.71	+	0	transcript_id NODE_237138.g50.t1.p450; gene_id "NODE_237138.g50.t1.p450";
+NODE_237138	AUGUSTUS	CDS	537	1199	0.71	+	0	transcript_id NODE_237138.g50.t1.p450; gene_id "NODE_237138.g50.t1.p450";
+NODE_107499	AUGUSTUS	gene	821	2092	0.98	-	.	NODE_107499.g9.t1.p450
+NODE_107499	AUGUSTUS	transcript	821	2092	0.98	-	.	NODE_107499.g9.t1.p450.t1
+NODE_107499	AUGUSTUS	stop_codon	821	823	.	-	0	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_107499	AUGUSTUS	terminal	821	963	1	-	2	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_107499	AUGUSTUS	internal	1008	1190	1	-	2	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_107499	AUGUSTUS	internal	1241	2024	1	-	0	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_107499	AUGUSTUS	initial	2078	2092	0.98	-	0	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_107499	AUGUSTUS	intron	964	1007	1	-	.	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_107499	AUGUSTUS	intron	1191	1240	1	-	.	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_107499	AUGUSTUS	intron	2025	2077	0.99	-	.	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_107499	AUGUSTUS	CDS	821	963	1	-	2	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_107499	AUGUSTUS	CDS	1008	1190	1	-	2	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_107499	AUGUSTUS	CDS	1241	2024	1	-	0	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_107499	AUGUSTUS	CDS	2078	2092	0.98	-	0	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_107499	AUGUSTUS	start_codon	2090	2092	.	-	0	transcript_id NODE_107499.g9.t1.p450; gene_id "NODE_107499.g9.t1.p450";
+NODE_173838	AUGUSTUS	gene	587	937	0.18	-	.	NODE_173838.g30.t1.Methyltransf_3
+NODE_173838	AUGUSTUS	transcript	587	937	0.18	-	.	NODE_173838.g30.t1.Methyltransf_3.t1
+NODE_173838	AUGUSTUS	stop_codon	587	589	.	-	0	transcript_id NODE_173838.g30.t1.Methyltransf_3; gene_id "NODE_173838.g30.t1.Methyltransf_3";
+NODE_173838	AUGUSTUS	single	587	937	0.18	-	0	transcript_id NODE_173838.g30.t1.Methyltransf_3; gene_id "NODE_173838.g30.t1.Methyltransf_3";
+NODE_173838	AUGUSTUS	CDS	587	937	0.18	-	0	transcript_id NODE_173838.g30.t1.Methyltransf_3; gene_id "NODE_173838.g30.t1.Methyltransf_3";
+NODE_173838	AUGUSTUS	start_codon	935	937	.	-	0	transcript_id NODE_173838.g30.t1.Methyltransf_3; gene_id "NODE_173838.g30.t1.Methyltransf_3";
+NODE_76190	AUGUSTUS	gene	1109	2318	0.81	-	.	NODE_76190.g29.t1.Pyridoxal_deC
+NODE_76190	AUGUSTUS	transcript	1109	2318	0.81	-	.	NODE_76190.g29.t1.Pyridoxal_deC.t1
+NODE_76190	AUGUSTUS	stop_codon	1109	1111	.	-	0	transcript_id NODE_76190.g29.t1.Pyridoxal_deC; gene_id "NODE_76190.g29.t1.Pyridoxal_deC";
+NODE_76190	AUGUSTUS	terminal	1109	2119	0.89	-	0	transcript_id NODE_76190.g29.t1.Pyridoxal_deC; gene_id "NODE_76190.g29.t1.Pyridoxal_deC";
+NODE_76190	AUGUSTUS	initial	2163	2318	0.81	-	0	transcript_id NODE_76190.g29.t1.Pyridoxal_deC; gene_id "NODE_76190.g29.t1.Pyridoxal_deC";
+NODE_76190	AUGUSTUS	intron	2120	2162	0.86	-	.	transcript_id NODE_76190.g29.t1.Pyridoxal_deC; gene_id "NODE_76190.g29.t1.Pyridoxal_deC";
+NODE_76190	AUGUSTUS	CDS	1109	2119	0.89	-	0	transcript_id NODE_76190.g29.t1.Pyridoxal_deC; gene_id "NODE_76190.g29.t1.Pyridoxal_deC";
+NODE_76190	AUGUSTUS	CDS	2163	2318	0.81	-	0	transcript_id NODE_76190.g29.t1.Pyridoxal_deC; gene_id "NODE_76190.g29.t1.Pyridoxal_deC";
+NODE_76190	AUGUSTUS	start_codon	2316	2318	.	-	0	transcript_id NODE_76190.g29.t1.Pyridoxal_deC; gene_id "NODE_76190.g29.t1.Pyridoxal_deC";
+NODE_184962	AUGUSTUS	gene	2	335	0.44	-	.	NODE_184962.g26.t1.p450
+NODE_184962	AUGUSTUS	transcript	2	335	0.44	-	.	NODE_184962.g26.t1.p450.t1
+NODE_184962	AUGUSTUS	initial	2	335	0.44	-	0	transcript_id NODE_184962.g26.t1.p450; gene_id "NODE_184962.g26.t1.p450";
+NODE_184962	AUGUSTUS	CDS	2	335	0.44	-	0	transcript_id NODE_184962.g26.t1.p450; gene_id "NODE_184962.g26.t1.p450";
+NODE_184962	AUGUSTUS	start_codon	333	335	.	-	0	transcript_id NODE_184962.g26.t1.p450; gene_id "NODE_184962.g26.t1.p450";
+NODE_27055	AUGUSTUS	gene	3057	4127	1	-	.	NODE_27055.g14.t1.Methyltransf_33
+NODE_27055	AUGUSTUS	transcript	3057	4127	1	-	.	NODE_27055.g14.t1.Methyltransf_33.t1
+NODE_27055	AUGUSTUS	stop_codon	3057	3059	.	-	0	transcript_id NODE_27055.g14.t1.Methyltransf_33; gene_id "NODE_27055.g14.t1.Methyltransf_33";
+NODE_27055	AUGUSTUS	single	3057	4127	1	-	0	transcript_id NODE_27055.g14.t1.Methyltransf_33; gene_id "NODE_27055.g14.t1.Methyltransf_33";
+NODE_27055	AUGUSTUS	CDS	3057	4127	1	-	0	transcript_id NODE_27055.g14.t1.Methyltransf_33; gene_id "NODE_27055.g14.t1.Methyltransf_33";
+NODE_27055	AUGUSTUS	start_codon	4125	4127	.	-	0	transcript_id NODE_27055.g14.t1.Methyltransf_33; gene_id "NODE_27055.g14.t1.Methyltransf_33";
+NODE_165864	AUGUSTUS	gene	79	1092	0.85	-	.	NODE_165864.g33.t1.Methyltransf_11.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_10
+NODE_165864	AUGUSTUS	transcript	79	1092	0.85	-	.	NODE_165864.g33.t1.Methyltransf_11.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_10.t1
+NODE_165864	AUGUSTUS	stop_codon	79	81	.	-	0	transcript_id NODE_165864.g33.t1.Methyltransf_11.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_10; gene_id "NODE_165864.g33.t1.Methyltransf_11.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_10";
+NODE_165864	AUGUSTUS	single	79	1092	0.85	-	0	transcript_id NODE_165864.g33.t1.Methyltransf_11.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_10; gene_id "NODE_165864.g33.t1.Methyltransf_11.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_10";
+NODE_165864	AUGUSTUS	CDS	79	1092	0.85	-	0	transcript_id NODE_165864.g33.t1.Methyltransf_11.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_10; gene_id "NODE_165864.g33.t1.Methyltransf_11.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_10";
+NODE_165864	AUGUSTUS	start_codon	1090	1092	.	-	0	transcript_id NODE_165864.g33.t1.Methyltransf_11.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_10; gene_id "NODE_165864.g33.t1.Methyltransf_11.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.Methyltransf_10";
+NODE_130318	AUGUSTUS	gene	1	1836	0.44	-	.	NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31
+NODE_130318	AUGUSTUS	transcript	1	1836	0.44	-	.	NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31.t1
+NODE_130318	AUGUSTUS	internal	576	780	0.81	-	2	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_130318	AUGUSTUS	internal	963	1100	0.98	-	2	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_130318	AUGUSTUS	internal	1370	1611	0.67	-	1	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_130318	AUGUSTUS	initial	1703	1836	0.69	-	0	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_130318	AUGUSTUS	intron	1	575	0.67	-	.	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_130318	AUGUSTUS	intron	781	962	0.99	-	.	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_130318	AUGUSTUS	intron	1101	1369	0.99	-	.	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_130318	AUGUSTUS	intron	1612	1702	0.67	-	.	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_130318	AUGUSTUS	CDS	576	780	0.81	-	2	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_130318	AUGUSTUS	CDS	963	1100	0.98	-	2	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_130318	AUGUSTUS	CDS	1370	1611	0.67	-	1	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_130318	AUGUSTUS	CDS	1703	1836	0.69	-	0	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_130318	AUGUSTUS	start_codon	1834	1836	.	-	0	transcript_id NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31; gene_id "NODE_130318.g52.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	gene	1	1977	0.41	-	.	NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31
+NODE_91507	AUGUSTUS	transcript	1	1977	0.41	-	.	NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31.t1
+NODE_91507	AUGUSTUS	internal	86	140	0.62	-	2	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	internal	200	236	0.83	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	internal	601	729	0.79	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	internal	770	976	0.93	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	internal	1135	1358	0.84	-	2	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	internal	1398	1416	1	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	internal	1468	1593	1	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	initial	1726	1977	0.97	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	intron	1	85	0.61	-	.	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	intron	141	199	0.85	-	.	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	intron	237	600	0.76	-	.	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	intron	730	769	1	-	.	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	intron	977	1134	0.84	-	.	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	intron	1359	1397	1	-	.	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	intron	1417	1467	1	-	.	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	intron	1594	1725	1	-	.	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	CDS	86	140	0.62	-	2	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	CDS	200	236	0.83	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	CDS	601	729	0.79	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	CDS	770	976	0.93	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	CDS	1135	1358	0.84	-	2	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	CDS	1398	1416	1	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	CDS	1468	1593	1	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	CDS	1726	1977	0.97	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_91507	AUGUSTUS	start_codon	1975	1977	.	-	0	transcript_id NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31; gene_id "NODE_91507.g37.t1.Methyltransf_11.MTS.Methyltransf_25.Methyltransf_23.Methyltransf_15.Methyltransf_12.Methyltransf_31";
+NODE_129504	AUGUSTUS	gene	989	1321	0.92	+	.	g23
+NODE_129504	AUGUSTUS	transcript	989	1321	0.92	+	.	g23.t1
+NODE_129504	AUGUSTUS	start_codon	989	991	.	+	0	transcript_id "g23.t1"; gene_id "g23";
+NODE_129504	AUGUSTUS	single	989	1321	0.92	+	0	transcript_id "g23.t1"; gene_id "g23";
+NODE_129504	AUGUSTUS	CDS	989	1321	0.92	+	0	transcript_id "g23.t1"; gene_id "g23";
+NODE_129504	AUGUSTUS	stop_codon	1319	1321	.	+	0	transcript_id "g23.t1"; gene_id "g23";
+NODE_174346	AUGUSTUS	gene	2	826	0.29	-	.	NODE_174346.g4.t1.p450
+NODE_174346	AUGUSTUS	transcript	2	826	0.29	-	.	NODE_174346.g4.t1.p450.t1
+NODE_174346	AUGUSTUS	initial	2	826	0.29	-	0	transcript_id NODE_174346.g4.t1.p450; gene_id "NODE_174346.g4.t1.p450";
+NODE_174346	AUGUSTUS	CDS	2	826	0.29	-	0	transcript_id NODE_174346.g4.t1.p450; gene_id "NODE_174346.g4.t1.p450";
+NODE_174346	AUGUSTUS	start_codon	824	826	.	-	0	transcript_id NODE_174346.g4.t1.p450; gene_id "NODE_174346.g4.t1.p450";
+NODE_26378	AUGUSTUS	gene	1	936	0.96	+	.	NODE_26378.g8.t1.Methyltransf_11.Methyltransf_8.Methyltransf_25.Methyltransf_31
+NODE_26378	AUGUSTUS	transcript	1	936	0.96	+	.	NODE_26378.g8.t1.Methyltransf_11.Methyltransf_8.Methyltransf_25.Methyltransf_31.t1
+NODE_26378	AUGUSTUS	terminal	139	936	0.96	+	0	transcript_id NODE_26378.g8.t1.Methyltransf_11.Methyltransf_8.Methyltransf_25.Methyltransf_31; gene_id "NODE_26378.g8.t1.Methyltransf_11.Methyltransf_8.Methyltransf_25.Methyltransf_31";
+NODE_26378	AUGUSTUS	intron	1	138	0.96	+	.	transcript_id NODE_26378.g8.t1.Methyltransf_11.Methyltransf_8.Methyltransf_25.Methyltransf_31; gene_id "NODE_26378.g8.t1.Methyltransf_11.Methyltransf_8.Methyltransf_25.Methyltransf_31";
+NODE_26378	AUGUSTUS	CDS	139	936	0.96	+	0	transcript_id NODE_26378.g8.t1.Methyltransf_11.Methyltransf_8.Methyltransf_25.Methyltransf_31; gene_id "NODE_26378.g8.t1.Methyltransf_11.Methyltransf_8.Methyltransf_25.Methyltransf_31";
+NODE_26378	AUGUSTUS	stop_codon	934	936	.	+	0	transcript_id NODE_26378.g8.t1.Methyltransf_11.Methyltransf_8.Methyltransf_25.Methyltransf_31; gene_id "NODE_26378.g8.t1.Methyltransf_11.Methyltransf_8.Methyltransf_25.Methyltransf_31";
+NODE_155101	AUGUSTUS	gene	941	1815	0.68	+	.	NODE_155101.g5.t1.p450
+NODE_155101	AUGUSTUS	transcript	941	1815	0.68	+	.	NODE_155101.g5.t1.p450.t1
+NODE_155101	AUGUSTUS	start_codon	941	943	.	+	0	transcript_id NODE_155101.g5.t1.p450; gene_id "NODE_155101.g5.t1.p450";
+NODE_155101	AUGUSTUS	initial	941	1507	0.75	+	0	transcript_id NODE_155101.g5.t1.p450; gene_id "NODE_155101.g5.t1.p450";
+NODE_155101	AUGUSTUS	internal	1548	1661	0.93	+	0	transcript_id NODE_155101.g5.t1.p450; gene_id "NODE_155101.g5.t1.p450";
+NODE_155101	AUGUSTUS	terminal	1735	1815	0.92	+	0	transcript_id NODE_155101.g5.t1.p450; gene_id "NODE_155101.g5.t1.p450";
+NODE_155101	AUGUSTUS	intron	1508	1547	0.86	+	.	transcript_id NODE_155101.g5.t1.p450; gene_id "NODE_155101.g5.t1.p450";
+NODE_155101	AUGUSTUS	intron	1662	1734	0.93	+	.	transcript_id NODE_155101.g5.t1.p450; gene_id "NODE_155101.g5.t1.p450";
+NODE_155101	AUGUSTUS	CDS	941	1507	0.75	+	0	transcript_id NODE_155101.g5.t1.p450; gene_id "NODE_155101.g5.t1.p450";
+NODE_155101	AUGUSTUS	CDS	1548	1661	0.93	+	0	transcript_id NODE_155101.g5.t1.p450; gene_id "NODE_155101.g5.t1.p450";
+NODE_155101	AUGUSTUS	CDS	1735	1815	0.92	+	0	transcript_id NODE_155101.g5.t1.p450; gene_id "NODE_155101.g5.t1.p450";
+NODE_155101	AUGUSTUS	stop_codon	1813	1815	.	+	0	transcript_id NODE_155101.g5.t1.p450; gene_id "NODE_155101.g5.t1.p450";
+NODE_138466	AUGUSTUS	gene	1	1259	0.41	+	.	NODE_138466.g34.t1.p450
+NODE_138466	AUGUSTUS	transcript	1	1259	0.41	+	.	NODE_138466.g34.t1.p450.t1
+NODE_138466	AUGUSTUS	terminal	185	1259	0.57	+	1	transcript_id NODE_138466.g34.t1.p450; gene_id "NODE_138466.g34.t1.p450";
+NODE_138466	AUGUSTUS	intron	1	184	0.41	+	.	transcript_id NODE_138466.g34.t1.p450; gene_id "NODE_138466.g34.t1.p450";
+NODE_138466	AUGUSTUS	CDS	185	1259	0.57	+	1	transcript_id NODE_138466.g34.t1.p450; gene_id "NODE_138466.g34.t1.p450";
+NODE_138466	AUGUSTUS	stop_codon	1257	1259	.	+	0	transcript_id NODE_138466.g34.t1.p450; gene_id "NODE_138466.g34.t1.p450";
+NODE_205271	AUGUSTUS	gene	1	1428	0.53	-	.	NODE_205271.g13.t1.p450
+NODE_205271	AUGUSTUS	transcript	1	1428	0.53	-	.	NODE_205271.g13.t1.p450.t1
+NODE_205271	AUGUSTUS	internal	638	800	0.89	-	2	transcript_id NODE_205271.g13.t1.p450; gene_id "NODE_205271.g13.t1.p450";
+NODE_205271	AUGUSTUS	internal	849	1188	0.88	-	0	transcript_id NODE_205271.g13.t1.p450; gene_id "NODE_205271.g13.t1.p450";
+NODE_205271	AUGUSTUS	internal	1248	1428	0.62	-	1	transcript_id NODE_205271.g13.t1.p450; gene_id "NODE_205271.g13.t1.p450";
+NODE_205271	AUGUSTUS	intron	1	637	0.82	-	.	transcript_id NODE_205271.g13.t1.p450; gene_id "NODE_205271.g13.t1.p450";
+NODE_205271	AUGUSTUS	intron	801	848	0.89	-	.	transcript_id NODE_205271.g13.t1.p450; gene_id "NODE_205271.g13.t1.p450";
+NODE_205271	AUGUSTUS	intron	1189	1247	0.99	-	.	transcript_id NODE_205271.g13.t1.p450; gene_id "NODE_205271.g13.t1.p450";
+NODE_205271	AUGUSTUS	CDS	638	800	0.89	-	2	transcript_id NODE_205271.g13.t1.p450; gene_id "NODE_205271.g13.t1.p450";
+NODE_205271	AUGUSTUS	CDS	849	1188	0.88	-	0	transcript_id NODE_205271.g13.t1.p450; gene_id "NODE_205271.g13.t1.p450";
+NODE_205271	AUGUSTUS	CDS	1248	1428	0.62	-	1	transcript_id NODE_205271.g13.t1.p450; gene_id "NODE_205271.g13.t1.p450";
