@@ -1,0 +1,958 @@
+k141_441062	AUGUSTUS	gene	3558	5225	1	-	.	k141_441062.g32.t1.Aminotran_1_2;NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	transcript	3558	5225	1	-	.	k141_441062.g32.t1.Aminotran_1_2.t1;NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	stop_codon	3558	3560	.	-	0	transcript_id k141_441062.g32.t1.Aminotran_1_2; gene_id "k141_441062.g32.t1.Aminotran_1_2";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	single	3558	5225	1	-	0	transcript_id k141_441062.g32.t1.Aminotran_1_2; gene_id "k141_441062.g32.t1.Aminotran_1_2";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	CDS	3558	5225	1	-	0	transcript_id k141_441062.g32.t1.Aminotran_1_2; gene_id "k141_441062.g32.t1.Aminotran_1_2";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	start_codon	5223	5225	.	-	0	transcript_id k141_441062.g32.t1.Aminotran_1_2; gene_id "k141_441062.g32.t1.Aminotran_1_2";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	gene	7207	7677	0.99	-	.	g33;NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	transcript	7207	7677	0.99	-	.	g33.t1;NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	stop_codon	7207	7209	.	-	0	transcript_id "g33.t1"; gene_id "g33";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	single	7207	7677	0.99	-	0	transcript_id "g33.t1"; gene_id "g33";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	CDS	7207	7677	0.99	-	0	transcript_id "g33.t1"; gene_id "g33";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	start_codon	7675	7677	.	-	0	transcript_id "g33.t1"; gene_id "g33";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	gene	7760	8065	0.76	-	.	g34;NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	transcript	7760	8065	0.76	-	.	g34.t1;NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	stop_codon	7760	7762	.	-	0	transcript_id "g34.t1"; gene_id "g34";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	single	7760	8065	0.76	-	0	transcript_id "g34.t1"; gene_id "g34";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	CDS	7760	8065	0.76	-	0	transcript_id "g34.t1"; gene_id "g34";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	start_codon	8063	8065	.	-	0	transcript_id "g34.t1"; gene_id "g34";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	gene	8609	9115	0.73	-	.	g35;NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	transcript	8609	9115	0.73	-	.	g35.t1;NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	stop_codon	8609	8611	.	-	0	transcript_id "g35.t1"; gene_id "g35";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	single	8609	9115	0.73	-	0	transcript_id "g35.t1"; gene_id "g35";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	CDS	8609	9115	0.73	-	0	transcript_id "g35.t1"; gene_id "g35";NOTE=contig not present in NCBI metagenome assembly
+k141_441062	AUGUSTUS	start_codon	9113	9115	.	-	0	transcript_id "g35.t1"; gene_id "g35";NOTE=contig not present in NCBI metagenome assembly
+k141_228622	AUGUSTUS	gene	988	2110	0.66	+	.	k141_228622.g71.t1.Aldo_ket_red;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_228622	AUGUSTUS	transcript	988	2110	0.66	+	.	k141_228622.g71.t1.Aldo_ket_red.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_228622	AUGUSTUS	start_codon	988	990	.	+	0	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_228622	AUGUSTUS	initial	988	1167	1	+	0	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_228622	AUGUSTUS	internal	1233	1405	0.66	+	0	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_228622	AUGUSTUS	internal	220	357	0.98	+	1	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";
+k141_228622	AUGUSTUS	terminal	402	861	1	+	1	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";
+k141_228622	AUGUSTUS	intron	1168	1232	0.7	+	.	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_228622	AUGUSTUS	intron	157	219	0.93	+	.	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";
+k141_228622	AUGUSTUS	intron	358	401	1	+	.	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";
+k141_228622	AUGUSTUS	CDS	988	1167	1	+	0	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_228622	AUGUSTUS	CDS	1233	1405	0.66	+	0	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_228622	AUGUSTUS	CDS	220	357	0.98	+	1	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";
+k141_228622	AUGUSTUS	CDS	402	861	1	+	1	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";
+k141_228622	AUGUSTUS	stop_codon	859	861	.	+	0	transcript_id k141_228622.g71.t1.Aldo_ket_red; gene_id "k141_228622.g71.t1.Aldo_ket_red";
+k141_1195921	AUGUSTUS	gene	41	2201	0.76	-	.	k141_1195921.g55.t1.AMP-binding
+k141_1195921	AUGUSTUS	transcript	41	2201	0.76	-	.	k141_1195921.g55.t1.AMP-binding.t1
+k141_1195921	AUGUSTUS	stop_codon	41	43	.	-	0	transcript_id k141_1195921.g55.t1.AMP-binding; gene_id "k141_1195921.g55.t1.AMP-binding";
+k141_1195921	AUGUSTUS	terminal	41	1050	0.86	-	2	transcript_id k141_1195921.g55.t1.AMP-binding; gene_id "k141_1195921.g55.t1.AMP-binding";
+k141_1195921	AUGUSTUS	internal	1304	1608	0.86	-	1	transcript_id k141_1195921.g55.t1.AMP-binding; gene_id "k141_1195921.g55.t1.AMP-binding";
+k141_1195921	AUGUSTUS	initial	1795	2201	0.91	-	0	transcript_id k141_1195921.g55.t1.AMP-binding; gene_id "k141_1195921.g55.t1.AMP-binding";
+k141_1195921	AUGUSTUS	intron	1051	1303	0.82	-	.	transcript_id k141_1195921.g55.t1.AMP-binding; gene_id "k141_1195921.g55.t1.AMP-binding";
+k141_1195921	AUGUSTUS	intron	1609	1794	1	-	.	transcript_id k141_1195921.g55.t1.AMP-binding; gene_id "k141_1195921.g55.t1.AMP-binding";
+k141_1195921	AUGUSTUS	CDS	41	1050	0.86	-	2	transcript_id k141_1195921.g55.t1.AMP-binding; gene_id "k141_1195921.g55.t1.AMP-binding";
+k141_1195921	AUGUSTUS	CDS	1304	1608	0.86	-	1	transcript_id k141_1195921.g55.t1.AMP-binding; gene_id "k141_1195921.g55.t1.AMP-binding";
+k141_1195921	AUGUSTUS	CDS	1795	2201	0.91	-	0	transcript_id k141_1195921.g55.t1.AMP-binding; gene_id "k141_1195921.g55.t1.AMP-binding";
+k141_1195921	AUGUSTUS	start_codon	2199	2201	.	-	0	transcript_id k141_1195921.g55.t1.AMP-binding; gene_id "k141_1195921.g55.t1.AMP-binding";
+k141_639778	AUGUSTUS	gene	1343	2357	0.32	+	.	k141_639778.g49.t1.Aldo_ket_red
+k141_639778	AUGUSTUS	transcript	1343	2357	0.32	+	.	k141_639778.g49.t1.Aldo_ket_red.t1
+k141_639778	AUGUSTUS	start_codon	1343	1345	.	+	0	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	initial	1343	1612	0.58	+	0	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	internal	1671	1735	0.63	+	0	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	internal	1783	1980	0.57	+	1	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	internal	2041	2171	0.99	+	1	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	terminal	2212	2357	0.99	+	2	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	intron	1613	1670	0.93	+	.	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	intron	1736	1782	0.63	+	.	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	intron	1981	2040	0.93	+	.	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	intron	2172	2211	1	+	.	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	CDS	1343	1612	0.58	+	0	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	CDS	1671	1735	0.63	+	0	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	CDS	1783	1980	0.57	+	1	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	CDS	2041	2171	0.99	+	1	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	CDS	2212	2357	0.99	+	2	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_639778	AUGUSTUS	stop_codon	2355	2357	.	+	0	transcript_id k141_639778.g49.t1.Aldo_ket_red; gene_id "k141_639778.g49.t1.Aldo_ket_red";
+k141_1573766	AUGUSTUS	gene	1994	3037	0.96	-	.	k141_1573766.g42.t1.Thiolase_N;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1573766	AUGUSTUS	transcript	1994	3037	0.96	-	.	k141_1573766.g42.t1.Thiolase_N.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1573766	AUGUSTUS	stop_codon	1994	1996	.	-	0	transcript_id k141_1573766.g42.t1.Thiolase_N; gene_id "k141_1573766.g42.t1.Thiolase_N";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1573766	AUGUSTUS	single	1994	3037	0.96	-	0	transcript_id k141_1573766.g42.t1.Thiolase_N; gene_id "k141_1573766.g42.t1.Thiolase_N";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1573766	AUGUSTUS	CDS	1994	3037	0.96	-	0	transcript_id k141_1573766.g42.t1.Thiolase_N; gene_id "k141_1573766.g42.t1.Thiolase_N";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1573766	AUGUSTUS	start_codon	293	295	.	-	0	transcript_id k141_1573766.g42.t1.Thiolase_N; gene_id "k141_1573766.g42.t1.Thiolase_N";
+k141_340576	AUGUSTUS	gene	2296	3273	0.39	+	.	g67;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	transcript	2296	3273	0.39	+	.	g67.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	start_codon	2296	2298	.	+	0	transcript_id "g67.t1"; gene_id "g67";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	initial	2296	2499	0.47	+	0	transcript_id "g67.t1"; gene_id "g67";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	terminal	2998	3273	0.78	+	0	transcript_id "g67.t1"; gene_id "g67";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	intron	2500	2997	0.4	+	.	transcript_id "g67.t1"; gene_id "g67";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	CDS	2296	2499	0.47	+	0	transcript_id "g67.t1"; gene_id "g67";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	CDS	2998	3273	0.78	+	0	transcript_id "g67.t1"; gene_id "g67";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	stop_codon	3271	3273	.	+	0	transcript_id "g67.t1"; gene_id "g67";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	gene	7042	7440	0.27	-	.	g68;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	transcript	7042	7440	0.27	-	.	g68.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	stop_codon	7042	7044	.	-	0	transcript_id "g68.t1"; gene_id "g68";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	single	7042	7440	0.27	-	0	transcript_id "g68.t1"; gene_id "g68";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	CDS	7042	7440	0.27	-	0	transcript_id "g68.t1"; gene_id "g68";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	start_codon	7438	7440	.	-	0	transcript_id "g68.t1"; gene_id "g68";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_340576	AUGUSTUS	gene	1862	3484	0.88	-	.	k141_340576.g69.t1.AMP-binding
+k141_340576	AUGUSTUS	transcript	1862	3484	0.88	-	.	k141_340576.g69.t1.AMP-binding.t1
+k141_340576	AUGUSTUS	stop_codon	1862	1864	.	-	0	transcript_id k141_340576.g69.t1.AMP-binding; gene_id "k141_340576.g69.t1.AMP-binding";
+k141_340576	AUGUSTUS	single	1862	3484	0.88	-	0	transcript_id k141_340576.g69.t1.AMP-binding; gene_id "k141_340576.g69.t1.AMP-binding";
+k141_340576	AUGUSTUS	CDS	1862	3484	0.88	-	0	transcript_id k141_340576.g69.t1.AMP-binding; gene_id "k141_340576.g69.t1.AMP-binding";
+k141_340576	AUGUSTUS	start_codon	3482	3484	.	-	0	transcript_id k141_340576.g69.t1.AMP-binding; gene_id "k141_340576.g69.t1.AMP-binding";
+k141_13213	AUGUSTUS	gene	551	5753	0.34	-	.	k141_13213.g51+g50.t1.AMP-binding;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_13213	AUGUSTUS	transcript	551	5753	0.34	-	.	k141_13213.g51+g50.t1.AMP-binding;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_13213	AUGUSTUS	stop_codon	551	553	.	-	0	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_13213	AUGUSTUS	terminal	551	4056	0.49	-	2	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_13213	AUGUSTUS	internal	4133	4240	0.46	-	2	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_13213	AUGUSTUS	internal	4562	4816	0.53	-	2	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_13213	AUGUSTUS	initial	36	879	1	-	0	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";
+k141_13213	AUGUSTUS	intron	4057	4132	0.49	-	.	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_13213	AUGUSTUS	intron	4241	4561	0.35	-	.	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_13213	AUGUSTUS	intron	4817	4909	1	-	.	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_13213	AUGUSTUS	CDS	551	4056	0.49	-	2	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_13213	AUGUSTUS	CDS	4133	4240	0.46	-	2	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_13213	AUGUSTUS	CDS	4562	4816	0.53	-	2	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_13213	AUGUSTUS	CDS	36	879	1	-	0	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";
+k141_13213	AUGUSTUS	start_codon	877	879	.	-	0	transcript_id "k141_13213.g51+g50.t1.AMP-binding"; gene_id "k141_13213.g51+g50.t1.AMP-binding";
+k141_636108	AUGUSTUS	gene	1363	2368	0.31	+	.	k141_636108.g86.t1.3HCDH_N
+k141_636108	AUGUSTUS	transcript	1363	2368	0.31	+	.	k141_636108.g86.t1.3HCDH_N.t1
+k141_636108	AUGUSTUS	start_codon	1363	1365	.	+	0	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	initial	1363	1734	0.96	+	0	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	internal	1798	2047	0.87	+	0	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	internal	2094	2282	0.88	+	2	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	terminal	2325	2368	0.4	+	2	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	intron	1735	1797	1	+	.	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	intron	2048	2093	0.88	+	.	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	intron	2283	2324	1	+	.	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	CDS	1363	1734	0.96	+	0	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	CDS	1798	2047	0.87	+	0	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	CDS	2094	2282	0.88	+	2	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	CDS	2325	2368	0.4	+	2	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	stop_codon	2366	2368	.	+	0	transcript_id k141_636108.g86.t1.3HCDH_N; gene_id "k141_636108.g86.t1.3HCDH_N";
+k141_636108	AUGUSTUS	gene	6134	6460	0.65	-	.	g87
+k141_636108	AUGUSTUS	transcript	6134	6460	0.65	-	.	g87.t1
+k141_636108	AUGUSTUS	stop_codon	6134	6136	.	-	0	transcript_id "g87.t1"; gene_id "g87";
+k141_636108	AUGUSTUS	single	6134	6460	0.65	-	0	transcript_id "g87.t1"; gene_id "g87";
+k141_636108	AUGUSTUS	CDS	6134	6460	0.65	-	0	transcript_id "g87.t1"; gene_id "g87";
+k141_636108	AUGUSTUS	start_codon	6458	6460	.	-	0	transcript_id "g87.t1"; gene_id "g87";
+k141_636108	AUGUSTUS	gene	8377	8757	1	-	.	g88
+k141_636108	AUGUSTUS	transcript	8377	8757	1	-	.	g88.t1
+k141_636108	AUGUSTUS	stop_codon	8377	8379	.	-	0	transcript_id "g88.t1"; gene_id "g88";
+k141_636108	AUGUSTUS	terminal	8377	8757	1	-	0	transcript_id "g88.t1"; gene_id "g88";
+k141_636108	AUGUSTUS	CDS	8377	8757	1	-	0	transcript_id "g88.t1"; gene_id "g88";
+k141_1136055	AUGUSTUS	gene	2164	5331	0.99	+	.	k141_1136055.g28.t1.AMP-binding
+k141_1136055	AUGUSTUS	transcript	2164	5331	0.99	+	.	k141_1136055.g28.t1.AMP-binding.t1
+k141_1136055	AUGUSTUS	start_codon	2164	2166	.	+	0	transcript_id k141_1136055.g28.t1.AMP-binding; gene_id "k141_1136055.g28.t1.AMP-binding";
+k141_1136055	AUGUSTUS	single	2164	5331	0.99	+	0	transcript_id k141_1136055.g28.t1.AMP-binding; gene_id "k141_1136055.g28.t1.AMP-binding";
+k141_1136055	AUGUSTUS	CDS	2164	5331	0.99	+	0	transcript_id k141_1136055.g28.t1.AMP-binding; gene_id "k141_1136055.g28.t1.AMP-binding";
+k141_1136055	AUGUSTUS	stop_codon	5329	5331	.	+	0	transcript_id k141_1136055.g28.t1.AMP-binding; gene_id "k141_1136055.g28.t1.AMP-binding";
+k141_1136055	AUGUSTUS	gene	6740	7053	0.66	-	.	g29
+k141_1136055	AUGUSTUS	transcript	6740	7053	0.66	-	.	g29.t1
+k141_1136055	AUGUSTUS	stop_codon	6740	6742	.	-	0	transcript_id "g29.t1"; gene_id "g29";
+k141_1136055	AUGUSTUS	terminal	6740	6853	0.87	-	0	transcript_id "g29.t1"; gene_id "g29";
+k141_1136055	AUGUSTUS	initial	6913	7053	0.73	-	0	transcript_id "g29.t1"; gene_id "g29";
+k141_1136055	AUGUSTUS	intron	6854	6912	0.95	-	.	transcript_id "g29.t1"; gene_id "g29";
+k141_1136055	AUGUSTUS	CDS	6740	6853	0.87	-	0	transcript_id "g29.t1"; gene_id "g29";
+k141_1136055	AUGUSTUS	CDS	6913	7053	0.73	-	0	transcript_id "g29.t1"; gene_id "g29";
+k141_1136055	AUGUSTUS	start_codon	7051	7053	.	-	0	transcript_id "g29.t1"; gene_id "g29";
+k141_337981	AUGUSTUS	gene	2041	3535	0.47	+	.	k141_337981.g48.t1.adh_short_C2;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_337981	AUGUSTUS	transcript	2041	3535	0.47	+	.	k141_337981.g48.t1.adh_short_C2.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_337981	AUGUSTUS	start_codon	2041	2043	.	+	0	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_337981	AUGUSTUS	initial	2041	2200	1	+	0	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_337981	AUGUSTUS	internal	2253	2479	0.5	+	2	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_337981	AUGUSTUS	internal	2628	2797	0.5	+	0	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_337981	AUGUSTUS	internal	251	402	0.71	+	1	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";
+k141_337981	AUGUSTUS	terminal	545	795	0.7	+	2	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";
+k141_337981	AUGUSTUS	intron	2201	2252	0.99	+	.	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_337981	AUGUSTUS	intron	2480	2627	0.5	+	.	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_337981	AUGUSTUS	intron	58	250	0.75	+	.	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";
+k141_337981	AUGUSTUS	intron	403	544	0.7	+	.	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";
+k141_337981	AUGUSTUS	CDS	2041	2200	1	+	0	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_337981	AUGUSTUS	CDS	2253	2479	0.5	+	2	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_337981	AUGUSTUS	CDS	2628	2797	0.5	+	0	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_337981	AUGUSTUS	CDS	251	402	0.71	+	1	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";
+k141_337981	AUGUSTUS	CDS	545	795	0.7	+	2	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";
+k141_337981	AUGUSTUS	stop_codon	793	795	.	+	0	transcript_id k141_337981.g48.t1.adh_short_C2; gene_id "k141_337981.g48.t1.adh_short_C2";
+k141_1054793	AUGUSTUS	gene	2	1708	0.43	-	.	k141_1054793.g53+g52.t1.Aminotran_1_2
+k141_1054793	AUGUSTUS	transcript	774	1708	0.43	-	.	k141_1054793.g53+g52.t1.Aminotran_1_2
+k141_1054793	AUGUSTUS	stop_codon	0	2	.	-	0	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	terminal	774	855	0.8	-	1	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	internal	1130	1236	0.82	-	0	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	internal	1300	1383	0.97	-	0	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	internal	1471	1622	1	-	2	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	internal	2	208	0.7	-	1	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2t1"; gene_id "g52";
+k141_1054793	AUGUSTUS	initial	1672	1708	0.64	-	0	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	intron	209	253	0.98	-	.	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2t1"; gene_id "g52";
+k141_1054793	AUGUSTUS	intron	856	1129	0.69	-	.	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	intron	1237	1299	0.94	-	.	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	intron	1384	1470	0.97	-	.	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	intron	1623	1671	1	-	.	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	CDS	2	208	0.7	-	1	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2t1"; gene_id "g52";
+k141_1054793	AUGUSTUS	CDS	254	351	0.55	-	0	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2t1"; gene_id "g52";
+k141_1054793	AUGUSTUS	CDS	774	855	0.8	-	1	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	CDS	1130	1236	0.82	-	0	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	CDS	1300	1383	0.97	-	0	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	CDS	1471	1622	1	-	2	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	CDS	1672	1708	0.64	-	0	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1054793	AUGUSTUS	start_codon	1706	1708	.	-	0	transcript_id "k141_1054793.g53+g52.t1.Aminotran_1_2"; gene_id "k141_1054793.g53+g52.t1.Aminotran_1_2";
+k141_1404042	AUGUSTUS	gene	1035	1905	0.38	+	.	k141_1404042.g43.t1.Aldo_ket_red;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1404042	AUGUSTUS	transcript	1035	1905	0.38	+	.	k141_1404042.g43.t1.Aldo_ket_red.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1404042	AUGUSTUS	start_codon	1035	1037	.	+	0	transcript_id k141_1404042.g43.t1.Aldo_ket_red; gene_id "k141_1404042.g43.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1404042	AUGUSTUS	initial	1035	1511	0.48	+	0	transcript_id k141_1404042.g43.t1.Aldo_ket_red; gene_id "k141_1404042.g43.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1404042	AUGUSTUS	terminal	1702	1905	0.81	+	0	transcript_id k141_1404042.g43.t1.Aldo_ket_red; gene_id "k141_1404042.g43.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1404042	AUGUSTUS	intron	1512	1701	0.85	+	.	transcript_id k141_1404042.g43.t1.Aldo_ket_red; gene_id "k141_1404042.g43.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1404042	AUGUSTUS	CDS	1035	1511	0.48	+	0	transcript_id k141_1404042.g43.t1.Aldo_ket_red; gene_id "k141_1404042.g43.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1404042	AUGUSTUS	CDS	1702	1905	0.81	+	0	transcript_id k141_1404042.g43.t1.Aldo_ket_red; gene_id "k141_1404042.g43.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1404042	AUGUSTUS	stop_codon	1903	1905	.	+	0	transcript_id k141_1404042.g43.t1.Aldo_ket_red; gene_id "k141_1404042.g43.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_640406	AUGUSTUS	gene	1468	2997	1	+	.	k141_640406.g54.t1.AMP-binding;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_640406	AUGUSTUS	transcript	1468	2997	1	+	.	k141_640406.g54.t1.AMP-binding.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_640406	AUGUSTUS	start_codon	1468	1470	.	+	0	transcript_id k141_640406.g54.t1.AMP-binding; gene_id "k141_640406.g54.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_640406	AUGUSTUS	single	1468	2997	1	+	0	transcript_id k141_640406.g54.t1.AMP-binding; gene_id "k141_640406.g54.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_640406	AUGUSTUS	CDS	1468	2997	1	+	0	transcript_id k141_640406.g54.t1.AMP-binding; gene_id "k141_640406.g54.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_640406	AUGUSTUS	stop_codon	895	897	.	+	0	transcript_id k141_640406.g54.t1.AMP-binding; gene_id "k141_640406.g54.t1.AMP-binding";
+k141_1011745	AUGUSTUS	gene	1167	2917	0.9	-	.	k141_1011745.g21.t1.AMP-binding
+k141_1011745	AUGUSTUS	transcript	1167	2917	0.9	-	.	k141_1011745.g21.t1.AMP-binding.t1
+k141_1011745	AUGUSTUS	stop_codon	1167	1169	.	-	0	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_1011745	AUGUSTUS	terminal	1167	2313	0.92	-	1	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_1011745	AUGUSTUS	internal	2357	2433	0.98	-	0	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_1011745	AUGUSTUS	internal	2585	2744	0.98	-	1	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_1011745	AUGUSTUS	initial	2784	2917	1	-	0	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_1011745	AUGUSTUS	intron	2314	2356	0.98	-	.	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_1011745	AUGUSTUS	intron	2434	2584	0.98	-	.	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_1011745	AUGUSTUS	intron	2745	2783	1	-	.	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_1011745	AUGUSTUS	CDS	1167	2313	0.92	-	1	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_1011745	AUGUSTUS	CDS	2357	2433	0.98	-	0	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_1011745	AUGUSTUS	CDS	2585	2744	0.98	-	1	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_1011745	AUGUSTUS	CDS	2784	2917	1	-	0	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_1011745	AUGUSTUS	start_codon	2915	2917	.	-	0	transcript_id k141_1011745.g21.t1.AMP-binding; gene_id "k141_1011745.g21.t1.AMP-binding";
+k141_645866	AUGUSTUS	gene	121	1030	0.76	+	.	k141_645866.g2.t1.Aminotran_1_2
+k141_645866	AUGUSTUS	transcript	121	1030	0.76	+	.	k141_645866.g2.t1.Aminotran_1_2.t1
+k141_645866	AUGUSTUS	start_codon	121	123	.	+	0	transcript_id k141_645866.g2.t1.Aminotran_1_2; gene_id "k141_645866.g2.t1.Aminotran_1_2";
+k141_645866	AUGUSTUS	initial	121	369	0.77	+	0	transcript_id k141_645866.g2.t1.Aminotran_1_2; gene_id "k141_645866.g2.t1.Aminotran_1_2";
+k141_645866	AUGUSTUS	terminal	617	1030	0.77	+	0	transcript_id k141_645866.g2.t1.Aminotran_1_2; gene_id "k141_645866.g2.t1.Aminotran_1_2";
+k141_645866	AUGUSTUS	intron	370	616	0.77	+	.	transcript_id k141_645866.g2.t1.Aminotran_1_2; gene_id "k141_645866.g2.t1.Aminotran_1_2";
+k141_645866	AUGUSTUS	CDS	121	369	0.77	+	0	transcript_id k141_645866.g2.t1.Aminotran_1_2; gene_id "k141_645866.g2.t1.Aminotran_1_2";
+k141_645866	AUGUSTUS	CDS	617	1030	0.77	+	0	transcript_id k141_645866.g2.t1.Aminotran_1_2; gene_id "k141_645866.g2.t1.Aminotran_1_2";
+k141_645866	AUGUSTUS	stop_codon	1028	1030	.	+	0	transcript_id k141_645866.g2.t1.Aminotran_1_2; gene_id "k141_645866.g2.t1.Aminotran_1_2";
+k141_884778	AUGUSTUS	gene	85	1701	0.98	-	.	k141_884778.g4+g5.t1.TPP_enzyme_N
+k141_884778	AUGUSTUS	transcript	85	1701	0.98	-	.	k141_884778.g4+g5.t1.TPP_enzyme_N
+k141_884778	AUGUSTUS	stop_codon	85	87	.	-	0	transcript_id "k141_884778.g4+g5.t1.TPP_enzyme_N"; gene_id "k141_884778.g4+g5.t1.TPP_enzyme_N";
+k141_884778	AUGUSTUS	single	85	1701	0.98	-	0	transcript_id "k141_884778.g4+g5.t1.TPP_enzyme_N"; gene_id "k141_884778.g4+g5.t1.TPP_enzyme_N";
+k141_884778	AUGUSTUS	CDS	85	1701	0.98	-	0	transcript_id "k141_884778.g4+g5.t1.TPP_enzyme_N"; gene_id "k141_884778.g4+g5.t1.TPP_enzyme_N";
+k141_884778	AUGUSTUS	start_codon	1699	1701	.	-	0	transcript_id "k141_884778.g4+g5.t1.TPP_enzyme_N"; gene_id "k141_884778.g4+g5.t1.TPP_enzyme_N";
+k141_611954	AUGUSTUS	gene	542	1056	0.25	-	.	k141_611954.g63.t1.Aldedh
+k141_611954	AUGUSTUS	transcript	542	1056	0.25	-	.	k141_611954.g63.t1.Aldedh.t1
+k141_611954	AUGUSTUS	stop_codon	542	544	.	-	0	transcript_id k141_611954.g63.t1.Aldedh; gene_id "k141_611954.g63.t1.Aldedh";
+k141_611954	AUGUSTUS	terminal	542	615	0.47	-	2	transcript_id k141_611954.g63.t1.Aldedh; gene_id "k141_611954.g63.t1.Aldedh";
+k141_611954	AUGUSTUS	internal	655	754	0.55	-	0	transcript_id k141_611954.g63.t1.Aldedh; gene_id "k141_611954.g63.t1.Aldedh";
+k141_611954	AUGUSTUS	internal	816	1006	0.5	-	2	transcript_id k141_611954.g63.t1.Aldedh; gene_id "k141_611954.g63.t1.Aldedh";
+k141_611954	AUGUSTUS	intron	616	654	0.51	-	.	transcript_id k141_611954.g63.t1.Aldedh; gene_id "k141_611954.g63.t1.Aldedh";
+k141_611954	AUGUSTUS	intron	755	815	0.8	-	.	transcript_id k141_611954.g63.t1.Aldedh; gene_id "k141_611954.g63.t1.Aldedh";
+k141_611954	AUGUSTUS	intron	1007	1056	0.46	-	.	transcript_id k141_611954.g63.t1.Aldedh; gene_id "k141_611954.g63.t1.Aldedh";
+k141_611954	AUGUSTUS	CDS	542	615	0.47	-	2	transcript_id k141_611954.g63.t1.Aldedh; gene_id "k141_611954.g63.t1.Aldedh";
+k141_611954	AUGUSTUS	CDS	655	754	0.55	-	0	transcript_id k141_611954.g63.t1.Aldedh; gene_id "k141_611954.g63.t1.Aldedh";
+k141_611954	AUGUSTUS	CDS	816	1006	0.5	-	2	transcript_id k141_611954.g63.t1.Aldedh; gene_id "k141_611954.g63.t1.Aldedh";
+k141_864161	AUGUSTUS	gene	674	3037	0.15	+	.	k141_864161.g76.t1.AMP-binding;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	transcript	674	3037	0.15	+	.	k141_864161.g76.t1.AMP-binding.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	start_codon	674	676	.	+	0	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	initial	674	809	0.87	+	0	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	internal	1207	1611	0.44	+	2	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	internal	1664	1691	0.5	+	2	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	internal	1874	1952	0.92	+	1	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	internal	2313	2354	0.58	+	0	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	terminal	2510	3037	0.59	+	0	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	intron	810	1206	0.9	+	.	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	intron	1612	1663	0.5	+	.	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	intron	1692	1873	0.42	+	.	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	intron	1953	2312	0.61	+	.	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	intron	2355	2509	0.58	+	.	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	CDS	674	809	0.87	+	0	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	CDS	1207	1611	0.44	+	2	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	CDS	1664	1691	0.5	+	2	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	CDS	1874	1952	0.92	+	1	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	CDS	2313	2354	0.58	+	0	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	CDS	2510	3037	0.59	+	0	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_864161	AUGUSTUS	stop_codon	3035	3037	.	+	0	transcript_id k141_864161.g76.t1.AMP-binding; gene_id "k141_864161.g76.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1699234	AUGUSTUS	gene	1	1863	0.28	-	.	k141_1699234.g80.t1.AMP-binding;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1699234	AUGUSTUS	transcript	1	1863	0.28	-	.	k141_1699234.g80.t1.AMP-binding.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1699234	AUGUSTUS	internal	103	199	0.88	-	0	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1699234	AUGUSTUS	internal	275	321	0.35	-	2	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_1699234	AUGUSTUS	internal	1050	1301	0.62	-	2	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_1699234	AUGUSTUS	internal	1365	1489	1	-	1	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_1699234	AUGUSTUS	initial	1543	1736	1	-	0	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_1699234	AUGUSTUS	intron	1	102	0.88	-	.	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1699234	AUGUSTUS	intron	73	274	0.81	-	.	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_1699234	AUGUSTUS	intron	322	1049	0.3	-	.	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_1699234	AUGUSTUS	intron	1302	1364	1	-	.	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_1699234	AUGUSTUS	intron	1490	1542	1	-	.	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_1699234	AUGUSTUS	CDS	103	199	0.88	-	0	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1699234	AUGUSTUS	CDS	275	321	0.35	-	2	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_1699234	AUGUSTUS	CDS	1050	1301	0.62	-	2	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_1699234	AUGUSTUS	CDS	1365	1489	1	-	1	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_1699234	AUGUSTUS	CDS	1543	1736	1	-	0	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_1699234	AUGUSTUS	start_codon	1734	1736	.	-	0	transcript_id k141_1699234.g80.t1.AMP-binding; gene_id "k141_1699234.g80.t1.AMP-binding";
+k141_11402	AUGUSTUS	gene	1961	2758	1	+	.	k141_11402.g31.t1.adh_short_C2;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_11402	AUGUSTUS	transcript	1961	2758	1	+	.	k141_11402.g31.t1.adh_short_C2.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_11402	AUGUSTUS	start_codon	1961	1963	.	+	0	transcript_id k141_11402.g31.t1.adh_short_C2; gene_id "k141_11402.g31.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_11402	AUGUSTUS	single	1961	2758	1	+	0	transcript_id k141_11402.g31.t1.adh_short_C2; gene_id "k141_11402.g31.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_11402	AUGUSTUS	CDS	1961	2758	1	+	0	transcript_id k141_11402.g31.t1.adh_short_C2; gene_id "k141_11402.g31.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_11402	AUGUSTUS	stop_codon	753	755	.	+	0	transcript_id k141_11402.g31.t1.adh_short_C2; gene_id "k141_11402.g31.t1.adh_short_C2";
+k141_350789	AUGUSTUS	gene	2968	4557	0.28	-	.	k141_350789.g78.t1.adh_short_C2;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	transcript	2968	4557	0.28	-	.	k141_350789.g78.t1.adh_short_C2.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	stop_codon	2968	2970	.	-	0	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	terminal	2968	3270	0.49	-	0	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	internal	3352	3773	0.56	-	2	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	internal	3817	3885	0.99	-	2	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	internal	3946	3995	0.9	-	1	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	initial	4382	4557	0.63	-	0	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	intron	3271	3351	0.49	-	.	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	intron	3774	3816	0.99	-	.	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	intron	3886	3945	0.99	-	.	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	intron	3996	4381	0.63	-	.	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	CDS	2968	3270	0.49	-	0	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	CDS	3352	3773	0.56	-	2	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	CDS	3817	3885	0.99	-	2	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	CDS	3946	3995	0.9	-	1	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	CDS	4382	4557	0.63	-	0	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_350789	AUGUSTUS	start_codon	23	25	.	-	0	transcript_id k141_350789.g78.t1.adh_short_C2; gene_id "k141_350789.g78.t1.adh_short_C2";
+k141_1069892	AUGUSTUS	gene	1010	1981	0.97	-	.	k141_1069892.g13.t1.adh_short_C2
+k141_1069892	AUGUSTUS	transcript	1010	1981	0.97	-	.	k141_1069892.g13.t1.adh_short_C2.t1
+k141_1069892	AUGUSTUS	stop_codon	1010	1012	.	-	0	transcript_id k141_1069892.g13.t1.adh_short_C2; gene_id "k141_1069892.g13.t1.adh_short_C2";
+k141_1069892	AUGUSTUS	single	1010	1981	0.97	-	0	transcript_id k141_1069892.g13.t1.adh_short_C2; gene_id "k141_1069892.g13.t1.adh_short_C2";
+k141_1069892	AUGUSTUS	CDS	1010	1981	0.97	-	0	transcript_id k141_1069892.g13.t1.adh_short_C2; gene_id "k141_1069892.g13.t1.adh_short_C2";
+k141_1069892	AUGUSTUS	start_codon	1979	1981	.	-	0	transcript_id k141_1069892.g13.t1.adh_short_C2; gene_id "k141_1069892.g13.t1.adh_short_C2";
+k141_876165	AUGUSTUS	gene	1	1250	0.88	+	.	k141_876165.g64.t1.Thiolase_N;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_876165	AUGUSTUS	transcript	1	1250	0.88	+	.	k141_876165.g64.t1.Thiolase_N.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_876165	AUGUSTUS	internal	1	487	0.88	+	0	transcript_id k141_876165.g64.t1.Thiolase_N; gene_id "k141_876165.g64.t1.Thiolase_N";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_876165	AUGUSTUS	terminal	178	887	0.88	+	2	transcript_id k141_876165.g64.t1.Thiolase_N; gene_id "k141_876165.g64.t1.Thiolase_N";
+k141_876165	AUGUSTUS	intron	125	177	0.88	+	.	transcript_id k141_876165.g64.t1.Thiolase_N; gene_id "k141_876165.g64.t1.Thiolase_N";
+k141_876165	AUGUSTUS	CDS	1	487	0.88	+	0	transcript_id k141_876165.g64.t1.Thiolase_N; gene_id "k141_876165.g64.t1.Thiolase_N";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_876165	AUGUSTUS	CDS	178	887	0.88	+	2	transcript_id k141_876165.g64.t1.Thiolase_N; gene_id "k141_876165.g64.t1.Thiolase_N";
+k141_876165	AUGUSTUS	stop_codon	885	887	.	+	0	transcript_id k141_876165.g64.t1.Thiolase_N; gene_id "k141_876165.g64.t1.Thiolase_N";
+k141_561088	AUGUSTUS	gene	1	1389	0.06	-	.	k141_561088.g14.t1.adh_short_C2
+k141_561088	AUGUSTUS	transcript	1	1389	0.06	-	.	k141_561088.g14.t1.adh_short_C2.t1
+k141_561088	AUGUSTUS	internal	9	150	0.34	-	2	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	internal	329	604	0.46	-	2	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	internal	653	685	0.9	-	2	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	internal	796	973	0.4	-	0	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	initial	1330	1389	0.93	-	0	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	intron	1	8	0.99	-	.	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	intron	151	328	0.35	-	.	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	intron	605	652	0.69	-	.	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	intron	686	795	0.38	-	.	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	intron	974	1329	0.81	-	.	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	CDS	9	150	0.34	-	2	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	CDS	329	604	0.46	-	2	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	CDS	653	685	0.9	-	2	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	CDS	796	973	0.4	-	0	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	CDS	1330	1389	0.93	-	0	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_561088	AUGUSTUS	start_codon	1387	1389	.	-	0	transcript_id k141_561088.g14.t1.adh_short_C2; gene_id "k141_561088.g14.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	gene	1071	1820	0.41	-	.	k141_1477106.g72.t1.adh_short_C2
+k141_1477106	AUGUSTUS	transcript	1071	1820	0.41	-	.	k141_1477106.g72.t1.adh_short_C2.t1
+k141_1477106	AUGUSTUS	stop_codon	1071	1073	.	-	0	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	terminal	1071	1237	0.46	-	2	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	internal	1280	1428	0.83	-	1	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	internal	1468	1501	0.95	-	2	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	internal	1543	1688	0.95	-	1	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	initial	1729	1820	0.99	-	0	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	intron	1238	1279	0.42	-	.	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	intron	1429	1467	0.95	-	.	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	intron	1502	1542	0.95	-	.	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	intron	1689	1728	1	-	.	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	CDS	1071	1237	0.46	-	2	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	CDS	1280	1428	0.83	-	1	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	CDS	1468	1501	0.95	-	2	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	CDS	1543	1688	0.95	-	1	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	CDS	1729	1820	0.99	-	0	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_1477106	AUGUSTUS	start_codon	1818	1820	.	-	0	transcript_id k141_1477106.g72.t1.adh_short_C2; gene_id "k141_1477106.g72.t1.adh_short_C2";
+k141_896796	AUGUSTUS	gene	3462	4426	0.57	-	.	k141_896796.g36.t1.3HCDH_N
+k141_896796	AUGUSTUS	transcript	3462	4426	0.57	-	.	k141_896796.g36.t1.3HCDH_N.t1
+k141_896796	AUGUSTUS	stop_codon	3462	3464	.	-	0	transcript_id k141_896796.g36.t1.3HCDH_N; gene_id "k141_896796.g36.t1.3HCDH_N";
+k141_896796	AUGUSTUS	terminal	3462	3622	0.98	-	2	transcript_id k141_896796.g36.t1.3HCDH_N; gene_id "k141_896796.g36.t1.3HCDH_N";
+k141_896796	AUGUSTUS	internal	3664	3725	0.97	-	1	transcript_id k141_896796.g36.t1.3HCDH_N; gene_id "k141_896796.g36.t1.3HCDH_N";
+k141_896796	AUGUSTUS	initial	3891	4426	0.57	-	0	transcript_id k141_896796.g36.t1.3HCDH_N; gene_id "k141_896796.g36.t1.3HCDH_N";
+k141_896796	AUGUSTUS	intron	3623	3663	0.98	-	.	transcript_id k141_896796.g36.t1.3HCDH_N; gene_id "k141_896796.g36.t1.3HCDH_N";
+k141_896796	AUGUSTUS	intron	3726	3890	0.97	-	.	transcript_id k141_896796.g36.t1.3HCDH_N; gene_id "k141_896796.g36.t1.3HCDH_N";
+k141_896796	AUGUSTUS	CDS	3462	3622	0.98	-	2	transcript_id k141_896796.g36.t1.3HCDH_N; gene_id "k141_896796.g36.t1.3HCDH_N";
+k141_896796	AUGUSTUS	CDS	3664	3725	0.97	-	1	transcript_id k141_896796.g36.t1.3HCDH_N; gene_id "k141_896796.g36.t1.3HCDH_N";
+k141_896796	AUGUSTUS	CDS	3891	4426	0.57	-	0	transcript_id k141_896796.g36.t1.3HCDH_N; gene_id "k141_896796.g36.t1.3HCDH_N";
+k141_896796	AUGUSTUS	start_codon	4424	4426	.	-	0	transcript_id k141_896796.g36.t1.3HCDH_N; gene_id "k141_896796.g36.t1.3HCDH_N";
+k141_2039581	AUGUSTUS	gene	58	482	0.64	+	.	g74
+k141_2039581	AUGUSTUS	transcript	58	482	0.64	+	.	g74.t1
+k141_2039581	AUGUSTUS	start_codon	58	60	.	+	0	transcript_id "g74.t1"; gene_id "g74";
+k141_2039581	AUGUSTUS	initial	58	291	0.64	+	0	transcript_id "g74.t1"; gene_id "g74";
+k141_2039581	AUGUSTUS	terminal	333	482	0.87	+	0	transcript_id "g74.t1"; gene_id "g74";
+k141_2039581	AUGUSTUS	intron	292	332	0.87	+	.	transcript_id "g74.t1"; gene_id "g74";
+k141_2039581	AUGUSTUS	CDS	58	291	0.64	+	0	transcript_id "g74.t1"; gene_id "g74";
+k141_2039581	AUGUSTUS	CDS	333	482	0.87	+	0	transcript_id "g74.t1"; gene_id "g74";
+k141_2039581	AUGUSTUS	stop_codon	480	482	.	+	0	transcript_id "g74.t1"; gene_id "g74";
+k141_2039581	AUGUSTUS	gene	2349	3195	0.39	+	.	k141_2039581.g75.t1.adh_short_C2
+k141_2039581	AUGUSTUS	transcript	2349	3195	0.39	+	.	k141_2039581.g75.t1.adh_short_C2.t1
+k141_2039581	AUGUSTUS	start_codon	2349	2351	.	+	0	transcript_id k141_2039581.g75.t1.adh_short_C2; gene_id "k141_2039581.g75.t1.adh_short_C2";
+k141_2039581	AUGUSTUS	initial	2349	2406	0.68	+	0	transcript_id k141_2039581.g75.t1.adh_short_C2; gene_id "k141_2039581.g75.t1.adh_short_C2";
+k141_2039581	AUGUSTUS	internal	2507	2750	0.76	+	2	transcript_id k141_2039581.g75.t1.adh_short_C2; gene_id "k141_2039581.g75.t1.adh_short_C2";
+k141_2039581	AUGUSTUS	internal	2804	2917	0.74	+	1	transcript_id k141_2039581.g75.t1.adh_short_C2; gene_id "k141_2039581.g75.t1.adh_short_C2";
+k141_2039581	AUGUSTUS	intron	2407	2506	1	+	.	transcript_id k141_2039581.g75.t1.adh_short_C2; gene_id "k141_2039581.g75.t1.adh_short_C2";
+k141_2039581	AUGUSTUS	intron	2751	2803	0.76	+	.	transcript_id k141_2039581.g75.t1.adh_short_C2; gene_id "k141_2039581.g75.t1.adh_short_C2";
+k141_2039581	AUGUSTUS	intron	2918	3195	0.61	+	.	transcript_id k141_2039581.g75.t1.adh_short_C2; gene_id "k141_2039581.g75.t1.adh_short_C2";
+k141_2039581	AUGUSTUS	CDS	2349	2406	0.68	+	0	transcript_id k141_2039581.g75.t1.adh_short_C2; gene_id "k141_2039581.g75.t1.adh_short_C2";
+k141_2039581	AUGUSTUS	CDS	2507	2750	0.76	+	2	transcript_id k141_2039581.g75.t1.adh_short_C2; gene_id "k141_2039581.g75.t1.adh_short_C2";
+k141_2039581	AUGUSTUS	CDS	2804	2917	0.74	+	1	transcript_id k141_2039581.g75.t1.adh_short_C2; gene_id "k141_2039581.g75.t1.adh_short_C2";
+k141_609240	AUGUSTUS	gene	1	729	0.53	+	.	g26;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	transcript	1	729	0.53	+	.	g26.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	internal	1	132	0.85	+	2	transcript_id "g26.t1"; gene_id "g26";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	terminal	569	729	0.65	+	2	transcript_id "g26.t1"; gene_id "g26";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	intron	133	568	0.79	+	.	transcript_id "g26.t1"; gene_id "g26";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	CDS	1	132	0.85	+	2	transcript_id "g26.t1"; gene_id "g26";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	CDS	569	729	0.65	+	2	transcript_id "g26.t1"; gene_id "g26";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	stop_codon	727	729	.	+	0	transcript_id "g26.t1"; gene_id "g26";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	gene	2374	3857	0.77	+	.	k141_609240.g27.t1.adh_short_C2;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	transcript	2374	3857	0.77	+	.	k141_609240.g27.t1.adh_short_C2.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	start_codon	2374	2376	.	+	0	transcript_id k141_609240.g27.t1.adh_short_C2; gene_id "k141_609240.g27.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	initial	2374	2474	0.77	+	0	transcript_id k141_609240.g27.t1.adh_short_C2; gene_id "k141_609240.g27.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	terminal	384	1134	0.78	+	1	transcript_id k141_609240.g27.t1.adh_short_C2; gene_id "k141_609240.g27.t1.adh_short_C2";
+k141_609240	AUGUSTUS	intron	2475	3106	0.77	+	.	transcript_id k141_609240.g27.t1.adh_short_C2; gene_id "k141_609240.g27.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	CDS	2374	2474	0.77	+	0	transcript_id k141_609240.g27.t1.adh_short_C2; gene_id "k141_609240.g27.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_609240	AUGUSTUS	CDS	384	1134	0.78	+	1	transcript_id k141_609240.g27.t1.adh_short_C2; gene_id "k141_609240.g27.t1.adh_short_C2";
+k141_609240	AUGUSTUS	stop_codon	1132	1134	.	+	0	transcript_id k141_609240.g27.t1.adh_short_C2; gene_id "k141_609240.g27.t1.adh_short_C2";
+k141_1875562	AUGUSTUS	gene	1	1422	0.3	+	.	k141_1875562.g70.t1.Aldedh
+k141_1875562	AUGUSTUS	transcript	1	1422	0.3	+	.	k141_1875562.g70.t1.Aldedh.t1
+k141_1875562	AUGUSTUS	internal	238	259	0.91	+	0	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	internal	567	653	0.49	+	2	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	internal	701	761	0.97	+	2	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	internal	821	1310	0.98	+	1	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	terminal	1375	1422	0.7	+	0	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	intron	1	237	0.93	+	.	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	intron	260	566	0.5	+	.	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	intron	654	700	0.73	+	.	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	intron	762	820	0.97	+	.	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	intron	1311	1374	0.98	+	.	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	CDS	238	259	0.91	+	0	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	CDS	567	653	0.49	+	2	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	CDS	701	761	0.97	+	2	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	CDS	821	1310	0.98	+	1	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	CDS	1375	1422	0.7	+	0	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_1875562	AUGUSTUS	stop_codon	1420	1422	.	+	0	transcript_id k141_1875562.g70.t1.Aldedh; gene_id "k141_1875562.g70.t1.Aldedh";
+k141_553353	AUGUSTUS	gene	1	2403	0.25	-	.	k141_553353.g79.t1.AMP-binding;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	transcript	1	2403	0.25	-	.	k141_553353.g79.t1.AMP-binding.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	internal	188	259	0.98	-	1	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	internal	303	561	1	-	2	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	internal	687	921	0.32	-	0	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	internal	1151	2154	0.63	-	2	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	internal	2198	2284	1	-	2	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	initial	2340	2403	0.99	-	0	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	intron	1	187	0.85	-	.	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	intron	260	302	1	-	.	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	intron	562	686	1	-	.	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	intron	922	1150	0.29	-	.	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	intron	2155	2197	1	-	.	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	intron	2285	2339	1	-	.	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	CDS	188	259	0.98	-	1	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	CDS	303	561	1	-	2	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	CDS	687	921	0.32	-	0	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	CDS	1151	2154	0.63	-	2	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	CDS	2198	2284	1	-	2	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	CDS	2340	2403	0.99	-	0	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_553353	AUGUSTUS	start_codon	2401	2403	.	-	0	transcript_id k141_553353.g79.t1.AMP-binding; gene_id "k141_553353.g79.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_583080	AUGUSTUS	gene	1407	3050	1	+	.	k141_583080.g61.t1.Aldedh;NOTE=contig not present in NCBI metagenome assembly
+k141_583080	AUGUSTUS	transcript	1407	3050	1	+	.	k141_583080.g61.t1.Aldedh.t1;NOTE=contig not present in NCBI metagenome assembly
+k141_583080	AUGUSTUS	start_codon	1407	1409	.	+	0	transcript_id k141_583080.g61.t1.Aldedh; gene_id "k141_583080.g61.t1.Aldedh";NOTE=contig not present in NCBI metagenome assembly
+k141_583080	AUGUSTUS	single	1407	3050	1	+	0	transcript_id k141_583080.g61.t1.Aldedh; gene_id "k141_583080.g61.t1.Aldedh";NOTE=contig not present in NCBI metagenome assembly
+k141_583080	AUGUSTUS	CDS	1407	3050	1	+	0	transcript_id k141_583080.g61.t1.Aldedh; gene_id "k141_583080.g61.t1.Aldedh";NOTE=contig not present in NCBI metagenome assembly
+k141_583080	AUGUSTUS	stop_codon	3048	3050	.	+	0	transcript_id k141_583080.g61.t1.Aldedh; gene_id "k141_583080.g61.t1.Aldedh";NOTE=contig not present in NCBI metagenome assembly
+k141_331678	AUGUSTUS	gene	649	1948	0.49	-	.	g22
+k141_331678	AUGUSTUS	transcript	649	1948	0.49	-	.	g22.t1
+k141_331678	AUGUSTUS	stop_codon	649	651	.	-	0	transcript_id "g22.t1"; gene_id "g22";
+k141_331678	AUGUSTUS	terminal	649	1482	0.62	-	0	transcript_id "g22.t1"; gene_id "g22";
+k141_331678	AUGUSTUS	initial	1550	1948	0.78	-	0	transcript_id "g22.t1"; gene_id "g22";
+k141_331678	AUGUSTUS	intron	1483	1549	0.97	-	.	transcript_id "g22.t1"; gene_id "g22";
+k141_331678	AUGUSTUS	CDS	649	1482	0.62	-	0	transcript_id "g22.t1"; gene_id "g22";
+k141_331678	AUGUSTUS	CDS	1550	1948	0.78	-	0	transcript_id "g22.t1"; gene_id "g22";
+k141_331678	AUGUSTUS	start_codon	1946	1948	.	-	0	transcript_id "g22.t1"; gene_id "g22";
+k141_331678	AUGUSTUS	gene	3991	6112	0.84	+	.	k141_331678.g23.t1.AMP-binding
+k141_331678	AUGUSTUS	transcript	3991	6112	0.84	+	.	k141_331678.g23.t1.AMP-binding.t1
+k141_331678	AUGUSTUS	start_codon	3991	3993	.	+	0	transcript_id k141_331678.g23.t1.AMP-binding; gene_id "k141_331678.g23.t1.AMP-binding";
+k141_331678	AUGUSTUS	initial	3991	4465	0.84	+	0	transcript_id k141_331678.g23.t1.AMP-binding; gene_id "k141_331678.g23.t1.AMP-binding";
+k141_331678	AUGUSTUS	terminal	4506	6112	0.84	+	2	transcript_id k141_331678.g23.t1.AMP-binding; gene_id "k141_331678.g23.t1.AMP-binding";
+k141_331678	AUGUSTUS	intron	4466	4505	0.84	+	.	transcript_id k141_331678.g23.t1.AMP-binding; gene_id "k141_331678.g23.t1.AMP-binding";
+k141_331678	AUGUSTUS	CDS	3991	4465	0.84	+	0	transcript_id k141_331678.g23.t1.AMP-binding; gene_id "k141_331678.g23.t1.AMP-binding";
+k141_331678	AUGUSTUS	CDS	4506	6112	0.84	+	2	transcript_id k141_331678.g23.t1.AMP-binding; gene_id "k141_331678.g23.t1.AMP-binding";
+k141_331678	AUGUSTUS	stop_codon	6110	6112	.	+	0	transcript_id k141_331678.g23.t1.AMP-binding; gene_id "k141_331678.g23.t1.AMP-binding";
+k141_119577	AUGUSTUS	gene	556	2157	0.23	-	.	k141_119577.g11.t1.Aminotran_1_2;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	transcript	556	2157	0.23	-	.	k141_119577.g11.t1.Aminotran_1_2.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	stop_codon	556	558	.	-	0	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	terminal	556	1005	0.55	-	0	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	internal	1122	1238	0.47	-	0	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	internal	1280	1392	0.88	-	2	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	internal	1433	1479	0.82	-	1	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	internal	1521	1569	0.87	-	2	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	internal	1695	1935	0.85	-	0	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	initial	2017	2157	0.78	-	0	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	intron	1006	1121	0.49	-	.	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	intron	1239	1279	0.88	-	.	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	intron	1393	1432	0.82	-	.	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	intron	1480	1520	0.87	-	.	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	intron	1570	1694	0.8	-	.	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	intron	1936	2016	0.79	-	.	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	CDS	556	1005	0.55	-	0	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	CDS	1122	1238	0.47	-	0	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	CDS	1280	1392	0.88	-	2	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	CDS	1433	1479	0.82	-	1	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	CDS	1521	1569	0.87	-	2	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	CDS	1695	1935	0.85	-	0	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	CDS	2017	2157	0.78	-	0	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	start_codon	2155	2157	.	-	0	transcript_id k141_119577.g11.t1.Aminotran_1_2; gene_id "k141_119577.g11.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	gene	4022	4911	0.82	+	.	g12;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	transcript	4022	4911	0.82	+	.	g12.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	start_codon	4022	4024	.	+	0	transcript_id "g12.t1"; gene_id "g12";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	initial	4022	4161	1	+	0	transcript_id "g12.t1"; gene_id "g12";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	terminal	4764	4911	0.82	+	1	transcript_id "g12.t1"; gene_id "g12";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	intron	4162	4763	1	+	.	transcript_id "g12.t1"; gene_id "g12";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	CDS	4022	4161	1	+	0	transcript_id "g12.t1"; gene_id "g12";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	CDS	4764	4911	0.82	+	1	transcript_id "g12.t1"; gene_id "g12";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_119577	AUGUSTUS	stop_codon	4909	4911	.	+	0	transcript_id "g12.t1"; gene_id "g12";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_854320	AUGUSTUS	gene	1029	1493	0.73	-	.	k141_854320.g66.t1.Ald_Xan_dh_C2
+k141_854320	AUGUSTUS	transcript	1029	1493	0.73	-	.	k141_854320.g66.t1.Ald_Xan_dh_C2.t1
+k141_854320	AUGUSTUS	stop_codon	1029	1031	.	-	0	transcript_id k141_854320.g66.t1.Ald_Xan_dh_C2; gene_id "k141_854320.g66.t1.Ald_Xan_dh_C2";
+k141_854320	AUGUSTUS	single	1029	1493	0.73	-	0	transcript_id k141_854320.g66.t1.Ald_Xan_dh_C2; gene_id "k141_854320.g66.t1.Ald_Xan_dh_C2";
+k141_854320	AUGUSTUS	CDS	1029	1493	0.73	-	0	transcript_id k141_854320.g66.t1.Ald_Xan_dh_C2; gene_id "k141_854320.g66.t1.Ald_Xan_dh_C2";
+k141_854320	AUGUSTUS	start_codon	1491	1493	.	-	0	transcript_id k141_854320.g66.t1.Ald_Xan_dh_C2; gene_id "k141_854320.g66.t1.Ald_Xan_dh_C2";
+k141_1051764	AUGUSTUS	gene	923	1781	0.71	-	.	k141_1051764.g30.t1.adh_short_C2
+k141_1051764	AUGUSTUS	transcript	923	1781	0.71	-	.	k141_1051764.g30.t1.adh_short_C2.t1
+k141_1051764	AUGUSTUS	stop_codon	923	925	.	-	0	transcript_id k141_1051764.g30.t1.adh_short_C2; gene_id "k141_1051764.g30.t1.adh_short_C2";
+k141_1051764	AUGUSTUS	terminal	923	1464	0.99	-	2	transcript_id k141_1051764.g30.t1.adh_short_C2; gene_id "k141_1051764.g30.t1.adh_short_C2";
+k141_1051764	AUGUSTUS	internal	1560	1610	0.74	-	2	transcript_id k141_1051764.g30.t1.adh_short_C2; gene_id "k141_1051764.g30.t1.adh_short_C2";
+k141_1051764	AUGUSTUS	initial	1652	1781	0.93	-	0	transcript_id k141_1051764.g30.t1.adh_short_C2; gene_id "k141_1051764.g30.t1.adh_short_C2";
+k141_1051764	AUGUSTUS	intron	1465	1559	0.77	-	.	transcript_id k141_1051764.g30.t1.adh_short_C2; gene_id "k141_1051764.g30.t1.adh_short_C2";
+k141_1051764	AUGUSTUS	intron	1611	1651	0.72	-	.	transcript_id k141_1051764.g30.t1.adh_short_C2; gene_id "k141_1051764.g30.t1.adh_short_C2";
+k141_1051764	AUGUSTUS	CDS	923	1464	0.99	-	2	transcript_id k141_1051764.g30.t1.adh_short_C2; gene_id "k141_1051764.g30.t1.adh_short_C2";
+k141_1051764	AUGUSTUS	CDS	1560	1610	0.74	-	2	transcript_id k141_1051764.g30.t1.adh_short_C2; gene_id "k141_1051764.g30.t1.adh_short_C2";
+k141_1051764	AUGUSTUS	CDS	1652	1781	0.93	-	0	transcript_id k141_1051764.g30.t1.adh_short_C2; gene_id "k141_1051764.g30.t1.adh_short_C2";
+k141_1051764	AUGUSTUS	start_codon	1779	1781	.	-	0	transcript_id k141_1051764.g30.t1.adh_short_C2; gene_id "k141_1051764.g30.t1.adh_short_C2";
+k141_2185931	AUGUSTUS	gene	2333	4254	0.68	-	.	g90+g89;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	transcript	2333	4254	0.68	-	.	g90+g89.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	stop_codon	2333	2335	.	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	terminal	2333	2443	0.76	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	internal	2508	2992	0.84	-	2	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	internal	3087	3096	1	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	internal	3154	3276	1	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	internal	3323	3430	0.98	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	internal	3482	3539	1	-	1	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	internal	3583	3631	1	-	2	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	internal	3766	3904	1	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	initial	4096	4254	0.99	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	intron	2444	2507	0.85	-	.	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	intron	2993	3086	0.99	-	.	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	intron	3097	3153	1	-	.	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	intron	3277	3322	0.98	-	.	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	intron	3431	3481	0.98	-	.	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	intron	3540	3582	1	-	.	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	intron	3632	3765	1	-	.	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	intron	3905	4095	0.93	-	.	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	CDS	2333	2443	0.76	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	CDS	2508	2992	0.84	-	2	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	CDS	3087	3096	1	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	CDS	3154	3276	1	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	CDS	3323	3430	0.98	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	CDS	3482	3539	1	-	1	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	CDS	3583	3631	1	-	2	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	CDS	3766	3904	1	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	CDS	4096	4254	0.99	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_2185931	AUGUSTUS	start_codon	4252	4254	.	-	0	transcript_id "g90+g89.t1"; gene_id "g90+g89";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_210780	AUGUSTUS	gene	1162	2773	1	+	.	k141_210780.g60.t1.Aldedh;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_210780	AUGUSTUS	transcript	1162	2773	1	+	.	k141_210780.g60.t1.Aldedh.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_210780	AUGUSTUS	start_codon	1162	1164	.	+	0	transcript_id k141_210780.g60.t1.Aldedh; gene_id "k141_210780.g60.t1.Aldedh";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_210780	AUGUSTUS	initial	1162	2265	1	+	0	transcript_id k141_210780.g60.t1.Aldedh; gene_id "k141_210780.g60.t1.Aldedh";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_210780	AUGUSTUS	terminal	323	769	1	+	0	transcript_id k141_210780.g60.t1.Aldedh; gene_id "k141_210780.g60.t1.Aldedh";
+k141_210780	AUGUSTUS	intron	262	322	1	+	.	transcript_id k141_210780.g60.t1.Aldedh; gene_id "k141_210780.g60.t1.Aldedh";
+k141_210780	AUGUSTUS	CDS	1162	2265	1	+	0	transcript_id k141_210780.g60.t1.Aldedh; gene_id "k141_210780.g60.t1.Aldedh";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_210780	AUGUSTUS	CDS	323	769	1	+	0	transcript_id k141_210780.g60.t1.Aldedh; gene_id "k141_210780.g60.t1.Aldedh";
+k141_210780	AUGUSTUS	stop_codon	767	769	.	+	0	transcript_id k141_210780.g60.t1.Aldedh; gene_id "k141_210780.g60.t1.Aldedh";
+k141_728809	AUGUSTUS	gene	1	461	0.73	+	.	g84
+k141_728809	AUGUSTUS	transcript	1	461	0.73	+	.	g84.t1
+k141_728809	AUGUSTUS	terminal	1	461	0.73	+	2	transcript_id "g84.t1"; gene_id "g84";
+k141_728809	AUGUSTUS	CDS	1	461	0.73	+	2	transcript_id "g84.t1"; gene_id "g84";
+k141_728809	AUGUSTUS	stop_codon	459	461	.	+	0	transcript_id "g84.t1"; gene_id "g84";
+k141_728809	AUGUSTUS	gene	1055	1947	0.46	+	.	k141_728809.g85.t1.Aldedh
+k141_728809	AUGUSTUS	transcript	1055	1947	0.46	+	.	k141_728809.g85.t1.Aldedh.t1
+k141_728809	AUGUSTUS	start_codon	1055	1057	.	+	0	transcript_id k141_728809.g85.t1.Aldedh; gene_id "k141_728809.g85.t1.Aldedh";
+k141_728809	AUGUSTUS	initial	1055	1281	0.51	+	0	transcript_id k141_728809.g85.t1.Aldedh; gene_id "k141_728809.g85.t1.Aldedh";
+k141_728809	AUGUSTUS	internal	1356	1589	0.46	+	1	transcript_id k141_728809.g85.t1.Aldedh; gene_id "k141_728809.g85.t1.Aldedh";
+k141_728809	AUGUSTUS	internal	1646	1812	0.96	+	1	transcript_id k141_728809.g85.t1.Aldedh; gene_id "k141_728809.g85.t1.Aldedh";
+k141_728809	AUGUSTUS	internal	1857	1947	0.99	+	2	transcript_id k141_728809.g85.t1.Aldedh; gene_id "k141_728809.g85.t1.Aldedh";
+k141_728809	AUGUSTUS	intron	1282	1355	0.46	+	.	transcript_id k141_728809.g85.t1.Aldedh; gene_id "k141_728809.g85.t1.Aldedh";
+k141_728809	AUGUSTUS	intron	1590	1645	0.96	+	.	transcript_id k141_728809.g85.t1.Aldedh; gene_id "k141_728809.g85.t1.Aldedh";
+k141_728809	AUGUSTUS	intron	1813	1856	0.99	+	.	transcript_id k141_728809.g85.t1.Aldedh; gene_id "k141_728809.g85.t1.Aldedh";
+k141_728809	AUGUSTUS	CDS	1055	1281	0.51	+	0	transcript_id k141_728809.g85.t1.Aldedh; gene_id "k141_728809.g85.t1.Aldedh";
+k141_728809	AUGUSTUS	CDS	1356	1589	0.46	+	1	transcript_id k141_728809.g85.t1.Aldedh; gene_id "k141_728809.g85.t1.Aldedh";
+k141_728809	AUGUSTUS	CDS	1646	1812	0.96	+	1	transcript_id k141_728809.g85.t1.Aldedh; gene_id "k141_728809.g85.t1.Aldedh";
+k141_728809	AUGUSTUS	CDS	1857	1947	0.99	+	2	transcript_id k141_728809.g85.t1.Aldedh; gene_id "k141_728809.g85.t1.Aldedh";
+k141_544298	AUGUSTUS	gene	1195	1951	0.31	+	.	k141_544298.g81.t1.adh_short_C2
+k141_544298	AUGUSTUS	transcript	1195	1951	0.31	+	.	k141_544298.g81.t1.adh_short_C2.t1
+k141_544298	AUGUSTUS	start_codon	1195	1197	.	+	0	transcript_id k141_544298.g81.t1.adh_short_C2; gene_id "k141_544298.g81.t1.adh_short_C2";
+k141_544298	AUGUSTUS	initial	1195	1286	0.82	+	0	transcript_id k141_544298.g81.t1.adh_short_C2; gene_id "k141_544298.g81.t1.adh_short_C2";
+k141_544298	AUGUSTUS	internal	1424	1510	0.51	+	1	transcript_id k141_544298.g81.t1.adh_short_C2; gene_id "k141_544298.g81.t1.adh_short_C2";
+k141_544298	AUGUSTUS	terminal	1876	1951	0.31	+	1	transcript_id k141_544298.g81.t1.adh_short_C2; gene_id "k141_544298.g81.t1.adh_short_C2";
+k141_544298	AUGUSTUS	intron	1287	1423	0.8	+	.	transcript_id k141_544298.g81.t1.adh_short_C2; gene_id "k141_544298.g81.t1.adh_short_C2";
+k141_544298	AUGUSTUS	intron	1511	1875	0.46	+	.	transcript_id k141_544298.g81.t1.adh_short_C2; gene_id "k141_544298.g81.t1.adh_short_C2";
+k141_544298	AUGUSTUS	CDS	1195	1286	0.82	+	0	transcript_id k141_544298.g81.t1.adh_short_C2; gene_id "k141_544298.g81.t1.adh_short_C2";
+k141_544298	AUGUSTUS	CDS	1424	1510	0.51	+	1	transcript_id k141_544298.g81.t1.adh_short_C2; gene_id "k141_544298.g81.t1.adh_short_C2";
+k141_544298	AUGUSTUS	CDS	1876	1951	0.31	+	1	transcript_id k141_544298.g81.t1.adh_short_C2; gene_id "k141_544298.g81.t1.adh_short_C2";
+k141_544298	AUGUSTUS	stop_codon	1949	1951	.	+	0	transcript_id k141_544298.g81.t1.adh_short_C2; gene_id "k141_544298.g81.t1.adh_short_C2";
+k141_544298	AUGUSTUS	gene	3465	4278	0.89	+	.	g82
+k141_544298	AUGUSTUS	transcript	3465	4278	0.89	+	.	g82.t1
+k141_544298	AUGUSTUS	start_codon	3465	3467	.	+	0	transcript_id "g82.t1"; gene_id "g82";
+k141_544298	AUGUSTUS	initial	3465	3519	0.89	+	0	transcript_id "g82.t1"; gene_id "g82";
+k141_544298	AUGUSTUS	internal	3846	4278	1	+	2	transcript_id "g82.t1"; gene_id "g82";
+k141_544298	AUGUSTUS	intron	3520	3845	0.9	+	.	transcript_id "g82.t1"; gene_id "g82";
+k141_544298	AUGUSTUS	CDS	3465	3519	0.89	+	0	transcript_id "g82.t1"; gene_id "g82";
+k141_544298	AUGUSTUS	CDS	3846	4278	1	+	2	transcript_id "g82.t1"; gene_id "g82";
+k141_287185	AUGUSTUS	gene	836	2337	0.58	-	.	k141_287185.g77.t1.Aminotran_1_2;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_287185	AUGUSTUS	transcript	836	2337	0.58	-	.	k141_287185.g77.t1.Aminotran_1_2.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_287185	AUGUSTUS	stop_codon	836	838	.	-	0	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_287185	AUGUSTUS	terminal	836	958	0.97	-	0	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_287185	AUGUSTUS	internal	100	479	0.96	-	2	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	internal	573	675	0.81	-	0	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	internal	769	897	0.68	-	0	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	internal	944	1065	0.61	-	2	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	initial	1114	1210	1	-	0	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	intron	959	1226	0.98	-	.	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_287185	AUGUSTUS	intron	480	572	0.98	-	.	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	intron	676	768	0.68	-	.	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	intron	898	943	0.65	-	.	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	intron	1066	1113	0.95	-	.	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	CDS	836	958	0.97	-	0	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_287185	AUGUSTUS	CDS	100	479	0.96	-	2	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	CDS	573	675	0.81	-	0	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	CDS	769	897	0.68	-	0	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	CDS	944	1065	0.61	-	2	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	CDS	1114	1210	1	-	0	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_287185	AUGUSTUS	start_codon	1208	1210	.	-	0	transcript_id k141_287185.g77.t1.Aminotran_1_2; gene_id "k141_287185.g77.t1.Aminotran_1_2";
+k141_154223	AUGUSTUS	gene	1	2290	0.51	+	.	k141_154223.g8.t1.adh_short_C2;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_154223	AUGUSTUS	transcript	1	2290	0.51	+	.	k141_154223.g8.t1.adh_short_C2.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_154223	AUGUSTUS	terminal	122	2290	0.51	+	0	transcript_id k141_154223.g8.t1.adh_short_C2; gene_id "k141_154223.g8.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_154223	AUGUSTUS	intron	1	121	0.51	+	.	transcript_id k141_154223.g8.t1.adh_short_C2; gene_id "k141_154223.g8.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_154223	AUGUSTUS	CDS	122	2290	0.51	+	0	transcript_id k141_154223.g8.t1.adh_short_C2; gene_id "k141_154223.g8.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_154223	AUGUSTUS	stop_codon	2288	2290	.	+	0	transcript_id k141_154223.g8.t1.adh_short_C2; gene_id "k141_154223.g8.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_154223	AUGUSTUS	gene	187	505	0.64	-	.	g9
+k141_154223	AUGUSTUS	transcript	187	505	0.64	-	.	g9.t1
+k141_154223	AUGUSTUS	stop_codon	187	189	.	-	0	transcript_id "g9.t1"; gene_id "g9";
+k141_154223	AUGUSTUS	terminal	187	440	0.64	-	2	transcript_id "g9.t1"; gene_id "g9";
+k141_154223	AUGUSTUS	initial	493	505	0.66	-	0	transcript_id "g9.t1"; gene_id "g9";
+k141_154223	AUGUSTUS	intron	441	492	0.65	-	.	transcript_id "g9.t1"; gene_id "g9";
+k141_154223	AUGUSTUS	CDS	187	440	0.64	-	2	transcript_id "g9.t1"; gene_id "g9";
+k141_154223	AUGUSTUS	CDS	493	505	0.66	-	0	transcript_id "g9.t1"; gene_id "g9";
+k141_154223	AUGUSTUS	start_codon	503	505	.	-	0	transcript_id "g9.t1"; gene_id "g9";
+k141_154223	AUGUSTUS	gene	2828	3407	0.58	+	.	g10
+k141_154223	AUGUSTUS	transcript	2828	3407	0.58	+	.	g10.t1
+k141_154223	AUGUSTUS	start_codon	2828	2830	.	+	0	transcript_id "g10.t1"; gene_id "g10";
+k141_154223	AUGUSTUS	initial	2828	2935	0.6	+	0	transcript_id "g10.t1"; gene_id "g10";
+k141_154223	AUGUSTUS	terminal	3159	3407	0.97	+	0	transcript_id "g10.t1"; gene_id "g10";
+k141_154223	AUGUSTUS	intron	2936	3158	0.58	+	.	transcript_id "g10.t1"; gene_id "g10";
+k141_154223	AUGUSTUS	CDS	2828	2935	0.6	+	0	transcript_id "g10.t1"; gene_id "g10";
+k141_154223	AUGUSTUS	CDS	3159	3407	0.97	+	0	transcript_id "g10.t1"; gene_id "g10";
+k141_154223	AUGUSTUS	stop_codon	3405	3407	.	+	0	transcript_id "g10.t1"; gene_id "g10";
+k141_206739	AUGUSTUS	gene	1713	3426	0.32	+	.	k141_206739.g38.t1.Aminotran_1_2
+k141_206739	AUGUSTUS	transcript	1713	3426	0.32	+	.	k141_206739.g38.t1.Aminotran_1_2.t1
+k141_206739	AUGUSTUS	start_codon	1713	1715	.	+	0	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	initial	1713	1745	0.69	+	0	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	internal	2191	2278	0.7	+	0	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	internal	2331	2455	0.7	+	2	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	internal	2505	2642	0.49	+	0	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	terminal	3136	3426	0.77	+	0	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	intron	1746	2190	0.66	+	.	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	intron	2279	2330	0.7	+	.	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	intron	2456	2504	0.84	+	.	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	intron	2643	3135	0.46	+	.	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	CDS	1713	1745	0.69	+	0	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	CDS	2191	2278	0.7	+	0	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	CDS	2331	2455	0.7	+	2	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	CDS	2505	2642	0.49	+	0	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	CDS	3136	3426	0.77	+	0	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_206739	AUGUSTUS	stop_codon	3424	3426	.	+	0	transcript_id k141_206739.g38.t1.Aminotran_1_2; gene_id "k141_206739.g38.t1.Aminotran_1_2";
+k141_327104	AUGUSTUS	gene	164	4345	1	-	.	k141_327104.g15.t1.AMP-binding;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_327104	AUGUSTUS	transcript	164	4345	1	-	.	k141_327104.g15.t1.AMP-binding.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_327104	AUGUSTUS	stop_codon	164	166	.	-	0	transcript_id k141_327104.g15.t1.AMP-binding; gene_id "k141_327104.g15.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_327104	AUGUSTUS	single	164	4345	1	-	0	transcript_id k141_327104.g15.t1.AMP-binding; gene_id "k141_327104.g15.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_327104	AUGUSTUS	CDS	164	4345	1	-	0	transcript_id k141_327104.g15.t1.AMP-binding; gene_id "k141_327104.g15.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_327104	AUGUSTUS	start_codon	3259	3261	.	-	0	transcript_id k141_327104.g15.t1.AMP-binding; gene_id "k141_327104.g15.t1.AMP-binding";
+k141_1187706	AUGUSTUS	gene	1725	2903	0.3	+	.	k141_1187706.g44.t1.Aldo_ket_red;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	transcript	1725	2903	0.3	+	.	k141_1187706.g44.t1.Aldo_ket_red.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	start_codon	1725	1727	.	+	0	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	initial	1725	1832	0.75	+	0	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	internal	2016	2145	0.75	+	0	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	internal	2263	2670	0.59	+	2	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	internal	2744	2834	0.45	+	2	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	terminal	2876	2903	0.41	+	1	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	intron	1833	2015	0.75	+	.	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	intron	2146	2262	0.96	+	.	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	intron	2671	2743	0.62	+	.	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	intron	2835	2875	0.39	+	.	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	CDS	1725	1832	0.75	+	0	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	CDS	2016	2145	0.75	+	0	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	CDS	2263	2670	0.59	+	2	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	CDS	2744	2834	0.45	+	2	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	CDS	2876	2903	0.41	+	1	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	stop_codon	2901	2903	.	+	0	transcript_id k141_1187706.g44.t1.Aldo_ket_red; gene_id "k141_1187706.g44.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	gene	3240	3625	0.69	-	.	g45;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	transcript	3240	3625	0.69	-	.	g45.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	stop_codon	3240	3242	.	-	0	transcript_id "g45.t1"; gene_id "g45";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	terminal	3240	3485	0.82	-	0	transcript_id "g45.t1"; gene_id "g45";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	initial	27	29	0.72	-	0	transcript_id "g45.t1"; gene_id "g45";
+k141_1187706	AUGUSTUS	intron	3486	3622	0.69	-	.	transcript_id "g45.t1"; gene_id "g45";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	CDS	3240	3485	0.82	-	0	transcript_id "g45.t1"; gene_id "g45";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1187706	AUGUSTUS	CDS	27	29	0.72	-	0	transcript_id "g45.t1"; gene_id "g45";
+k141_1187706	AUGUSTUS	start_codon	27	29	.	-	0	transcript_id "g45.t1"; gene_id "g45";
+k141_1187706	AUGUSTUS	gene	355	1022	0.23	+	.	g46
+k141_1187706	AUGUSTUS	transcript	355	1022	0.23	+	.	g46.t1
+k141_1187706	AUGUSTUS	start_codon	355	357	.	+	0	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	initial	355	382	0.38	+	0	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	internal	436	499	0.32	+	2	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	internal	697	805	0.73	+	1	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	terminal	870	1022	0.69	+	0	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	intron	383	435	0.33	+	.	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	intron	500	696	0.32	+	.	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	intron	806	869	0.71	+	.	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	CDS	355	382	0.38	+	0	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	CDS	436	499	0.32	+	2	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	CDS	697	805	0.73	+	1	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	CDS	870	1022	0.69	+	0	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	stop_codon	1020	1022	.	+	0	transcript_id "g46.t1"; gene_id "g46";
+k141_1187706	AUGUSTUS	gene	3896	4385	0.35	+	.	g47
+k141_1187706	AUGUSTUS	transcript	3896	4385	0.35	+	.	g47.t1
+k141_1187706	AUGUSTUS	start_codon	3896	3898	.	+	0	transcript_id "g47.t1"; gene_id "g47";
+k141_1187706	AUGUSTUS	initial	3896	4016	0.56	+	0	transcript_id "g47.t1"; gene_id "g47";
+k141_1187706	AUGUSTUS	terminal	4129	4385	0.46	+	2	transcript_id "g47.t1"; gene_id "g47";
+k141_1187706	AUGUSTUS	intron	4017	4128	0.35	+	.	transcript_id "g47.t1"; gene_id "g47";
+k141_1187706	AUGUSTUS	CDS	3896	4016	0.56	+	0	transcript_id "g47.t1"; gene_id "g47";
+k141_1187706	AUGUSTUS	CDS	4129	4385	0.46	+	2	transcript_id "g47.t1"; gene_id "g47";
+k141_1187706	AUGUSTUS	stop_codon	4383	4385	.	+	0	transcript_id "g47.t1"; gene_id "g47";
+k141_41715	AUGUSTUS	gene	686	1600	0.99	-	.	k141_41715.g39.t1.Aldo_ket_red
+k141_41715	AUGUSTUS	transcript	686	1600	0.99	-	.	k141_41715.g39.t1.Aldo_ket_red.t1
+k141_41715	AUGUSTUS	stop_codon	686	688	.	-	0	transcript_id k141_41715.g39.t1.Aldo_ket_red; gene_id "k141_41715.g39.t1.Aldo_ket_red";
+k141_41715	AUGUSTUS	single	686	1600	0.99	-	0	transcript_id k141_41715.g39.t1.Aldo_ket_red; gene_id "k141_41715.g39.t1.Aldo_ket_red";
+k141_41715	AUGUSTUS	CDS	686	1600	0.99	-	0	transcript_id k141_41715.g39.t1.Aldo_ket_red; gene_id "k141_41715.g39.t1.Aldo_ket_red";
+k141_41715	AUGUSTUS	start_codon	1598	1600	.	-	0	transcript_id k141_41715.g39.t1.Aldo_ket_red; gene_id "k141_41715.g39.t1.Aldo_ket_red";
+k141_114056	AUGUSTUS	gene	1	2014	0.14	-	.	k141_114056.g1.t1.Aldedh
+k141_114056	AUGUSTUS	transcript	1	2014	0.14	-	.	k141_114056.g1.t1.Aldedh.t1
+k141_114056	AUGUSTUS	internal	569	779	0.4	-	0	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	internal	839	928	0.83	-	0	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	internal	970	1085	0.87	-	2	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	internal	1136	1223	1	-	0	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	internal	1395	1461	0.95	-	1	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	initial	1935	2014	1	-	0	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	intron	1	568	0.2	-	.	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	intron	780	838	0.92	-	.	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	intron	929	969	0.85	-	.	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	intron	1086	1135	1	-	.	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	intron	1224	1394	1	-	.	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	intron	1462	1934	0.94	-	.	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	CDS	569	779	0.4	-	0	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	CDS	839	928	0.83	-	0	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	CDS	970	1085	0.87	-	2	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	CDS	1136	1223	1	-	0	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	CDS	1395	1461	0.95	-	1	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	CDS	1935	2014	1	-	0	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_114056	AUGUSTUS	start_codon	2012	2014	.	-	0	transcript_id k141_114056.g1.t1.Aldedh; gene_id "k141_114056.g1.t1.Aldedh";
+k141_557996	AUGUSTUS	gene	1651	3235	0.62	-	.	k141_557996.g83.t1.Aminotran_1_2;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_557996	AUGUSTUS	transcript	1651	3235	0.62	-	.	k141_557996.g83.t1.Aminotran_1_2.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_557996	AUGUSTUS	stop_codon	1651	1653	.	-	0	transcript_id k141_557996.g83.t1.Aminotran_1_2; gene_id "k141_557996.g83.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_557996	AUGUSTUS	terminal	1651	2493	0.62	-	0	transcript_id k141_557996.g83.t1.Aminotran_1_2; gene_id "k141_557996.g83.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_557996	AUGUSTUS	internal	632	1107	1	-	2	transcript_id k141_557996.g83.t1.Aminotran_1_2; gene_id "k141_557996.g83.t1.Aminotran_1_2";
+k141_557996	AUGUSTUS	initial	1165	1321	1	-	0	transcript_id k141_557996.g83.t1.Aminotran_1_2; gene_id "k141_557996.g83.t1.Aminotran_1_2";
+k141_557996	AUGUSTUS	intron	580	631	0.62	-	.	transcript_id k141_557996.g83.t1.Aminotran_1_2; gene_id "k141_557996.g83.t1.Aminotran_1_2";
+k141_557996	AUGUSTUS	intron	1108	1164	1	-	.	transcript_id k141_557996.g83.t1.Aminotran_1_2; gene_id "k141_557996.g83.t1.Aminotran_1_2";
+k141_557996	AUGUSTUS	CDS	1651	2493	0.62	-	0	transcript_id k141_557996.g83.t1.Aminotran_1_2; gene_id "k141_557996.g83.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_557996	AUGUSTUS	CDS	632	1107	1	-	2	transcript_id k141_557996.g83.t1.Aminotran_1_2; gene_id "k141_557996.g83.t1.Aminotran_1_2";
+k141_557996	AUGUSTUS	CDS	1165	1321	1	-	0	transcript_id k141_557996.g83.t1.Aminotran_1_2; gene_id "k141_557996.g83.t1.Aminotran_1_2";
+k141_557996	AUGUSTUS	start_codon	1319	1321	.	-	0	transcript_id k141_557996.g83.t1.Aminotran_1_2; gene_id "k141_557996.g83.t1.Aminotran_1_2";
+k141_238612	AUGUSTUS	gene	295	2259	0.98	+	.	k141_238612.g37.t1.AMP-binding
+k141_238612	AUGUSTUS	transcript	295	2259	0.98	+	.	k141_238612.g37.t1.AMP-binding.t1
+k141_238612	AUGUSTUS	start_codon	295	297	.	+	0	transcript_id k141_238612.g37.t1.AMP-binding; gene_id "k141_238612.g37.t1.AMP-binding";
+k141_238612	AUGUSTUS	single	295	2259	0.98	+	0	transcript_id k141_238612.g37.t1.AMP-binding; gene_id "k141_238612.g37.t1.AMP-binding";
+k141_238612	AUGUSTUS	CDS	295	2259	0.98	+	0	transcript_id k141_238612.g37.t1.AMP-binding; gene_id "k141_238612.g37.t1.AMP-binding";
+k141_238612	AUGUSTUS	stop_codon	2257	2259	.	+	0	transcript_id k141_238612.g37.t1.AMP-binding; gene_id "k141_238612.g37.t1.AMP-binding";
+k141_490449	AUGUSTUS	gene	2	794	0.34	-	.	k141_490449.g16.t1.Thiolase_N
+k141_490449	AUGUSTUS	transcript	2	794	0.34	-	.	k141_490449.g16.t1.Thiolase_N.t1
+k141_490449	AUGUSTUS	initial	2	794	0.34	-	0	transcript_id k141_490449.g16.t1.Thiolase_N; gene_id "k141_490449.g16.t1.Thiolase_N";
+k141_490449	AUGUSTUS	CDS	2	794	0.34	-	0	transcript_id k141_490449.g16.t1.Thiolase_N; gene_id "k141_490449.g16.t1.Thiolase_N";
+k141_490449	AUGUSTUS	start_codon	792	794	.	-	0	transcript_id k141_490449.g16.t1.Thiolase_N; gene_id "k141_490449.g16.t1.Thiolase_N";
+k141_1089647	AUGUSTUS	gene	215	2271	0.2	-	.	k141_1089647.g19.t1.TPP_enzyme_N
+k141_1089647	AUGUSTUS	transcript	215	2271	0.2	-	.	k141_1089647.g19.t1.TPP_enzyme_N.t1
+k141_1089647	AUGUSTUS	stop_codon	215	217	.	-	0	transcript_id k141_1089647.g19.t1.TPP_enzyme_N; gene_id "k141_1089647.g19.t1.TPP_enzyme_N";
+k141_1089647	AUGUSTUS	terminal	215	1782	0.26	-	2	transcript_id k141_1089647.g19.t1.TPP_enzyme_N; gene_id "k141_1089647.g19.t1.TPP_enzyme_N";
+k141_1089647	AUGUSTUS	internal	1862	2121	0.2	-	1	transcript_id k141_1089647.g19.t1.TPP_enzyme_N; gene_id "k141_1089647.g19.t1.TPP_enzyme_N";
+k141_1089647	AUGUSTUS	initial	2171	2271	1	-	0	transcript_id k141_1089647.g19.t1.TPP_enzyme_N; gene_id "k141_1089647.g19.t1.TPP_enzyme_N";
+k141_1089647	AUGUSTUS	intron	1783	1861	0.25	-	.	transcript_id k141_1089647.g19.t1.TPP_enzyme_N; gene_id "k141_1089647.g19.t1.TPP_enzyme_N";
+k141_1089647	AUGUSTUS	intron	2122	2170	0.88	-	.	transcript_id k141_1089647.g19.t1.TPP_enzyme_N; gene_id "k141_1089647.g19.t1.TPP_enzyme_N";
+k141_1089647	AUGUSTUS	CDS	215	1782	0.26	-	2	transcript_id k141_1089647.g19.t1.TPP_enzyme_N; gene_id "k141_1089647.g19.t1.TPP_enzyme_N";
+k141_1089647	AUGUSTUS	CDS	1862	2121	0.2	-	1	transcript_id k141_1089647.g19.t1.TPP_enzyme_N; gene_id "k141_1089647.g19.t1.TPP_enzyme_N";
+k141_1089647	AUGUSTUS	CDS	2171	2271	1	-	0	transcript_id k141_1089647.g19.t1.TPP_enzyme_N; gene_id "k141_1089647.g19.t1.TPP_enzyme_N";
+k141_1089647	AUGUSTUS	start_codon	2269	2271	.	-	0	transcript_id k141_1089647.g19.t1.TPP_enzyme_N; gene_id "k141_1089647.g19.t1.TPP_enzyme_N";
+k141_2105242	AUGUSTUS	gene	500	2266	0.68	+	.	k141_2105242.g91.t1.Aminotran_1_2
+k141_2105242	AUGUSTUS	transcript	500	2266	0.68	+	.	k141_2105242.g91.t1.Aminotran_1_2.t1
+k141_2105242	AUGUSTUS	start_codon	500	502	.	+	0	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	initial	500	844	0.89	+	0	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	internal	884	906	0.72	+	0	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	internal	964	1038	0.78	+	1	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	internal	1088	1452	0.94	+	1	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	terminal	1500	2266	0.94	+	2	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	intron	845	883	0.89	+	.	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	intron	907	963	0.78	+	.	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	intron	1039	1087	1	+	.	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	intron	1453	1499	0.94	+	.	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	CDS	500	844	0.89	+	0	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	CDS	884	906	0.72	+	0	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	CDS	964	1038	0.78	+	1	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	CDS	1088	1452	0.94	+	1	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	CDS	1500	2266	0.94	+	2	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_2105242	AUGUSTUS	stop_codon	2264	2266	.	+	0	transcript_id k141_2105242.g91.t1.Aminotran_1_2; gene_id "k141_2105242.g91.t1.Aminotran_1_2";
+k141_952863	AUGUSTUS	gene	288	3392	0.18	+	.	k141_952863.g18.t1.AMP-binding;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_952863	AUGUSTUS	transcript	288	3392	0.18	+	.	k141_952863.g18.t1.AMP-binding.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_952863	AUGUSTUS	start_codon	288	290	.	+	0	transcript_id k141_952863.g18.t1.AMP-binding; gene_id "k141_952863.g18.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_952863	AUGUSTUS	single	288	3392	0.18	+	0	transcript_id k141_952863.g18.t1.AMP-binding; gene_id "k141_952863.g18.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_952863	AUGUSTUS	CDS	288	3392	0.18	+	0	transcript_id k141_952863.g18.t1.AMP-binding; gene_id "k141_952863.g18.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_952863	AUGUSTUS	stop_codon	3390	3392	.	+	0	transcript_id k141_952863.g18.t1.AMP-binding; gene_id "k141_952863.g18.t1.AMP-binding";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1518802	AUGUSTUS	gene	1	1184	0.55	+	.	k141_1518802.g7.t1.Aldedh;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1518802	AUGUSTUS	transcript	1	1184	0.55	+	.	k141_1518802.g7.t1.Aldedh.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1518802	AUGUSTUS	internal	1	244	0.73	+	0	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1518802	AUGUSTUS	internal	248	359	0.87	+	2	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_1518802	AUGUSTUS	internal	399	465	0.81	+	1	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_1518802	AUGUSTUS	internal	526	846	0.88	+	0	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_1518802	AUGUSTUS	terminal	943	1122	1	+	0	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_1518802	AUGUSTUS	intron	183	247	0.74	+	.	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_1518802	AUGUSTUS	intron	360	398	0.87	+	.	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_1518802	AUGUSTUS	intron	466	525	0.81	+	.	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_1518802	AUGUSTUS	intron	847	942	1	+	.	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_1518802	AUGUSTUS	CDS	1	244	0.73	+	0	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1518802	AUGUSTUS	CDS	248	359	0.87	+	2	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_1518802	AUGUSTUS	CDS	399	465	0.81	+	1	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_1518802	AUGUSTUS	CDS	526	846	0.88	+	0	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_1518802	AUGUSTUS	CDS	943	1122	1	+	0	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_1518802	AUGUSTUS	stop_codon	1120	1122	.	+	0	transcript_id k141_1518802.g7.t1.Aldedh; gene_id "k141_1518802.g7.t1.Aldedh";
+k141_391710	AUGUSTUS	gene	3743	4896	0.7	-	.	g40
+k141_391710	AUGUSTUS	transcript	3743	4896	0.7	-	.	g40.t1
+k141_391710	AUGUSTUS	stop_codon	3743	3745	.	-	0	transcript_id "g40.t1"; gene_id "g40";
+k141_391710	AUGUSTUS	terminal	3743	3895	0.74	-	0	transcript_id "g40.t1"; gene_id "g40";
+k141_391710	AUGUSTUS	internal	4616	4678	0.89	-	0	transcript_id "g40.t1"; gene_id "g40";
+k141_391710	AUGUSTUS	initial	4744	4896	0.97	-	0	transcript_id "g40.t1"; gene_id "g40";
+k141_391710	AUGUSTUS	intron	3896	4615	0.91	-	.	transcript_id "g40.t1"; gene_id "g40";
+k141_391710	AUGUSTUS	intron	4679	4743	0.96	-	.	transcript_id "g40.t1"; gene_id "g40";
+k141_391710	AUGUSTUS	CDS	3743	3895	0.74	-	0	transcript_id "g40.t1"; gene_id "g40";
+k141_391710	AUGUSTUS	CDS	4616	4678	0.89	-	0	transcript_id "g40.t1"; gene_id "g40";
+k141_391710	AUGUSTUS	CDS	4744	4896	0.97	-	0	transcript_id "g40.t1"; gene_id "g40";
+k141_391710	AUGUSTUS	start_codon	4894	4896	.	-	0	transcript_id "g40.t1"; gene_id "g40";
+k141_391710	AUGUSTUS	gene	5703	6173	0.98	+	.	k141_391710.g41.t1.Aldo_ket_red
+k141_391710	AUGUSTUS	transcript	5703	6173	0.98	+	.	k141_391710.g41.t1.Aldo_ket_red.t1
+k141_391710	AUGUSTUS	start_codon	5703	5705	.	+	0	transcript_id k141_391710.g41.t1.Aldo_ket_red; gene_id "k141_391710.g41.t1.Aldo_ket_red";
+k141_391710	AUGUSTUS	single	5703	6173	0.98	+	0	transcript_id k141_391710.g41.t1.Aldo_ket_red; gene_id "k141_391710.g41.t1.Aldo_ket_red";
+k141_391710	AUGUSTUS	CDS	5703	6173	0.98	+	0	transcript_id k141_391710.g41.t1.Aldo_ket_red; gene_id "k141_391710.g41.t1.Aldo_ket_red";
+k141_391710	AUGUSTUS	stop_codon	6171	6173	.	+	0	transcript_id k141_391710.g41.t1.Aldo_ket_red; gene_id "k141_391710.g41.t1.Aldo_ket_red";
+k141_796589	AUGUSTUS	gene	1	268	0.69	+	.	g58;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_796589	AUGUSTUS	transcript	1	268	0.69	+	.	g58.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_796589	AUGUSTUS	terminal	117	268	0.69	+	2	transcript_id "g58.t1"; gene_id "g58";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_796589	AUGUSTUS	intron	1	116	0.7	+	.	transcript_id "g58.t1"; gene_id "g58";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_796589	AUGUSTUS	CDS	117	268	0.69	+	2	transcript_id "g58.t1"; gene_id "g58";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_796589	AUGUSTUS	stop_codon	266	268	.	+	0	transcript_id "g58.t1"; gene_id "g58";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_796589	AUGUSTUS	gene	789	1749	0.35	+	.	k141_796589.g59.t1.adh_short_C2;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_796589	AUGUSTUS	transcript	789	1749	0.35	+	.	k141_796589.g59.t1.adh_short_C2.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_796589	AUGUSTUS	start_codon	789	791	.	+	0	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_796589	AUGUSTUS	initial	789	1048	0.7	+	0	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_796589	AUGUSTUS	internal	243	296	0.85	+	1	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";
+k141_796589	AUGUSTUS	internal	426	655	0.45	+	1	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";
+k141_796589	AUGUSTUS	terminal	727	896	1	+	2	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";
+k141_796589	AUGUSTUS	intron	196	242	0.83	+	.	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";
+k141_796589	AUGUSTUS	intron	297	425	0.45	+	.	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";
+k141_796589	AUGUSTUS	intron	656	726	1	+	.	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";
+k141_796589	AUGUSTUS	CDS	789	1048	0.7	+	0	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_796589	AUGUSTUS	CDS	243	296	0.85	+	1	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";
+k141_796589	AUGUSTUS	CDS	426	655	0.45	+	1	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";
+k141_796589	AUGUSTUS	CDS	727	896	1	+	2	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";
+k141_796589	AUGUSTUS	stop_codon	894	896	.	+	0	transcript_id k141_796589.g59.t1.adh_short_C2; gene_id "k141_796589.g59.t1.adh_short_C2";
+k141_907765	AUGUSTUS	gene	20	1810	0.88	+	.	k141_907765.g20.t1.AMP-binding
+k141_907765	AUGUSTUS	transcript	20	1810	0.88	+	.	k141_907765.g20.t1.AMP-binding.t1
+k141_907765	AUGUSTUS	start_codon	20	22	.	+	0	transcript_id k141_907765.g20.t1.AMP-binding; gene_id "k141_907765.g20.t1.AMP-binding";
+k141_907765	AUGUSTUS	single	20	1810	0.88	+	0	transcript_id k141_907765.g20.t1.AMP-binding; gene_id "k141_907765.g20.t1.AMP-binding";
+k141_907765	AUGUSTUS	CDS	20	1810	0.88	+	0	transcript_id k141_907765.g20.t1.AMP-binding; gene_id "k141_907765.g20.t1.AMP-binding";
+k141_907765	AUGUSTUS	stop_codon	1808	1810	.	+	0	transcript_id k141_907765.g20.t1.AMP-binding; gene_id "k141_907765.g20.t1.AMP-binding";
+k141_1276754	AUGUSTUS	gene	1201	2954	1	+	.	k141_1276754.g73.t1.Aldedh
+k141_1276754	AUGUSTUS	transcript	1201	2954	1	+	.	k141_1276754.g73.t1.Aldedh.t1
+k141_1276754	AUGUSTUS	start_codon	1201	1203	.	+	0	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	initial	1201	1350	1	+	0	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	internal	1391	1764	1	+	0	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	internal	1827	1924	1	+	1	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	internal	1977	2042	1	+	2	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	terminal	2101	2954	1	+	2	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	intron	1351	1390	1	+	.	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	intron	1765	1826	1	+	.	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	intron	1925	1976	1	+	.	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	intron	2043	2100	1	+	.	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	CDS	1201	1350	1	+	0	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	CDS	1391	1764	1	+	0	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	CDS	1827	1924	1	+	1	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	CDS	1977	2042	1	+	2	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	CDS	2101	2954	1	+	2	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_1276754	AUGUSTUS	stop_codon	2952	2954	.	+	0	transcript_id k141_1276754.g73.t1.Aldedh; gene_id "k141_1276754.g73.t1.Aldedh";
+k141_401965	AUGUSTUS	gene	670	1902	0.3	-	.	k141_401965.g6.t1.Thiolase_N
+k141_401965	AUGUSTUS	transcript	670	1902	0.3	-	.	k141_401965.g6.t1.Thiolase_N.t1
+k141_401965	AUGUSTUS	stop_codon	670	672	.	-	0	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_401965	AUGUSTUS	terminal	670	775	0.75	-	1	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_401965	AUGUSTUS	internal	825	1189	0.95	-	0	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_401965	AUGUSTUS	internal	1651	1788	0.65	-	0	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_401965	AUGUSTUS	initial	1855	1902	0.46	-	0	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_401965	AUGUSTUS	intron	776	824	0.77	-	.	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_401965	AUGUSTUS	intron	1190	1650	0.92	-	.	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_401965	AUGUSTUS	intron	1789	1854	0.69	-	.	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_401965	AUGUSTUS	CDS	670	775	0.75	-	1	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_401965	AUGUSTUS	CDS	825	1189	0.95	-	0	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_401965	AUGUSTUS	CDS	1651	1788	0.65	-	0	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_401965	AUGUSTUS	CDS	1855	1902	0.46	-	0	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_401965	AUGUSTUS	start_codon	1900	1902	.	-	0	transcript_id k141_401965.g6.t1.Thiolase_N; gene_id "k141_401965.g6.t1.Thiolase_N";
+k141_525266	AUGUSTUS	gene	892	1405	0.7	+	.	k141_525266.g3.t1.Aminotran_1_2
+k141_525266	AUGUSTUS	transcript	892	1405	0.7	+	.	k141_525266.g3.t1.Aminotran_1_2.t1
+k141_525266	AUGUSTUS	start_codon	892	894	.	+	0	transcript_id k141_525266.g3.t1.Aminotran_1_2; gene_id "k141_525266.g3.t1.Aminotran_1_2";
+k141_525266	AUGUSTUS	initial	892	975	0.71	+	0	transcript_id k141_525266.g3.t1.Aminotran_1_2; gene_id "k141_525266.g3.t1.Aminotran_1_2";
+k141_525266	AUGUSTUS	terminal	1085	1405	0.88	+	0	transcript_id k141_525266.g3.t1.Aminotran_1_2; gene_id "k141_525266.g3.t1.Aminotran_1_2";
+k141_525266	AUGUSTUS	intron	976	1084	0.89	+	.	transcript_id k141_525266.g3.t1.Aminotran_1_2; gene_id "k141_525266.g3.t1.Aminotran_1_2";
+k141_525266	AUGUSTUS	CDS	892	975	0.71	+	0	transcript_id k141_525266.g3.t1.Aminotran_1_2; gene_id "k141_525266.g3.t1.Aminotran_1_2";
+k141_525266	AUGUSTUS	CDS	1085	1405	0.88	+	0	transcript_id k141_525266.g3.t1.Aminotran_1_2; gene_id "k141_525266.g3.t1.Aminotran_1_2";
+k141_525266	AUGUSTUS	stop_codon	1403	1405	.	+	0	transcript_id k141_525266.g3.t1.Aminotran_1_2; gene_id "k141_525266.g3.t1.Aminotran_1_2";
+k141_707552	AUGUSTUS	gene	1286	2014	0.18	-	.	k141_707552.g62.t1.Aldo_ket_red;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_707552	AUGUSTUS	transcript	1286	2014	0.18	-	.	k141_707552.g62.t1.Aldo_ket_red.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_707552	AUGUSTUS	stop_codon	1286	1288	.	-	0	transcript_id k141_707552.g62.t1.Aldo_ket_red; gene_id "k141_707552.g62.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_707552	AUGUSTUS	single	1286	2014	0.18	-	0	transcript_id k141_707552.g62.t1.Aldo_ket_red; gene_id "k141_707552.g62.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_707552	AUGUSTUS	CDS	1286	2014	0.18	-	0	transcript_id k141_707552.g62.t1.Aldo_ket_red; gene_id "k141_707552.g62.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_707552	AUGUSTUS	start_codon	2012	2014	.	-	0	transcript_id k141_707552.g62.t1.Aldo_ket_red; gene_id "k141_707552.g62.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1931295	AUGUSTUS	gene	3708	4598	0.99	+	.	k141_1931295.g17.t1.Aldo_ket_red;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1931295	AUGUSTUS	transcript	3708	4598	0.99	+	.	k141_1931295.g17.t1.Aldo_ket_red.t1;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1931295	AUGUSTUS	start_codon	3708	3710	.	+	0	transcript_id k141_1931295.g17.t1.Aldo_ket_red; gene_id "k141_1931295.g17.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1931295	AUGUSTUS	single	3708	4598	0.99	+	0	transcript_id k141_1931295.g17.t1.Aldo_ket_red; gene_id "k141_1931295.g17.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1931295	AUGUSTUS	CDS	3708	4598	0.99	+	0	transcript_id k141_1931295.g17.t1.Aldo_ket_red; gene_id "k141_1931295.g17.t1.Aldo_ket_red";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1931295	AUGUSTUS	stop_codon	574	576	.	+	0	transcript_id k141_1931295.g17.t1.Aldo_ket_red; gene_id "k141_1931295.g17.t1.Aldo_ket_red";
+k141_1026406	AUGUSTUS	gene	1023	4091	0.88	-	.	k141_1026406.g65.t1.Ald_Xan_dh_C2
+k141_1026406	AUGUSTUS	transcript	1023	4091	0.88	-	.	k141_1026406.g65.t1.Ald_Xan_dh_C2.t1
+k141_1026406	AUGUSTUS	stop_codon	1023	1025	.	-	0	transcript_id k141_1026406.g65.t1.Ald_Xan_dh_C2; gene_id "k141_1026406.g65.t1.Ald_Xan_dh_C2";
+k141_1026406	AUGUSTUS	terminal	1023	4091	0.88	-	0	transcript_id k141_1026406.g65.t1.Ald_Xan_dh_C2; gene_id "k141_1026406.g65.t1.Ald_Xan_dh_C2";
+k141_1026406	AUGUSTUS	CDS	1023	4091	0.88	-	0	transcript_id k141_1026406.g65.t1.Ald_Xan_dh_C2; gene_id "k141_1026406.g65.t1.Ald_Xan_dh_C2";
+k141_6117	AUGUSTUS	gene	83	1779	0.23	+	.	k141_6117.g24+25.t1.Aminotran_1_2;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_6117	AUGUSTUS	transcript	83	1779	0.23	+	.	k141_6117.g24+25.t1.Aminotran_1_2;NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_6117	AUGUSTUS	start_codon	83	85	.	+	0	transcript_id "k141_6117.g24+25.t1.Aminotran_1_2"; gene_id "k141_6117.g24+25.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_6117	AUGUSTUS	initial	83	408	0.54	+	0	transcript_id "k141_6117.g24+25.t1.Aminotran_1_2"; gene_id "k141_6117.g24+25.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_6117	AUGUSTUS	internal	965	1289	0.65	+	1	transcript_id "k141_6117.g24+25.t1.Aminotran_1_2"; gene_id "k141_6117.g24+25.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_6117	AUGUSTUS	terminal	1462	1779	0.86	+	0	transcript_id "k141_6117.g24+25.t1.Aminotran_1_2"; gene_id "k141_6117.g24+25.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_6117	AUGUSTUS	intron	409	964	0.31	+	.	transcript_id "k141_6117.g24+25.t1.Aminotran_1_2"; gene_id "k141_6117.g24+25.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_6117	AUGUSTUS	intron	1290	1461	0.73	+	.	transcript_id "k141_6117.g24+25.t1.Aminotran_1_2"; gene_id "k141_6117.g24+25.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_6117	AUGUSTUS	CDS	83	408	0.54	+	0	transcript_id "k141_6117.g24+25.t1.Aminotran_1_2"; gene_id "k141_6117.g24+25.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_6117	AUGUSTUS	CDS	965	1289	0.65	+	1	transcript_id "k141_6117.g24+25.t1.Aminotran_1_2"; gene_id "k141_6117.g24+25.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_6117	AUGUSTUS	CDS	1462	1779	0.86	+	0	transcript_id "k141_6117.g24+25.t1.Aminotran_1_2"; gene_id "k141_6117.g24+25.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_6117	AUGUSTUS	stop_codon	1777	1779	.	+	0	transcript_id "k141_6117.g24+25.t1.Aminotran_1_2"; gene_id "k141_6117.g24+25.t1.Aminotran_1_2";NOTE=coordinates refer to pre-NCBI metagenome assembly
+k141_1088276	AUGUSTUS	gene	1418	1684	0.85	+	.	g56
+k141_1088276	AUGUSTUS	transcript	1418	1684	0.85	+	.	g56.t1
+k141_1088276	AUGUSTUS	start_codon	1418	1420	.	+	0	transcript_id "g56.t1"; gene_id "g56";
+k141_1088276	AUGUSTUS	single	1418	1684	0.85	+	0	transcript_id "g56.t1"; gene_id "g56";
+k141_1088276	AUGUSTUS	CDS	1418	1684	0.85	+	0	transcript_id "g56.t1"; gene_id "g56";
+k141_1088276	AUGUSTUS	stop_codon	1682	1684	.	+	0	transcript_id "g56.t1"; gene_id "g56";
+k141_1088276	AUGUSTUS	gene	2426	3255	0.99	+	.	k141_1088276.g57.t1.AMP-binding
+k141_1088276	AUGUSTUS	transcript	2426	3255	0.99	+	.	k141_1088276.g57.t1.AMP-binding.t1
+k141_1088276	AUGUSTUS	start_codon	2426	2428	.	+	0	transcript_id k141_1088276.g57.t1.AMP-binding; gene_id "k141_1088276.g57.t1.AMP-binding";
+k141_1088276	AUGUSTUS	initial	2426	3011	0.99	+	0	transcript_id k141_1088276.g57.t1.AMP-binding; gene_id "k141_1088276.g57.t1.AMP-binding";
+k141_1088276	AUGUSTUS	terminal	3125	3255	1	+	2	transcript_id k141_1088276.g57.t1.AMP-binding; gene_id "k141_1088276.g57.t1.AMP-binding";
+k141_1088276	AUGUSTUS	intron	3012	3124	1	+	.	transcript_id k141_1088276.g57.t1.AMP-binding; gene_id "k141_1088276.g57.t1.AMP-binding";
+k141_1088276	AUGUSTUS	CDS	2426	3011	0.99	+	0	transcript_id k141_1088276.g57.t1.AMP-binding; gene_id "k141_1088276.g57.t1.AMP-binding";
+k141_1088276	AUGUSTUS	CDS	3125	3255	1	+	2	transcript_id k141_1088276.g57.t1.AMP-binding; gene_id "k141_1088276.g57.t1.AMP-binding";
+k141_1088276	AUGUSTUS	stop_codon	3253	3255	.	+	0	transcript_id k141_1088276.g57.t1.AMP-binding; gene_id "k141_1088276.g57.t1.AMP-binding";
