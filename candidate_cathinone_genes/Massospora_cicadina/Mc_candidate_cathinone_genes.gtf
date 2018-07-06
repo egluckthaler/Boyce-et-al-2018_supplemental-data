@@ -1,0 +1,745 @@
+NODE_57909	AUGUSTUS	gene	510	1591	0.83	+	.	NODE_57909.g109.t1.adh_short_C2
+NODE_57909	AUGUSTUS	transcript	510	1591	0.83	+	.	NODE_57909.g109.t1.adh_short_C2.t1
+NODE_57909	AUGUSTUS	start_codon	510	512	.	+	0	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	initial	510	574	1	+	0	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	internal	630	660	0.9	+	1	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	internal	725	812	1	+	0	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	internal	862	951	1	+	2	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	internal	992	1133	0.93	+	2	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	terminal	1189	1591	1	+	1	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	intron	575	629	0.9	+	.	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	intron	661	724	0.9	+	.	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	intron	813	861	1	+	.	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	intron	952	991	1	+	.	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	intron	1134	1188	0.93	+	.	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	CDS	510	574	1	+	0	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	CDS	630	660	0.9	+	1	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	CDS	725	812	1	+	0	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	CDS	862	951	1	+	2	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	CDS	992	1133	0.93	+	2	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	CDS	1189	1591	1	+	1	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_57909	AUGUSTUS	stop_codon	1589	1591	.	+	0	transcript_id NODE_57909.g109.t1.adh_short_C2; gene_id "NODE_57909.g109.t1.adh_short_C2";
+NODE_65108	AUGUSTUS	gene	559	2360	0.17	+	.	NODE_65108.g119+g120.t1.Aminotran_1_2
+NODE_65108	AUGUSTUS	transcript	559	2054	0.17	+	.	NODE_65108.g119+g120.t1.Aminotran_1_2
+NODE_65108	AUGUSTUS	transcript	2082	2360	0.51	+	.	NODE_65108.g119+g120.t1.Aminotran_1_2
+NODE_65108	AUGUSTUS	start_codon	559	561	.	+	0	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	initial	559	648	0.45	+	0	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	internal	734	974	0.41	+	0	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	internal	1098	1146	0.95	+	2	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	internal	1191	1248	0.92	+	1	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	internal	1427	1599	0.5	+	0	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	terminal	1700	2054	0.95	+	1	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	intron	649	733	0.48	+	.	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	intron	975	1097	0.65	+	.	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	intron	1147	1190	0.95	+	.	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	intron	1249	1426	0.92	+	.	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	intron	1600	1699	0.54	+	.	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	CDS	559	648	0.45	+	0	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	CDS	734	974	0.41	+	0	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	CDS	1098	1146	0.95	+	2	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	CDS	1191	1248	0.92	+	1	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	CDS	1427	1599	0.5	+	0	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	CDS	1700	2054	0.95	+	1	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	CDS	2082	2360	0.51	+	0	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	stop_codon	2358	2360	.	+	0	transcript_id "NODE_65108.g119+g120.t1.Aminotran_1_2"; gene_id "NODE_65108.g119+g120.t1.Aminotran_1_2";
+NODE_65108	AUGUSTUS	gene	3061	3336	0.96	+	.	g121
+NODE_65108	AUGUSTUS	transcript	3061	3336	0.96	+	.	g121.t1
+NODE_65108	AUGUSTUS	start_codon	3061	3063	.	+	0	transcript_id "g121.t1"; gene_id "g121";
+NODE_65108	AUGUSTUS	single	3061	3336	0.96	+	0	transcript_id "g121.t1"; gene_id "g121";
+NODE_65108	AUGUSTUS	CDS	3061	3336	0.96	+	0	transcript_id "g121.t1"; gene_id "g121";
+NODE_65108	AUGUSTUS	stop_codon	3334	3336	.	+	0	transcript_id "g121.t1"; gene_id "g121";
+NODE_69850	AUGUSTUS	gene	1	3135	0.03	-	.	NODE_69850.g108.t1.AMP-binding
+NODE_69850	AUGUSTUS	transcript	1	3135	0.03	-	.	NODE_69850.g108.t1.AMP-binding.t1
+NODE_69850	AUGUSTUS	internal	14	1557	0.08	-	2	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	internal	1713	1835	0.87	-	2	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	internal	1931	2629	0.92	-	2	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	internal	2688	2823	0.42	-	0	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	initial	3064	3135	0.39	-	0	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	intron	1	13	0.34	-	.	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	intron	1558	1712	0.45	-	.	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	intron	1836	1930	0.91	-	.	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	intron	2630	2687	0.55	-	.	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	intron	2824	3063	0.37	-	.	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	CDS	14	1557	0.08	-	2	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	CDS	1713	1835	0.87	-	2	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	CDS	1931	2629	0.92	-	2	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	CDS	2688	2823	0.42	-	0	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	CDS	3064	3135	0.39	-	0	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_69850	AUGUSTUS	start_codon	3133	3135	.	-	0	transcript_id NODE_69850.g108.t1.AMP-binding; gene_id "NODE_69850.g108.t1.AMP-binding";
+NODE_132182	AUGUSTUS	gene	2	1755	0.46	-	.	NODE_132182.g93+g92.t1.AMP-binding
+NODE_132182	AUGUSTUS	transcript	2	764	0.46	-	.	NODE_132182.g93+g92.t1.AMP-binding
+NODE_132182	AUGUSTUS	transcript	941	1755	0.98	-	.	NODE_132182.g93+g92.t1.AMP-binding
+NODE_132182	AUGUSTUS	stop_codon	0	2	.	-	0	transcript_id "NODE_132182.g93+g92.t1.AMP-binding"; gene_id "NODE_132182.g93+g92.t1.AMP-binding";
+NODE_132182	AUGUSTUS	terminal	941	1290	0.98	-	2	transcript_id "NODE_132182.g93+g92.t1.AMP-binding"; gene_id "NODE_132182.g93+g92.t1.AMP-binding";
+NODE_132182	AUGUSTUS	initial	1353	1755	1	-	0	transcript_id "NODE_132182.g93+g92.t1.AMP-binding"; gene_id "NODE_132182.g93+g92.t1.AMP-binding";
+NODE_132182	AUGUSTUS	intron	1291	1352	1	-	.	transcript_id "NODE_132182.g93+g92.t1.AMP-binding"; gene_id "NODE_132182.g93+g92.t1.AMP-binding";
+NODE_132182	AUGUSTUS	CDS	2	764	0.46	-	0	transcript_id "NODE_132182.g93+g92.t1.AMP-binding"; gene_id "NODE_132182.g93+g92.t1.AMP-binding";
+NODE_132182	AUGUSTUS	CDS	941	1290	0.98	-	2	transcript_id "NODE_132182.g93+g92.t1.AMP-binding"; gene_id "NODE_132182.g93+g92.t1.AMP-binding";
+NODE_132182	AUGUSTUS	CDS	1353	1755	1	-	0	transcript_id "NODE_132182.g93+g92.t1.AMP-binding"; gene_id "NODE_132182.g93+g92.t1.AMP-binding";
+NODE_132182	AUGUSTUS	start_codon	1753	1755	.	-	0	transcript_id "NODE_132182.g93+g92.t1.AMP-binding"; gene_id "NODE_132182.g93+g92.t1.AMP-binding";
+NODE_50099	AUGUSTUS	gene	1410	2204	0.89	-	.	NODE_50099.g116.t1.adh_short_C2
+NODE_50099	AUGUSTUS	transcript	1410	2204	0.89	-	.	NODE_50099.g116.t1.adh_short_C2.t1
+NODE_50099	AUGUSTUS	stop_codon	1410	1412	.	-	0	transcript_id NODE_50099.g116.t1.adh_short_C2; gene_id "NODE_50099.g116.t1.adh_short_C2";
+NODE_50099	AUGUSTUS	single	1410	2204	0.89	-	0	transcript_id NODE_50099.g116.t1.adh_short_C2; gene_id "NODE_50099.g116.t1.adh_short_C2";
+NODE_50099	AUGUSTUS	CDS	1410	2204	0.89	-	0	transcript_id NODE_50099.g116.t1.adh_short_C2; gene_id "NODE_50099.g116.t1.adh_short_C2";
+NODE_50099	AUGUSTUS	start_codon	2202	2204	.	-	0	transcript_id NODE_50099.g116.t1.adh_short_C2; gene_id "NODE_50099.g116.t1.adh_short_C2";
+NODE_223754	AUGUSTUS	gene	314	844	0.87	-	.	NODE_223754.g95.t1.adh_short_C2
+NODE_223754	AUGUSTUS	transcript	314	844	0.87	-	.	NODE_223754.g95.t1.adh_short_C2.t1
+NODE_223754	AUGUSTUS	stop_codon	314	316	.	-	0	transcript_id NODE_223754.g95.t1.adh_short_C2; gene_id "NODE_223754.g95.t1.adh_short_C2";
+NODE_223754	AUGUSTUS	single	314	844	0.87	-	0	transcript_id NODE_223754.g95.t1.adh_short_C2; gene_id "NODE_223754.g95.t1.adh_short_C2";
+NODE_223754	AUGUSTUS	CDS	314	844	0.87	-	0	transcript_id NODE_223754.g95.t1.adh_short_C2; gene_id "NODE_223754.g95.t1.adh_short_C2";
+NODE_223754	AUGUSTUS	start_codon	842	844	.	-	0	transcript_id NODE_223754.g95.t1.adh_short_C2; gene_id "NODE_223754.g95.t1.adh_short_C2";
+NODE_181349	AUGUSTUS	gene	4	918	0.94	-	.	NODE_181349.g155.t1.Aldo_ket_red
+NODE_181349	AUGUSTUS	transcript	4	918	0.94	-	.	NODE_181349.g155.t1.Aldo_ket_red.t1
+NODE_181349	AUGUSTUS	stop_codon	4	6	.	-	0	transcript_id NODE_181349.g155.t1.Aldo_ket_red; gene_id "NODE_181349.g155.t1.Aldo_ket_red";
+NODE_181349	AUGUSTUS	single	4	918	0.94	-	0	transcript_id NODE_181349.g155.t1.Aldo_ket_red; gene_id "NODE_181349.g155.t1.Aldo_ket_red";
+NODE_181349	AUGUSTUS	CDS	4	918	0.94	-	0	transcript_id NODE_181349.g155.t1.Aldo_ket_red; gene_id "NODE_181349.g155.t1.Aldo_ket_red";
+NODE_181349	AUGUSTUS	start_codon	916	918	.	-	0	transcript_id NODE_181349.g155.t1.Aldo_ket_red; gene_id "NODE_181349.g155.t1.Aldo_ket_red";
+NODE_153791	AUGUSTUS	gene	450	1650	0.72	+	.	NODE_153791.g158.t1.adh_short_C2
+NODE_153791	AUGUSTUS	transcript	450	1650	0.72	+	.	NODE_153791.g158.t1.adh_short_C2.t1
+NODE_153791	AUGUSTUS	start_codon	450	452	.	+	0	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	initial	450	499	1	+	0	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	internal	603	811	1	+	1	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	internal	874	955	1	+	2	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	internal	1034	1179	0.99	+	1	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	internal	1239	1251	0.99	+	2	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	terminal	1293	1650	0.73	+	1	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	intron	500	602	1	+	.	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	intron	812	873	1	+	.	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	intron	956	1033	1	+	.	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	intron	1180	1238	0.99	+	.	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	intron	1252	1292	1	+	.	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	CDS	450	499	1	+	0	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	CDS	603	811	1	+	1	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	CDS	874	955	1	+	2	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	CDS	1034	1179	0.99	+	1	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	CDS	1239	1251	0.99	+	2	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	CDS	1293	1650	0.73	+	1	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_153791	AUGUSTUS	stop_codon	1648	1650	.	+	0	transcript_id NODE_153791.g158.t1.adh_short_C2; gene_id "NODE_153791.g158.t1.adh_short_C2";
+NODE_4362	AUGUSTUS	gene	1145	2233	0.18	-	.	NODE_4362.g102.t1.3HCDH_N
+NODE_4362	AUGUSTUS	transcript	1145	2233	0.18	-	.	NODE_4362.g102.t1.3HCDH_N.t1
+NODE_4362	AUGUSTUS	stop_codon	1145	1147	.	-	0	transcript_id NODE_4362.g102.t1.3HCDH_N; gene_id "NODE_4362.g102.t1.3HCDH_N";
+NODE_4362	AUGUSTUS	terminal	1145	1308	0.49	-	2	transcript_id NODE_4362.g102.t1.3HCDH_N; gene_id "NODE_4362.g102.t1.3HCDH_N";
+NODE_4362	AUGUSTUS	internal	1382	1491	0.31	-	1	transcript_id NODE_4362.g102.t1.3HCDH_N; gene_id "NODE_4362.g102.t1.3HCDH_N";
+NODE_4362	AUGUSTUS	initial	1572	2233	0.4	-	0	transcript_id NODE_4362.g102.t1.3HCDH_N; gene_id "NODE_4362.g102.t1.3HCDH_N";
+NODE_4362	AUGUSTUS	intron	1309	1381	0.49	-	.	transcript_id NODE_4362.g102.t1.3HCDH_N; gene_id "NODE_4362.g102.t1.3HCDH_N";
+NODE_4362	AUGUSTUS	intron	1492	1571	0.68	-	.	transcript_id NODE_4362.g102.t1.3HCDH_N; gene_id "NODE_4362.g102.t1.3HCDH_N";
+NODE_4362	AUGUSTUS	CDS	1145	1308	0.49	-	2	transcript_id NODE_4362.g102.t1.3HCDH_N; gene_id "NODE_4362.g102.t1.3HCDH_N";
+NODE_4362	AUGUSTUS	CDS	1382	1491	0.31	-	1	transcript_id NODE_4362.g102.t1.3HCDH_N; gene_id "NODE_4362.g102.t1.3HCDH_N";
+NODE_4362	AUGUSTUS	CDS	1572	2233	0.4	-	0	transcript_id NODE_4362.g102.t1.3HCDH_N; gene_id "NODE_4362.g102.t1.3HCDH_N";
+NODE_4362	AUGUSTUS	start_codon	2231	2233	.	-	0	transcript_id NODE_4362.g102.t1.3HCDH_N; gene_id "NODE_4362.g102.t1.3HCDH_N";
+NODE_4362	AUGUSTUS	gene	8080	8566	0.61	+	.	g103
+NODE_4362	AUGUSTUS	transcript	8080	8566	0.61	+	.	g103.t1
+NODE_4362	AUGUSTUS	start_codon	8080	8082	.	+	0	transcript_id "g103.t1"; gene_id "g103";
+NODE_4362	AUGUSTUS	initial	8080	8146	0.62	+	0	transcript_id "g103.t1"; gene_id "g103";
+NODE_4362	AUGUSTUS	terminal	8385	8566	0.82	+	2	transcript_id "g103.t1"; gene_id "g103";
+NODE_4362	AUGUSTUS	intron	8147	8384	0.82	+	.	transcript_id "g103.t1"; gene_id "g103";
+NODE_4362	AUGUSTUS	CDS	8080	8146	0.62	+	0	transcript_id "g103.t1"; gene_id "g103";
+NODE_4362	AUGUSTUS	CDS	8385	8566	0.82	+	2	transcript_id "g103.t1"; gene_id "g103";
+NODE_4362	AUGUSTUS	stop_codon	8564	8566	.	+	0	transcript_id "g103.t1"; gene_id "g103";
+NODE_104787	AUGUSTUS	gene	1622	2156	0.42	-	.	g132
+NODE_104787	AUGUSTUS	transcript	1622	2156	0.42	-	.	g132.t1
+NODE_104787	AUGUSTUS	stop_codon	1622	1624	.	-	0	transcript_id "g132.t1"; gene_id "g132";
+NODE_104787	AUGUSTUS	terminal	1622	1878	0.73	-	2	transcript_id "g132.t1"; gene_id "g132";
+NODE_104787	AUGUSTUS	initial	1946	2156	0.58	-	0	transcript_id "g132.t1"; gene_id "g132";
+NODE_104787	AUGUSTUS	intron	1879	1945	0.96	-	.	transcript_id "g132.t1"; gene_id "g132";
+NODE_104787	AUGUSTUS	CDS	1622	1878	0.73	-	2	transcript_id "g132.t1"; gene_id "g132";
+NODE_104787	AUGUSTUS	CDS	1946	2156	0.58	-	0	transcript_id "g132.t1"; gene_id "g132";
+NODE_104787	AUGUSTUS	start_codon	2154	2156	.	-	0	transcript_id "g132.t1"; gene_id "g132";
+NODE_86437	AUGUSTUS	gene	2404	2819	0.91	-	.	NODE_86437.g157.t1.Aminotran_1_2
+NODE_86437	AUGUSTUS	transcript	2404	2819	0.91	-	.	NODE_86437.g157.t1.Aminotran_1_2.t1
+NODE_86437	AUGUSTUS	stop_codon	2404	2406	.	-	0	transcript_id NODE_86437.g157.t1.Aminotran_1_2; gene_id "NODE_86437.g157.t1.Aminotran_1_2";
+NODE_86437	AUGUSTUS	terminal	2404	2478	0.93	-	0	transcript_id NODE_86437.g157.t1.Aminotran_1_2; gene_id "NODE_86437.g157.t1.Aminotran_1_2";
+NODE_86437	AUGUSTUS	initial	2547	2819	0.91	-	0	transcript_id NODE_86437.g157.t1.Aminotran_1_2; gene_id "NODE_86437.g157.t1.Aminotran_1_2";
+NODE_86437	AUGUSTUS	intron	2479	2546	0.93	-	.	transcript_id NODE_86437.g157.t1.Aminotran_1_2; gene_id "NODE_86437.g157.t1.Aminotran_1_2";
+NODE_86437	AUGUSTUS	CDS	2404	2478	0.93	-	0	transcript_id NODE_86437.g157.t1.Aminotran_1_2; gene_id "NODE_86437.g157.t1.Aminotran_1_2";
+NODE_86437	AUGUSTUS	CDS	2547	2819	0.91	-	0	transcript_id NODE_86437.g157.t1.Aminotran_1_2; gene_id "NODE_86437.g157.t1.Aminotran_1_2";
+NODE_86437	AUGUSTUS	start_codon	2817	2819	.	-	0	transcript_id NODE_86437.g157.t1.Aminotran_1_2; gene_id "NODE_86437.g157.t1.Aminotran_1_2";
+NODE_18181	AUGUSTUS	gene	2223	3018	0.92	-	.	NODE_18181.g130.t1.Aldo_ket_red
+NODE_18181	AUGUSTUS	transcript	2223	3018	0.92	-	.	NODE_18181.g130.t1.Aldo_ket_red.t1
+NODE_18181	AUGUSTUS	stop_codon	2223	2225	.	-	0	transcript_id NODE_18181.g130.t1.Aldo_ket_red; gene_id "NODE_18181.g130.t1.Aldo_ket_red";
+NODE_18181	AUGUSTUS	terminal	2223	2727	0.93	-	1	transcript_id NODE_18181.g130.t1.Aldo_ket_red; gene_id "NODE_18181.g130.t1.Aldo_ket_red";
+NODE_18181	AUGUSTUS	initial	2783	3018	0.92	-	0	transcript_id NODE_18181.g130.t1.Aldo_ket_red; gene_id "NODE_18181.g130.t1.Aldo_ket_red";
+NODE_18181	AUGUSTUS	intron	2728	2782	0.93	-	.	transcript_id NODE_18181.g130.t1.Aldo_ket_red; gene_id "NODE_18181.g130.t1.Aldo_ket_red";
+NODE_18181	AUGUSTUS	CDS	2223	2727	0.93	-	1	transcript_id NODE_18181.g130.t1.Aldo_ket_red; gene_id "NODE_18181.g130.t1.Aldo_ket_red";
+NODE_18181	AUGUSTUS	CDS	2783	3018	0.92	-	0	transcript_id NODE_18181.g130.t1.Aldo_ket_red; gene_id "NODE_18181.g130.t1.Aldo_ket_red";
+NODE_18181	AUGUSTUS	start_codon	3016	3018	.	-	0	transcript_id NODE_18181.g130.t1.Aldo_ket_red; gene_id "NODE_18181.g130.t1.Aldo_ket_red";
+NODE_239960	AUGUSTUS	gene	2	560	0.47	-	.	NODE_239960.g123.t1.3HCDH_N
+NODE_239960	AUGUSTUS	transcript	2	560	0.47	-	.	NODE_239960.g123.t1.3HCDH_N.t1
+NODE_239960	AUGUSTUS	internal	2	383	0.5	-	0	transcript_id NODE_239960.g123.t1.3HCDH_N; gene_id "NODE_239960.g123.t1.3HCDH_N";
+NODE_239960	AUGUSTUS	initial	504	560	0.52	-	0	transcript_id NODE_239960.g123.t1.3HCDH_N; gene_id "NODE_239960.g123.t1.3HCDH_N";
+NODE_239960	AUGUSTUS	intron	384	503	0.52	-	.	transcript_id NODE_239960.g123.t1.3HCDH_N; gene_id "NODE_239960.g123.t1.3HCDH_N";
+NODE_239960	AUGUSTUS	CDS	2	383	0.5	-	0	transcript_id NODE_239960.g123.t1.3HCDH_N; gene_id "NODE_239960.g123.t1.3HCDH_N";
+NODE_239960	AUGUSTUS	CDS	504	560	0.52	-	0	transcript_id NODE_239960.g123.t1.3HCDH_N; gene_id "NODE_239960.g123.t1.3HCDH_N";
+NODE_239960	AUGUSTUS	start_codon	558	560	.	-	0	transcript_id NODE_239960.g123.t1.3HCDH_N; gene_id "NODE_239960.g123.t1.3HCDH_N";
+NODE_106507	AUGUSTUS	gene	1079	2375	0.4	+	.	NODE_106507.g122.t1.Thiolase_N
+NODE_106507	AUGUSTUS	transcript	1079	2375	0.4	+	.	NODE_106507.g122.t1.Thiolase_N.t1
+NODE_106507	AUGUSTUS	start_codon	1079	1081	.	+	0	transcript_id NODE_106507.g122.t1.Thiolase_N; gene_id "NODE_106507.g122.t1.Thiolase_N";
+NODE_106507	AUGUSTUS	initial	1079	1097	0.56	+	0	transcript_id NODE_106507.g122.t1.Thiolase_N; gene_id "NODE_106507.g122.t1.Thiolase_N";
+NODE_106507	AUGUSTUS	terminal	1252	2375	0.4	+	2	transcript_id NODE_106507.g122.t1.Thiolase_N; gene_id "NODE_106507.g122.t1.Thiolase_N";
+NODE_106507	AUGUSTUS	intron	1098	1251	0.4	+	.	transcript_id NODE_106507.g122.t1.Thiolase_N; gene_id "NODE_106507.g122.t1.Thiolase_N";
+NODE_106507	AUGUSTUS	CDS	1079	1097	0.56	+	0	transcript_id NODE_106507.g122.t1.Thiolase_N; gene_id "NODE_106507.g122.t1.Thiolase_N";
+NODE_106507	AUGUSTUS	CDS	1252	2375	0.4	+	2	transcript_id NODE_106507.g122.t1.Thiolase_N; gene_id "NODE_106507.g122.t1.Thiolase_N";
+NODE_106507	AUGUSTUS	stop_codon	2373	2375	.	+	0	transcript_id NODE_106507.g122.t1.Thiolase_N; gene_id "NODE_106507.g122.t1.Thiolase_N";
+NODE_136031	AUGUSTUS	gene	744	1759	0.31	-	.	NODE_136031.g149.t1.Aldo_ket_red
+NODE_136031	AUGUSTUS	transcript	744	1759	0.31	-	.	NODE_136031.g149.t1.Aldo_ket_red.t1
+NODE_136031	AUGUSTUS	stop_codon	744	746	.	-	0	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_136031	AUGUSTUS	terminal	744	889	0.91	-	2	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_136031	AUGUSTUS	internal	930	1087	0.97	-	1	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_136031	AUGUSTUS	internal	1318	1427	0.38	-	0	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_136031	AUGUSTUS	initial	1490	1759	0.83	-	0	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_136031	AUGUSTUS	intron	890	929	1	-	.	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_136031	AUGUSTUS	intron	1088	1317	0.38	-	.	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_136031	AUGUSTUS	intron	1428	1489	0.84	-	.	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_136031	AUGUSTUS	CDS	744	889	0.91	-	2	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_136031	AUGUSTUS	CDS	930	1087	0.97	-	1	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_136031	AUGUSTUS	CDS	1318	1427	0.38	-	0	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_136031	AUGUSTUS	CDS	1490	1759	0.83	-	0	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_136031	AUGUSTUS	start_codon	1757	1759	.	-	0	transcript_id NODE_136031.g149.t1.Aldo_ket_red; gene_id "NODE_136031.g149.t1.Aldo_ket_red";
+NODE_11341	AUGUSTUS	gene	3964	6529	0.09	-	.	NODE_11341.g143.t1.AMP-binding
+NODE_11341	AUGUSTUS	transcript	3964	6529	0.09	-	.	NODE_11341.g143.t1.AMP-binding.t1
+NODE_11341	AUGUSTUS	stop_codon	3964	3966	.	-	0	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	terminal	3964	4131	0.99	-	0	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	internal	4182	4325	0.58	-	0	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	internal	4797	5210	0.26	-	0	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	internal	5310	5434	0.93	-	2	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	internal	5765	6016	0.99	-	2	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	internal	6078	6181	0.94	-	1	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	initial	6234	6529	0.5	-	0	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	intron	4132	4181	0.98	-	.	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	intron	4326	4796	0.26	-	.	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	intron	5211	5309	0.92	-	.	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	intron	5435	5764	1	-	.	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	intron	6017	6077	0.97	-	.	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	intron	6182	6233	0.96	-	.	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	CDS	3964	4131	0.99	-	0	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	CDS	4182	4325	0.58	-	0	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	CDS	4797	5210	0.26	-	0	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	CDS	5310	5434	0.93	-	2	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	CDS	5765	6016	0.99	-	2	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	CDS	6078	6181	0.94	-	1	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	CDS	6234	6529	0.5	-	0	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_11341	AUGUSTUS	start_codon	6527	6529	.	-	0	transcript_id NODE_11341.g143.t1.AMP-binding; gene_id "NODE_11341.g143.t1.AMP-binding";
+NODE_236531	AUGUSTUS	gene	1	1068	0.31	+	.	NODE_236531.g124.t1.AMP-binding
+NODE_236531	AUGUSTUS	transcript	1	1068	0.31	+	.	NODE_236531.g124.t1.AMP-binding.t1
+NODE_236531	AUGUSTUS	internal	1	849	0.37	+	1	transcript_id NODE_236531.g124.t1.AMP-binding; gene_id "NODE_236531.g124.t1.AMP-binding";
+NODE_236531	AUGUSTUS	terminal	1014	1068	0.66	+	1	transcript_id NODE_236531.g124.t1.AMP-binding; gene_id "NODE_236531.g124.t1.AMP-binding";
+NODE_236531	AUGUSTUS	intron	850	1013	0.52	+	.	transcript_id NODE_236531.g124.t1.AMP-binding; gene_id "NODE_236531.g124.t1.AMP-binding";
+NODE_236531	AUGUSTUS	CDS	1	849	0.37	+	1	transcript_id NODE_236531.g124.t1.AMP-binding; gene_id "NODE_236531.g124.t1.AMP-binding";
+NODE_236531	AUGUSTUS	CDS	1014	1068	0.66	+	1	transcript_id NODE_236531.g124.t1.AMP-binding; gene_id "NODE_236531.g124.t1.AMP-binding";
+NODE_236531	AUGUSTUS	stop_codon	1066	1068	.	+	0	transcript_id NODE_236531.g124.t1.AMP-binding; gene_id "NODE_236531.g124.t1.AMP-binding";
+NODE_6906	AUGUSTUS	gene	1	735	0.58	+	.	g111
+NODE_6906	AUGUSTUS	transcript	1	735	0.58	+	.	g111.t1
+NODE_6906	AUGUSTUS	terminal	494	735	0.58	+	2	transcript_id "g111.t1"; gene_id "g111";
+NODE_6906	AUGUSTUS	intron	1	493	0.6	+	.	transcript_id "g111.t1"; gene_id "g111";
+NODE_6906	AUGUSTUS	CDS	494	735	0.58	+	2	transcript_id "g111.t1"; gene_id "g111";
+NODE_6906	AUGUSTUS	stop_codon	733	735	.	+	0	transcript_id "g111.t1"; gene_id "g111";
+NODE_6906	AUGUSTUS	gene	1218	2108	0.84	+	.	g112
+NODE_6906	AUGUSTUS	transcript	1218	2108	0.84	+	.	g112.t1
+NODE_6906	AUGUSTUS	start_codon	1218	1220	.	+	0	transcript_id "g112.t1"; gene_id "g112";
+NODE_6906	AUGUSTUS	initial	1218	1598	0.93	+	0	transcript_id "g112.t1"; gene_id "g112";
+NODE_6906	AUGUSTUS	terminal	1893	2108	0.89	+	0	transcript_id "g112.t1"; gene_id "g112";
+NODE_6906	AUGUSTUS	intron	1599	1892	0.99	+	.	transcript_id "g112.t1"; gene_id "g112";
+NODE_6906	AUGUSTUS	CDS	1218	1598	0.93	+	0	transcript_id "g112.t1"; gene_id "g112";
+NODE_6906	AUGUSTUS	CDS	1893	2108	0.89	+	0	transcript_id "g112.t1"; gene_id "g112";
+NODE_6906	AUGUSTUS	stop_codon	2106	2108	.	+	0	transcript_id "g112.t1"; gene_id "g112";
+NODE_6906	AUGUSTUS	gene	6077	7780	0.91	-	.	NODE_6906.g113.t1.AMP-binding
+NODE_6906	AUGUSTUS	transcript	6077	7780	0.91	-	.	NODE_6906.g113.t1.AMP-binding.t1
+NODE_6906	AUGUSTUS	stop_codon	6077	6079	.	-	0	transcript_id NODE_6906.g113.t1.AMP-binding; gene_id "NODE_6906.g113.t1.AMP-binding";
+NODE_6906	AUGUSTUS	single	6077	7780	0.91	-	0	transcript_id NODE_6906.g113.t1.AMP-binding; gene_id "NODE_6906.g113.t1.AMP-binding";
+NODE_6906	AUGUSTUS	CDS	6077	7780	0.91	-	0	transcript_id NODE_6906.g113.t1.AMP-binding; gene_id "NODE_6906.g113.t1.AMP-binding";
+NODE_6906	AUGUSTUS	start_codon	7778	7780	.	-	0	transcript_id NODE_6906.g113.t1.AMP-binding; gene_id "NODE_6906.g113.t1.AMP-binding";
+NODE_233628	AUGUSTUS	gene	2	973	0.62	-	.	NODE_233628.g107.t1.Aminotran_1_2
+NODE_233628	AUGUSTUS	transcript	2	973	0.62	-	.	NODE_233628.g107.t1.Aminotran_1_2.t1
+NODE_233628	AUGUSTUS	initial	2	973	0.62	-	0	transcript_id NODE_233628.g107.t1.Aminotran_1_2; gene_id "NODE_233628.g107.t1.Aminotran_1_2";
+NODE_233628	AUGUSTUS	CDS	2	973	0.62	-	0	transcript_id NODE_233628.g107.t1.Aminotran_1_2; gene_id "NODE_233628.g107.t1.Aminotran_1_2";
+NODE_233628	AUGUSTUS	start_codon	971	973	.	-	0	transcript_id NODE_233628.g107.t1.Aminotran_1_2; gene_id "NODE_233628.g107.t1.Aminotran_1_2";
+NODE_71144	AUGUSTUS	gene	415	2157	0.56	+	.	NODE_71144.g135.t1.Aldedh
+NODE_71144	AUGUSTUS	transcript	415	2157	0.56	+	.	NODE_71144.g135.t1.Aldedh.t1
+NODE_71144	AUGUSTUS	start_codon	415	417	.	+	0	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	initial	415	564	0.96	+	0	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	internal	607	980	1	+	0	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	internal	1039	1136	0.63	+	1	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	internal	1181	1246	0.72	+	2	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	terminal	1307	2157	1	+	2	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	intron	565	606	1	+	.	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	intron	981	1038	1	+	.	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	intron	1137	1180	0.57	+	.	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	intron	1247	1306	0.72	+	.	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	CDS	415	564	0.96	+	0	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	CDS	607	980	1	+	0	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	CDS	1039	1136	0.63	+	1	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	CDS	1181	1246	0.72	+	2	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	CDS	1307	2157	1	+	2	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_71144	AUGUSTUS	stop_codon	2155	2157	.	+	0	transcript_id NODE_71144.g135.t1.Aldedh; gene_id "NODE_71144.g135.t1.Aldedh";
+NODE_48642	AUGUSTUS	gene	2	85	0.18	-	.	g117
+NODE_48642	AUGUSTUS	transcript	2	85	0.18	-	.	g117.t1
+NODE_48642	AUGUSTUS	initial	2	85	0.18	-	0	transcript_id "g117.t1"; gene_id "g117";
+NODE_48642	AUGUSTUS	CDS	2	85	0.18	-	0	transcript_id "g117.t1"; gene_id "g117";
+NODE_48642	AUGUSTUS	start_codon	83	85	.	-	0	transcript_id "g117.t1"; gene_id "g117";
+NODE_48642	AUGUSTUS	gene	1023	2720	0.27	+	.	g118
+NODE_48642	AUGUSTUS	transcript	1023	2720	0.27	+	.	g118.t1
+NODE_48642	AUGUSTUS	start_codon	1023	1025	.	+	0	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	initial	1023	1058	0.3	+	0	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	internal	1324	1475	0.59	+	0	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	internal	1527	1703	0.96	+	1	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	internal	1861	2212	0.96	+	1	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	terminal	2274	2720	0.93	+	0	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	intron	1059	1323	0.34	+	.	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	intron	1476	1526	0.84	+	.	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	intron	1704	1860	0.98	+	.	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	intron	2213	2273	0.96	+	.	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	CDS	1023	1058	0.3	+	0	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	CDS	1324	1475	0.59	+	0	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	CDS	1527	1703	0.96	+	1	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	CDS	1861	2212	0.96	+	1	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	CDS	2274	2720	0.93	+	0	transcript_id "g118.t1"; gene_id "g118";
+NODE_48642	AUGUSTUS	stop_codon	2718	2720	.	+	0	transcript_id "g118.t1"; gene_id "g118";
+NODE_90368	AUGUSTUS	gene	106	1139	0.5	-	.	NODE_90368.g148.t1.adh_short_C2
+NODE_90368	AUGUSTUS	transcript	106	1139	0.5	-	.	NODE_90368.g148.t1.adh_short_C2.t1
+NODE_90368	AUGUSTUS	stop_codon	106	108	.	-	0	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	terminal	106	212	0.51	-	2	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	internal	259	283	0.96	-	0	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	internal	337	413	0.97	-	2	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	internal	463	937	1	-	0	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	initial	1038	1139	1	-	0	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	intron	213	258	0.83	-	.	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	intron	284	336	0.98	-	.	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	intron	414	462	0.97	-	.	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	intron	938	1037	1	-	.	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	CDS	106	212	0.51	-	2	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	CDS	259	283	0.96	-	0	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	CDS	337	413	0.97	-	2	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	CDS	463	937	1	-	0	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	CDS	1038	1139	1	-	0	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_90368	AUGUSTUS	start_codon	1137	1139	.	-	0	transcript_id NODE_90368.g148.t1.adh_short_C2; gene_id "NODE_90368.g148.t1.adh_short_C2";
+NODE_27794	AUGUSTUS	gene	1661	2624	0.64	+	.	NODE_27794.g140.t1.Aminotran_1_2
+NODE_27794	AUGUSTUS	transcript	1661	2624	0.64	+	.	NODE_27794.g140.t1.Aminotran_1_2.t1
+NODE_27794	AUGUSTUS	start_codon	1661	1663	.	+	0	transcript_id NODE_27794.g140.t1.Aminotran_1_2; gene_id "NODE_27794.g140.t1.Aminotran_1_2";
+NODE_27794	AUGUSTUS	initial	1661	2304	0.72	+	0	transcript_id NODE_27794.g140.t1.Aminotran_1_2; gene_id "NODE_27794.g140.t1.Aminotran_1_2";
+NODE_27794	AUGUSTUS	terminal	2363	2624	0.73	+	1	transcript_id NODE_27794.g140.t1.Aminotran_1_2; gene_id "NODE_27794.g140.t1.Aminotran_1_2";
+NODE_27794	AUGUSTUS	intron	2305	2362	0.64	+	.	transcript_id NODE_27794.g140.t1.Aminotran_1_2; gene_id "NODE_27794.g140.t1.Aminotran_1_2";
+NODE_27794	AUGUSTUS	CDS	1661	2304	0.72	+	0	transcript_id NODE_27794.g140.t1.Aminotran_1_2; gene_id "NODE_27794.g140.t1.Aminotran_1_2";
+NODE_27794	AUGUSTUS	CDS	2363	2624	0.73	+	1	transcript_id NODE_27794.g140.t1.Aminotran_1_2; gene_id "NODE_27794.g140.t1.Aminotran_1_2";
+NODE_27794	AUGUSTUS	stop_codon	2622	2624	.	+	0	transcript_id NODE_27794.g140.t1.Aminotran_1_2; gene_id "NODE_27794.g140.t1.Aminotran_1_2";
+NODE_27794	AUGUSTUS	gene	2656	3293	0.57	-	.	g141
+NODE_27794	AUGUSTUS	transcript	2656	3293	0.57	-	.	g141.t1
+NODE_27794	AUGUSTUS	stop_codon	2656	2658	.	-	0	transcript_id "g141.t1"; gene_id "g141";
+NODE_27794	AUGUSTUS	terminal	2656	3105	0.57	-	0	transcript_id "g141.t1"; gene_id "g141";
+NODE_27794	AUGUSTUS	initial	3159	3293	1	-	0	transcript_id "g141.t1"; gene_id "g141";
+NODE_27794	AUGUSTUS	intron	3106	3158	0.57	-	.	transcript_id "g141.t1"; gene_id "g141";
+NODE_27794	AUGUSTUS	CDS	2656	3105	0.57	-	0	transcript_id "g141.t1"; gene_id "g141";
+NODE_27794	AUGUSTUS	CDS	3159	3293	1	-	0	transcript_id "g141.t1"; gene_id "g141";
+NODE_27794	AUGUSTUS	start_codon	3291	3293	.	-	0	transcript_id "g141.t1"; gene_id "g141";
+NODE_27794	AUGUSTUS	gene	4558	5107	0.71	+	.	g142
+NODE_27794	AUGUSTUS	transcript	4558	5107	0.71	+	.	g142.t1
+NODE_27794	AUGUSTUS	start_codon	4558	4560	.	+	0	transcript_id "g142.t1"; gene_id "g142";
+NODE_27794	AUGUSTUS	initial	4558	4685	0.71	+	0	transcript_id "g142.t1"; gene_id "g142";
+NODE_27794	AUGUSTUS	terminal	4915	5107	0.93	+	1	transcript_id "g142.t1"; gene_id "g142";
+NODE_27794	AUGUSTUS	intron	4686	4914	0.93	+	.	transcript_id "g142.t1"; gene_id "g142";
+NODE_27794	AUGUSTUS	CDS	4558	4685	0.71	+	0	transcript_id "g142.t1"; gene_id "g142";
+NODE_27794	AUGUSTUS	CDS	4915	5107	0.93	+	1	transcript_id "g142.t1"; gene_id "g142";
+NODE_27794	AUGUSTUS	stop_codon	5105	5107	.	+	0	transcript_id "g142.t1"; gene_id "g142";
+NODE_98008	AUGUSTUS	gene	322	2029	0.21	-	.	g150+g151
+NODE_98008	AUGUSTUS	transcript	322	2029	0.21	-	.	g150+g151.t1
+NODE_98008	AUGUSTUS	stop_codon	322	324	.	-	0	transcript_id "g150+g151.t1"; gene_id "g150+g151";
+NODE_98008	AUGUSTUS	terminal	322	639	0.9	-	0	transcript_id "g150+g151.t1"; gene_id "g150+g151";
+NODE_98008	AUGUSTUS	internal	1538	1625	0.58	-	1	transcript_id "g150+g151.t1"; gene_id "g150+g151";
+NODE_98008	AUGUSTUS	initial	1677	2029	0.83	-	0	transcript_id "g150+g151.t1"; gene_id "g150+g151";
+NODE_98008	AUGUSTUS	intron	640	1537	0.37	-	.	transcript_id "g150+g151.t1"; gene_id "g150+g151";
+NODE_98008	AUGUSTUS	intron	1626	1676	0.58	-	.	transcript_id "g150+g151.t1"; gene_id "g150+g151";
+NODE_98008	AUGUSTUS	CDS	322	639	0.9	-	0	transcript_id "g150+g151.t1"; gene_id "g150+g151";
+NODE_98008	AUGUSTUS	CDS	1538	1625	0.58	-	1	transcript_id "g150+g151.t1"; gene_id "g150+g151";
+NODE_98008	AUGUSTUS	CDS	1677	2029	0.83	-	0	transcript_id "g150+g151.t1"; gene_id "g150+g151";
+NODE_98008	AUGUSTUS	start_codon	2027	2029	.	-	0	transcript_id "g150+g151.t1"; gene_id "g150+g151";
+NODE_121187	AUGUSTUS	gene	672	2342	0.77	+	.	NODE_121187.g99+g100.t1.AMP-binding
+NODE_121187	AUGUSTUS	transcript	672	1838	0.77	+	.	NODE_121187.g99+g100.t1.AMP-binding
+NODE_121187	AUGUSTUS	transcript	1996	2342	0.72	+	.	NODE_121187.g99+g100.t1.AMP-binding
+NODE_121187	AUGUSTUS	start_codon	672	674	.	+	0	transcript_id "NODE_121187.g99+g100.t1.AMP-binding"; gene_id "NODE_121187.g99+g100.t1.AMP-binding";
+NODE_121187	AUGUSTUS	initial	672	1036	0.77	+	0	transcript_id "NODE_121187.g99+g100.t1.AMP-binding"; gene_id "NODE_121187.g99+g100.t1.AMP-binding";
+NODE_121187	AUGUSTUS	terminal	1115	1838	0.77	+	1	transcript_id "NODE_121187.g99+g100.t1.AMP-binding"; gene_id "NODE_121187.g99+g100.t1.AMP-binding";
+NODE_121187	AUGUSTUS	intron	1037	1114	0.77	+	.	transcript_id "NODE_121187.g99+g100.t1.AMP-binding"; gene_id "NODE_121187.g99+g100.t1.AMP-binding";
+NODE_121187	AUGUSTUS	CDS	672	1036	0.77	+	0	transcript_id "NODE_121187.g99+g100.t1.AMP-binding"; gene_id "NODE_121187.g99+g100.t1.AMP-binding";
+NODE_121187	AUGUSTUS	CDS	1115	1838	0.77	+	1	transcript_id "NODE_121187.g99+g100.t1.AMP-binding"; gene_id "NODE_121187.g99+g100.t1.AMP-binding";
+NODE_121187	AUGUSTUS	CDS	1996	2342	0.72	+	0	transcript_id "g100.t1"; gene_id NODE_121187.g99+g100.t1.AMP-binding;
+NODE_121187	AUGUSTUS	stop_codon	2340	2342	.	+	0	transcript_id "NODE_121187.g99+g100.t1.AMP-binding"; gene_id "NODE_121187.g99+g100.t1.AMP-binding";
+NODE_239125	AUGUSTUS	gene	86	1186	1	-	.	NODE_239125.g146.t1.Aldedh
+NODE_239125	AUGUSTUS	transcript	86	1186	1	-	.	NODE_239125.g146.t1.Aldedh.t1
+NODE_239125	AUGUSTUS	stop_codon	86	88	.	-	0	transcript_id NODE_239125.g146.t1.Aldedh; gene_id "NODE_239125.g146.t1.Aldedh";
+NODE_239125	AUGUSTUS	terminal	86	1186	1	-	0	transcript_id NODE_239125.g146.t1.Aldedh; gene_id "NODE_239125.g146.t1.Aldedh";
+NODE_239125	AUGUSTUS	CDS	86	1186	1	-	0	transcript_id NODE_239125.g146.t1.Aldedh; gene_id "NODE_239125.g146.t1.Aldedh";
+NODE_179889	AUGUSTUS	gene	2	1392	0.53	-	.	NODE_179889.g110.t1.TPP_enzyme_N
+NODE_179889	AUGUSTUS	transcript	2	1392	0.53	-	.	NODE_179889.g110.t1.TPP_enzyme_N.t1
+NODE_179889	AUGUSTUS	internal	2	947	0.53	-	2	transcript_id NODE_179889.g110.t1.TPP_enzyme_N; gene_id "NODE_179889.g110.t1.TPP_enzyme_N";
+NODE_179889	AUGUSTUS	internal	990	1243	0.66	-	1	transcript_id NODE_179889.g110.t1.TPP_enzyme_N; gene_id "NODE_179889.g110.t1.TPP_enzyme_N";
+NODE_179889	AUGUSTUS	initial	1286	1392	1	-	0	transcript_id NODE_179889.g110.t1.TPP_enzyme_N; gene_id "NODE_179889.g110.t1.TPP_enzyme_N";
+NODE_179889	AUGUSTUS	intron	948	989	0.65	-	.	transcript_id NODE_179889.g110.t1.TPP_enzyme_N; gene_id "NODE_179889.g110.t1.TPP_enzyme_N";
+NODE_179889	AUGUSTUS	intron	1244	1285	1	-	.	transcript_id NODE_179889.g110.t1.TPP_enzyme_N; gene_id "NODE_179889.g110.t1.TPP_enzyme_N";
+NODE_179889	AUGUSTUS	CDS	2	947	0.53	-	2	transcript_id NODE_179889.g110.t1.TPP_enzyme_N; gene_id "NODE_179889.g110.t1.TPP_enzyme_N";
+NODE_179889	AUGUSTUS	CDS	990	1243	0.66	-	1	transcript_id NODE_179889.g110.t1.TPP_enzyme_N; gene_id "NODE_179889.g110.t1.TPP_enzyme_N";
+NODE_179889	AUGUSTUS	CDS	1286	1392	1	-	0	transcript_id NODE_179889.g110.t1.TPP_enzyme_N; gene_id "NODE_179889.g110.t1.TPP_enzyme_N";
+NODE_179889	AUGUSTUS	start_codon	1390	1392	.	-	0	transcript_id NODE_179889.g110.t1.TPP_enzyme_N; gene_id "NODE_179889.g110.t1.TPP_enzyme_N";
+NODE_168383	AUGUSTUS	gene	1	1172	0.31	+	.	NODE_168383.g152.t1.adh_short_C2
+NODE_168383	AUGUSTUS	transcript	1	1172	0.31	+	.	NODE_168383.g152.t1.adh_short_C2.t1
+NODE_168383	AUGUSTUS	internal	86	442	0.44	+	2	transcript_id NODE_168383.g152.t1.adh_short_C2; gene_id "NODE_168383.g152.t1.adh_short_C2";
+NODE_168383	AUGUSTUS	internal	483	533	0.88	+	2	transcript_id NODE_168383.g152.t1.adh_short_C2; gene_id "NODE_168383.g152.t1.adh_short_C2";
+NODE_168383	AUGUSTUS	terminal	628	1172	0.92	+	2	transcript_id NODE_168383.g152.t1.adh_short_C2; gene_id "NODE_168383.g152.t1.adh_short_C2";
+NODE_168383	AUGUSTUS	intron	1	85	0.4	+	.	transcript_id NODE_168383.g152.t1.adh_short_C2; gene_id "NODE_168383.g152.t1.adh_short_C2";
+NODE_168383	AUGUSTUS	intron	443	482	0.88	+	.	transcript_id NODE_168383.g152.t1.adh_short_C2; gene_id "NODE_168383.g152.t1.adh_short_C2";
+NODE_168383	AUGUSTUS	intron	534	627	0.9	+	.	transcript_id NODE_168383.g152.t1.adh_short_C2; gene_id "NODE_168383.g152.t1.adh_short_C2";
+NODE_168383	AUGUSTUS	CDS	86	442	0.44	+	2	transcript_id NODE_168383.g152.t1.adh_short_C2; gene_id "NODE_168383.g152.t1.adh_short_C2";
+NODE_168383	AUGUSTUS	CDS	483	533	0.88	+	2	transcript_id NODE_168383.g152.t1.adh_short_C2; gene_id "NODE_168383.g152.t1.adh_short_C2";
+NODE_168383	AUGUSTUS	CDS	628	1172	0.92	+	2	transcript_id NODE_168383.g152.t1.adh_short_C2; gene_id "NODE_168383.g152.t1.adh_short_C2";
+NODE_168383	AUGUSTUS	stop_codon	1170	1172	.	+	0	transcript_id NODE_168383.g152.t1.adh_short_C2; gene_id "NODE_168383.g152.t1.adh_short_C2";
+NODE_89853	AUGUSTUS	gene	1926	2883	0.34	-	.	NODE_89853.g134.t1.Ald_Xan_dh_C2
+NODE_89853	AUGUSTUS	transcript	1926	2883	0.34	-	.	NODE_89853.g134.t1.Ald_Xan_dh_C2.t1
+NODE_89853	AUGUSTUS	stop_codon	1926	1928	.	-	0	transcript_id NODE_89853.g134.t1.Ald_Xan_dh_C2; gene_id "NODE_89853.g134.t1.Ald_Xan_dh_C2";
+NODE_89853	AUGUSTUS	terminal	1926	2209	0.78	-	2	transcript_id NODE_89853.g134.t1.Ald_Xan_dh_C2; gene_id "NODE_89853.g134.t1.Ald_Xan_dh_C2";
+NODE_89853	AUGUSTUS	initial	2403	2883	0.36	-	0	transcript_id NODE_89853.g134.t1.Ald_Xan_dh_C2; gene_id "NODE_89853.g134.t1.Ald_Xan_dh_C2";
+NODE_89853	AUGUSTUS	intron	2210	2402	0.34	-	.	transcript_id NODE_89853.g134.t1.Ald_Xan_dh_C2; gene_id "NODE_89853.g134.t1.Ald_Xan_dh_C2";
+NODE_89853	AUGUSTUS	CDS	1926	2209	0.78	-	2	transcript_id NODE_89853.g134.t1.Ald_Xan_dh_C2; gene_id "NODE_89853.g134.t1.Ald_Xan_dh_C2";
+NODE_89853	AUGUSTUS	CDS	2403	2883	0.36	-	0	transcript_id NODE_89853.g134.t1.Ald_Xan_dh_C2; gene_id "NODE_89853.g134.t1.Ald_Xan_dh_C2";
+NODE_89853	AUGUSTUS	start_codon	2881	2883	.	-	0	transcript_id NODE_89853.g134.t1.Ald_Xan_dh_C2; gene_id "NODE_89853.g134.t1.Ald_Xan_dh_C2";
+NODE_220433	AUGUSTUS	gene	421	1115	0.94	+	.	NODE_220433.g127.t1.Aldo_ket_red
+NODE_220433	AUGUSTUS	transcript	421	1115	0.94	+	.	NODE_220433.g127.t1.Aldo_ket_red.t1
+NODE_220433	AUGUSTUS	start_codon	421	423	.	+	0	transcript_id NODE_220433.g127.t1.Aldo_ket_red; gene_id "NODE_220433.g127.t1.Aldo_ket_red";
+NODE_220433	AUGUSTUS	initial	421	843	0.94	+	0	transcript_id NODE_220433.g127.t1.Aldo_ket_red; gene_id "NODE_220433.g127.t1.Aldo_ket_red";
+NODE_220433	AUGUSTUS	terminal	1032	1115	0.95	+	0	transcript_id NODE_220433.g127.t1.Aldo_ket_red; gene_id "NODE_220433.g127.t1.Aldo_ket_red";
+NODE_220433	AUGUSTUS	intron	844	1031	0.95	+	.	transcript_id NODE_220433.g127.t1.Aldo_ket_red; gene_id "NODE_220433.g127.t1.Aldo_ket_red";
+NODE_220433	AUGUSTUS	CDS	421	843	0.94	+	0	transcript_id NODE_220433.g127.t1.Aldo_ket_red; gene_id "NODE_220433.g127.t1.Aldo_ket_red";
+NODE_220433	AUGUSTUS	CDS	1032	1115	0.95	+	0	transcript_id NODE_220433.g127.t1.Aldo_ket_red; gene_id "NODE_220433.g127.t1.Aldo_ket_red";
+NODE_220433	AUGUSTUS	stop_codon	1113	1115	.	+	0	transcript_id NODE_220433.g127.t1.Aldo_ket_red; gene_id "NODE_220433.g127.t1.Aldo_ket_red";
+NODE_102326	AUGUSTUS	gene	490	2408	0.42	+	.	NODE_102326.g104.t1.AMP-binding
+NODE_102326	AUGUSTUS	transcript	490	2408	0.42	+	.	NODE_102326.g104.t1.AMP-binding.t1
+NODE_102326	AUGUSTUS	start_codon	490	492	.	+	0	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	initial	490	703	0.96	+	0	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	internal	818	1320	0.9	+	2	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	internal	1371	1445	0.75	+	0	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	internal	1493	1873	0.86	+	0	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	terminal	2070	2408	0.71	+	0	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	intron	704	817	0.96	+	.	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	intron	1321	1370	0.74	+	.	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	intron	1446	1492	0.91	+	.	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	intron	1874	2069	0.69	+	.	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	CDS	490	703	0.96	+	0	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	CDS	818	1320	0.9	+	2	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	CDS	1371	1445	0.75	+	0	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	CDS	1493	1873	0.86	+	0	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	CDS	2070	2408	0.71	+	0	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_102326	AUGUSTUS	stop_codon	2406	2408	.	+	0	transcript_id NODE_102326.g104.t1.AMP-binding; gene_id "NODE_102326.g104.t1.AMP-binding";
+NODE_23566	AUGUSTUS	gene	3132	4375	0.67	-	.	NODE_23566.g115.t1.Aldo_ket_red
+NODE_23566	AUGUSTUS	transcript	3132	4375	0.67	-	.	NODE_23566.g115.t1.Aldo_ket_red.t1
+NODE_23566	AUGUSTUS	stop_codon	3132	3134	.	-	0	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	terminal	3132	3286	0.97	-	2	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	internal	3407	3464	0.92	-	0	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	internal	3521	3754	0.99	-	0	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	internal	3800	4004	0.84	-	1	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	internal	4058	4199	0.74	-	2	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	initial	4273	4375	1	-	0	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	intron	3287	3406	0.97	-	.	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	intron	3465	3520	0.93	-	.	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	intron	3755	3799	1	-	.	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	intron	4005	4057	0.84	-	.	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	intron	4200	4272	0.86	-	.	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	CDS	3132	3286	0.97	-	2	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	CDS	3407	3464	0.92	-	0	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	CDS	3521	3754	0.99	-	0	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	CDS	3800	4004	0.84	-	1	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	CDS	4058	4199	0.74	-	2	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	CDS	4273	4375	1	-	0	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_23566	AUGUSTUS	start_codon	4373	4375	.	-	0	transcript_id NODE_23566.g115.t1.Aldo_ket_red; gene_id "NODE_23566.g115.t1.Aldo_ket_red";
+NODE_193223	AUGUSTUS	gene	1	665	0.61	+	.	g101
+NODE_193223	AUGUSTUS	transcript	1	665	0.61	+	.	g101.t1
+NODE_193223	AUGUSTUS	internal	291	376	0.95	+	1	transcript_id "g101.t1"; gene_id "g101";
+NODE_193223	AUGUSTUS	terminal	439	665	0.95	+	2	transcript_id "g101.t1"; gene_id "g101";
+NODE_193223	AUGUSTUS	intron	1	290	0.64	+	.	transcript_id "g101.t1"; gene_id "g101";
+NODE_193223	AUGUSTUS	intron	377	438	0.95	+	.	transcript_id "g101.t1"; gene_id "g101";
+NODE_193223	AUGUSTUS	CDS	291	376	0.95	+	1	transcript_id "g101.t1"; gene_id "g101";
+NODE_193223	AUGUSTUS	CDS	439	665	0.95	+	2	transcript_id "g101.t1"; gene_id "g101";
+NODE_193223	AUGUSTUS	stop_codon	663	665	.	+	0	transcript_id "g101.t1"; gene_id "g101";
+NODE_154292	AUGUSTUS	gene	716	1839	0.23	+	.	NODE_154292.g136.t1.Aldo_ket_red
+NODE_154292	AUGUSTUS	transcript	716	1839	0.23	+	.	NODE_154292.g136.t1.Aldo_ket_red.t1
+NODE_154292	AUGUSTUS	start_codon	716	718	.	+	0	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	initial	716	823	0.86	+	0	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	internal	962	1091	0.47	+	0	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	internal	1203	1610	0.45	+	2	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	internal	1684	1771	0.51	+	2	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	terminal	1812	1839	0.6	+	1	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	intron	824	961	0.86	+	.	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	intron	1092	1202	0.52	+	.	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	intron	1611	1683	0.86	+	.	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	intron	1772	1811	0.49	+	.	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	CDS	716	823	0.86	+	0	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	CDS	962	1091	0.47	+	0	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	CDS	1203	1610	0.45	+	2	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	CDS	1684	1771	0.51	+	2	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	CDS	1812	1839	0.6	+	1	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_154292	AUGUSTUS	stop_codon	1837	1839	.	+	0	transcript_id NODE_154292.g136.t1.Aldo_ket_red; gene_id "NODE_154292.g136.t1.Aldo_ket_red";
+NODE_113524	AUGUSTUS	gene	294	1802	0.53	+	.	NODE_113524.g98.t1.Aminotran_1_2
+NODE_113524	AUGUSTUS	transcript	294	1802	0.53	+	.	NODE_113524.g98.t1.Aminotran_1_2.t1
+NODE_113524	AUGUSTUS	start_codon	294	296	.	+	0	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	initial	294	608	1	+	0	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	internal	668	845	0.56	+	0	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	internal	921	1480	0.61	+	2	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	internal	1521	1644	1	+	0	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	terminal	1687	1802	1	+	2	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	intron	609	667	1	+	.	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	intron	846	920	0.56	+	.	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	intron	1481	1520	1	+	.	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	intron	1645	1686	1	+	.	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	CDS	294	608	1	+	0	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	CDS	668	845	0.56	+	0	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	CDS	921	1480	0.61	+	2	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	CDS	1521	1644	1	+	0	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	CDS	1687	1802	1	+	2	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_113524	AUGUSTUS	stop_codon	1800	1802	.	+	0	transcript_id NODE_113524.g98.t1.Aminotran_1_2; gene_id "NODE_113524.g98.t1.Aminotran_1_2";
+NODE_66351	AUGUSTUS	gene	1	2258	0.44	-	.	NODE_66351.g126.t1.AMP-binding
+NODE_66351	AUGUSTUS	transcript	1	2258	0.44	-	.	NODE_66351.g126.t1.AMP-binding.t1
+NODE_66351	AUGUSTUS	internal	65	357	0.89	-	0	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	internal	508	678	0.73	-	0	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	internal	849	1927	0.92	-	2	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	internal	1979	2043	0.68	-	1	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	internal	2091	2173	0.68	-	0	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	initial	2214	2258	0.58	-	0	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	intron	1	64	0.99	-	.	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	intron	358	507	0.85	-	.	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	intron	679	848	0.84	-	.	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	intron	1928	1978	1	-	.	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	intron	2044	2090	0.68	-	.	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	intron	2174	2213	0.6	-	.	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	CDS	65	357	0.89	-	0	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	CDS	508	678	0.73	-	0	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	CDS	849	1927	0.92	-	2	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	CDS	1979	2043	0.68	-	1	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	CDS	2091	2173	0.68	-	0	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	CDS	2214	2258	0.58	-	0	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_66351	AUGUSTUS	start_codon	2256	2258	.	-	0	transcript_id NODE_66351.g126.t1.AMP-binding; gene_id "NODE_66351.g126.t1.AMP-binding";
+NODE_181518	AUGUSTUS	gene	1	547	0.82	+	.	g131
+NODE_181518	AUGUSTUS	transcript	1	547	0.82	+	.	g131.t1
+NODE_181518	AUGUSTUS	internal	224	248	0.84	+	0	transcript_id "g131.t1"; gene_id "g131";
+NODE_181518	AUGUSTUS	terminal	306	547	0.96	+	2	transcript_id "g131.t1"; gene_id "g131";
+NODE_181518	AUGUSTUS	intron	1	223	0.86	+	.	transcript_id "g131.t1"; gene_id "g131";
+NODE_181518	AUGUSTUS	intron	249	305	0.87	+	.	transcript_id "g131.t1"; gene_id "g131";
+NODE_181518	AUGUSTUS	CDS	224	248	0.84	+	0	transcript_id "g131.t1"; gene_id "g131";
+NODE_181518	AUGUSTUS	CDS	306	547	0.96	+	2	transcript_id "g131.t1"; gene_id "g131";
+NODE_181518	AUGUSTUS	stop_codon	545	547	.	+	0	transcript_id "g131.t1"; gene_id "g131";
+NODE_106035	AUGUSTUS	gene	304	2383	0.16	-	.	NODE_106035.g137.t1.Aldedh
+NODE_106035	AUGUSTUS	transcript	304	2383	0.16	-	.	NODE_106035.g137.t1.Aldedh.t1
+NODE_106035	AUGUSTUS	stop_codon	304	306	.	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	terminal	304	483	0.51	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	internal	578	817	0.67	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	internal	935	1025	0.97	-	1	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	internal	1065	1216	0.99	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	internal	1373	1692	0.79	-	2	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	internal	1742	1820	0.82	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	internal	1875	2015	0.8	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	internal	2073	2226	0.55	-	1	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	initial	2346	2383	0.78	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	intron	484	577	0.7	-	.	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	intron	818	934	0.97	-	.	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	intron	1026	1064	1	-	.	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	intron	1217	1372	0.79	-	.	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	intron	1693	1741	0.99	-	.	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	intron	1821	1874	0.8	-	.	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	intron	2016	2072	0.95	-	.	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	intron	2227	2345	0.54	-	.	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	CDS	304	483	0.51	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	CDS	578	817	0.67	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	CDS	935	1025	0.97	-	1	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	CDS	1065	1216	0.99	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	CDS	1373	1692	0.79	-	2	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	CDS	1742	1820	0.82	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	CDS	1875	2015	0.8	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	CDS	2073	2226	0.55	-	1	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	CDS	2346	2383	0.78	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_106035	AUGUSTUS	start_codon	2381	2383	.	-	0	transcript_id NODE_106035.g137.t1.Aldedh; gene_id "NODE_106035.g137.t1.Aldedh";
+NODE_82708	AUGUSTUS	gene	599	2168	0.15	+	.	NODE_82708.g106.t1.Aminotran_1_2
+NODE_82708	AUGUSTUS	transcript	599	2168	0.15	+	.	NODE_82708.g106.t1.Aminotran_1_2.t1
+NODE_82708	AUGUSTUS	start_codon	599	601	.	+	0	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	initial	599	734	0.87	+	0	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	internal	802	980	0.37	+	2	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	internal	1023	1168	0.7	+	0	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	internal	1334	1550	0.64	+	1	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	internal	1633	1761	0.77	+	0	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	internal	1920	2018	1	+	0	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	terminal	2058	2168	1	+	0	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	intron	735	801	0.81	+	.	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	intron	981	1022	1	+	.	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	intron	1169	1333	0.61	+	.	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	intron	1551	1632	0.76	+	.	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	intron	1762	1919	0.79	+	.	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	intron	2019	2057	1	+	.	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	CDS	599	734	0.87	+	0	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	CDS	802	980	0.37	+	2	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	CDS	1023	1168	0.7	+	0	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	CDS	1334	1550	0.64	+	1	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	CDS	1633	1761	0.77	+	0	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	CDS	1920	2018	1	+	0	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	CDS	2058	2168	1	+	0	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_82708	AUGUSTUS	stop_codon	2166	2168	.	+	0	transcript_id NODE_82708.g106.t1.Aminotran_1_2; gene_id "NODE_82708.g106.t1.Aminotran_1_2";
+NODE_257226	AUGUSTUS	gene	1	1079	0.26	+	.	NODE_257226.g94.t1.AMP-binding
+NODE_257226	AUGUSTUS	transcript	1	1079	0.26	+	.	NODE_257226.g94.t1.AMP-binding.t1
+NODE_257226	AUGUSTUS	internal	1	459	0.26	+	0	transcript_id NODE_257226.g94.t1.AMP-binding; gene_id "NODE_257226.g94.t1.AMP-binding";
+NODE_257226	AUGUSTUS	internal	675	799	0.78	+	0	transcript_id NODE_257226.g94.t1.AMP-binding; gene_id "NODE_257226.g94.t1.AMP-binding";
+NODE_257226	AUGUSTUS	internal	851	1059	0.75	+	1	transcript_id NODE_257226.g94.t1.AMP-binding; gene_id "NODE_257226.g94.t1.AMP-binding";
+NODE_257226	AUGUSTUS	intron	460	674	0.26	+	.	transcript_id NODE_257226.g94.t1.AMP-binding; gene_id "NODE_257226.g94.t1.AMP-binding";
+NODE_257226	AUGUSTUS	intron	800	850	0.78	+	.	transcript_id NODE_257226.g94.t1.AMP-binding; gene_id "NODE_257226.g94.t1.AMP-binding";
+NODE_257226	AUGUSTUS	intron	1060	1079	0.97	+	.	transcript_id NODE_257226.g94.t1.AMP-binding; gene_id "NODE_257226.g94.t1.AMP-binding";
+NODE_257226	AUGUSTUS	CDS	1	459	0.26	+	0	transcript_id NODE_257226.g94.t1.AMP-binding; gene_id "NODE_257226.g94.t1.AMP-binding";
+NODE_257226	AUGUSTUS	CDS	675	799	0.78	+	0	transcript_id NODE_257226.g94.t1.AMP-binding; gene_id "NODE_257226.g94.t1.AMP-binding";
+NODE_257226	AUGUSTUS	CDS	851	1059	0.75	+	1	transcript_id NODE_257226.g94.t1.AMP-binding; gene_id "NODE_257226.g94.t1.AMP-binding";
+NODE_17852	AUGUSTUS	gene	1118	2647	0.93	+	.	NODE_17852.g114.t1.AMP-binding
+NODE_17852	AUGUSTUS	transcript	1118	2647	0.93	+	.	NODE_17852.g114.t1.AMP-binding.t1
+NODE_17852	AUGUSTUS	start_codon	1118	1120	.	+	0	transcript_id NODE_17852.g114.t1.AMP-binding; gene_id "NODE_17852.g114.t1.AMP-binding";
+NODE_17852	AUGUSTUS	single	1118	2647	0.93	+	0	transcript_id NODE_17852.g114.t1.AMP-binding; gene_id "NODE_17852.g114.t1.AMP-binding";
+NODE_17852	AUGUSTUS	CDS	1118	2647	0.93	+	0	transcript_id NODE_17852.g114.t1.AMP-binding; gene_id "NODE_17852.g114.t1.AMP-binding";
+NODE_17852	AUGUSTUS	stop_codon	2645	2647	.	+	0	transcript_id NODE_17852.g114.t1.AMP-binding; gene_id "NODE_17852.g114.t1.AMP-binding";
+NODE_55800	AUGUSTUS	gene	1255	3420	0.59	-	.	NODE_55800.g133.t1.Aminotran_1_2
+NODE_55800	AUGUSTUS	transcript	1255	3420	0.59	-	.	NODE_55800.g133.t1.Aminotran_1_2.t1
+NODE_55800	AUGUSTUS	stop_codon	1255	1257	.	-	0	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	terminal	1255	1391	1	-	2	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	internal	1471	1613	0.97	-	1	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	internal	1660	1801	0.62	-	2	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	internal	1861	2109	0.61	-	2	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	internal	2693	2798	0.98	-	0	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	internal	2894	3025	1	-	0	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	internal	3148	3299	1	-	2	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	initial	3345	3420	1	-	0	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	intron	1392	1470	0.99	-	.	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	intron	1614	1659	0.98	-	.	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	intron	1802	1860	0.62	-	.	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	intron	2110	2692	0.97	-	.	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	intron	2799	2893	0.98	-	.	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	intron	3026	3147	1	-	.	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	intron	3300	3344	1	-	.	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	CDS	1255	1391	1	-	2	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	CDS	1471	1613	0.97	-	1	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	CDS	1660	1801	0.62	-	2	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	CDS	1861	2109	0.61	-	2	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	CDS	2693	2798	0.98	-	0	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	CDS	2894	3025	1	-	0	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	CDS	3148	3299	1	-	2	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	CDS	3345	3420	1	-	0	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_55800	AUGUSTUS	start_codon	3418	3420	.	-	0	transcript_id NODE_55800.g133.t1.Aminotran_1_2; gene_id "NODE_55800.g133.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	gene	1	1446	0.05	+	.	NODE_151369.g105.t1.Aminotran_1_2
+NODE_151369	AUGUSTUS	transcript	1	1446	0.05	+	.	NODE_151369.g105.t1.Aminotran_1_2.t1
+NODE_151369	AUGUSTUS	internal	286	355	0.22	+	1	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	internal	403	525	0.55	+	0	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	internal	573	669	0.34	+	0	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	terminal	716	1446	0.26	+	2	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	intron	1	285	0.22	+	.	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	intron	356	402	0.53	+	.	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	intron	526	572	0.73	+	.	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	intron	670	715	0.38	+	.	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	CDS	286	355	0.22	+	1	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	CDS	403	525	0.55	+	0	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	CDS	573	669	0.34	+	0	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	CDS	716	1446	0.26	+	2	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_151369	AUGUSTUS	stop_codon	1444	1446	.	+	0	transcript_id NODE_151369.g105.t1.Aminotran_1_2; gene_id "NODE_151369.g105.t1.Aminotran_1_2";
+NODE_147313	AUGUSTUS	gene	1463	1989	0.81	+	.	NODE_147313.g97.t1.Aldedh
+NODE_147313	AUGUSTUS	transcript	1463	1989	0.81	+	.	NODE_147313.g97.t1.Aldedh.t1
+NODE_147313	AUGUSTUS	start_codon	1463	1465	.	+	0	transcript_id NODE_147313.g97.t1.Aldedh; gene_id "NODE_147313.g97.t1.Aldedh";
+NODE_147313	AUGUSTUS	initial	1463	1989	0.81	+	0	transcript_id NODE_147313.g97.t1.Aldedh; gene_id "NODE_147313.g97.t1.Aldedh";
+NODE_147313	AUGUSTUS	CDS	1463	1989	0.81	+	0	transcript_id NODE_147313.g97.t1.Aldedh; gene_id "NODE_147313.g97.t1.Aldedh";
+NODE_271019	AUGUSTUS	gene	1	369	1	-	.	NODE_271019.g128.t1.adh_short_C2
+NODE_271019	AUGUSTUS	transcript	1	369	1	-	.	NODE_271019.g128.t1.adh_short_C2.t1
+NODE_271019	AUGUSTUS	initial	166	369	1	-	0	transcript_id NODE_271019.g128.t1.adh_short_C2; gene_id "NODE_271019.g128.t1.adh_short_C2";
+NODE_271019	AUGUSTUS	intron	1	165	1	-	.	transcript_id NODE_271019.g128.t1.adh_short_C2; gene_id "NODE_271019.g128.t1.adh_short_C2";
+NODE_271019	AUGUSTUS	CDS	166	369	1	-	0	transcript_id NODE_271019.g128.t1.adh_short_C2; gene_id "NODE_271019.g128.t1.adh_short_C2";
+NODE_271019	AUGUSTUS	start_codon	367	369	.	-	0	transcript_id NODE_271019.g128.t1.adh_short_C2; gene_id "NODE_271019.g128.t1.adh_short_C2";
+NODE_106076	AUGUSTUS	gene	474	1316	0.91	-	.	NODE_106076.g154.t1.Aldo_ket_red
+NODE_106076	AUGUSTUS	transcript	474	1316	0.91	-	.	NODE_106076.g154.t1.Aldo_ket_red.t1
+NODE_106076	AUGUSTUS	stop_codon	474	476	.	-	0	transcript_id NODE_106076.g154.t1.Aldo_ket_red; gene_id "NODE_106076.g154.t1.Aldo_ket_red";
+NODE_106076	AUGUSTUS	single	474	1316	0.91	-	0	transcript_id NODE_106076.g154.t1.Aldo_ket_red; gene_id "NODE_106076.g154.t1.Aldo_ket_red";
+NODE_106076	AUGUSTUS	CDS	474	1316	0.91	-	0	transcript_id NODE_106076.g154.t1.Aldo_ket_red; gene_id "NODE_106076.g154.t1.Aldo_ket_red";
+NODE_106076	AUGUSTUS	start_codon	1314	1316	.	-	0	transcript_id NODE_106076.g154.t1.Aldo_ket_red; gene_id "NODE_106076.g154.t1.Aldo_ket_red";
+NODE_76895	AUGUSTUS	gene	259	1709	0.35	+	.	NODE_76895.g138+g139.t1.Aminotran_1_2
+NODE_76895	AUGUSTUS	transcript	259	1709	0.35	+	.	NODE_76895.g138+g139.t1.Aminotran_1_2
+NODE_76895	AUGUSTUS	start_codon	259	261	.	+	0	transcript_id "NODE_76895.g138+g139.t1.Aminotran_1_2"; gene_id "NODE_76895.g138+g139.t1.Aminotran_1_2";
+NODE_76895	AUGUSTUS	initial	259	687	1	+	0	transcript_id "NODE_76895.g138+g139.t1.Aminotran_1_2"; gene_id "NODE_76895.g138+g139.t1.Aminotran_1_2";
+NODE_76895	AUGUSTUS	internal	738	1000	0.99	+	0	transcript_id "NODE_76895.g138+g139.t1.Aminotran_1_2"; gene_id "NODE_76895.g138+g139.t1.Aminotran_1_2";
+NODE_76895	AUGUSTUS	terminal	1241	1709	0.35	+	1	transcript_id "NODE_76895.g138+g139.t1.Aminotran_1_2"; gene_id "NODE_76895.g138+g139.t1.Aminotran_1_2";
+NODE_76895	AUGUSTUS	intron	688	737	1	+	.	transcript_id "NODE_76895.g138+g139.t1.Aminotran_1_2"; gene_id "NODE_76895.g138+g139.t1.Aminotran_1_2";
+NODE_76895	AUGUSTUS	intron	1001	1240	0.56	+	.	transcript_id "NODE_76895.g138+g139.t1.Aminotran_1_2"; gene_id "NODE_76895.g138+g139.t1.Aminotran_1_2";
+NODE_76895	AUGUSTUS	CDS	259	687	1	+	0	transcript_id "NODE_76895.g138+g139.t1.Aminotran_1_2"; gene_id "NODE_76895.g138+g139.t1.Aminotran_1_2";
+NODE_76895	AUGUSTUS	CDS	738	1000	0.99	+	0	transcript_id "NODE_76895.g138+g139.t1.Aminotran_1_2"; gene_id "NODE_76895.g138+g139.t1.Aminotran_1_2";
+NODE_76895	AUGUSTUS	CDS	1241	1709	0.35	+	1	transcript_id "NODE_76895.g138+g139.t1.Aminotran_1_2"; gene_id "NODE_76895.g138+g139.t1.Aminotran_1_2";
+NODE_76895	AUGUSTUS	stop_codon	1707	1709	.	+	0	transcript_id "NODE_76895.g138+g139.t1.Aminotran_1_2"; gene_id "NODE_76895.g138+g139.t1.Aminotran_1_2";
+NODE_104554	AUGUSTUS	gene	84	1667	0.27	+	.	NODE_104554.g96.t1.Aminotran_1_2
+NODE_104554	AUGUSTUS	transcript	84	1667	0.27	+	.	NODE_104554.g96.t1.Aminotran_1_2.t1
+NODE_104554	AUGUSTUS	start_codon	84	86	.	+	0	transcript_id NODE_104554.g96.t1.Aminotran_1_2; gene_id "NODE_104554.g96.t1.Aminotran_1_2";
+NODE_104554	AUGUSTUS	initial	84	240	0.99	+	0	transcript_id NODE_104554.g96.t1.Aminotran_1_2; gene_id "NODE_104554.g96.t1.Aminotran_1_2";
+NODE_104554	AUGUSTUS	internal	300	775	0.81	+	2	transcript_id NODE_104554.g96.t1.Aminotran_1_2; gene_id "NODE_104554.g96.t1.Aminotran_1_2";
+NODE_104554	AUGUSTUS	terminal	876	1667	0.28	+	0	transcript_id NODE_104554.g96.t1.Aminotran_1_2; gene_id "NODE_104554.g96.t1.Aminotran_1_2";
+NODE_104554	AUGUSTUS	intron	241	299	1	+	.	transcript_id NODE_104554.g96.t1.Aminotran_1_2; gene_id "NODE_104554.g96.t1.Aminotran_1_2";
+NODE_104554	AUGUSTUS	intron	776	875	0.29	+	.	transcript_id NODE_104554.g96.t1.Aminotran_1_2; gene_id "NODE_104554.g96.t1.Aminotran_1_2";
+NODE_104554	AUGUSTUS	CDS	84	240	0.99	+	0	transcript_id NODE_104554.g96.t1.Aminotran_1_2; gene_id "NODE_104554.g96.t1.Aminotran_1_2";
+NODE_104554	AUGUSTUS	CDS	300	775	0.81	+	2	transcript_id NODE_104554.g96.t1.Aminotran_1_2; gene_id "NODE_104554.g96.t1.Aminotran_1_2";
+NODE_104554	AUGUSTUS	CDS	876	1667	0.28	+	0	transcript_id NODE_104554.g96.t1.Aminotran_1_2; gene_id "NODE_104554.g96.t1.Aminotran_1_2";
+NODE_104554	AUGUSTUS	stop_codon	1665	1667	.	+	0	transcript_id NODE_104554.g96.t1.Aminotran_1_2; gene_id "NODE_104554.g96.t1.Aminotran_1_2";
+NODE_143798	AUGUSTUS	gene	1	2002	0.37	-	.	NODE_143798.g129.t1.AMP-binding
+NODE_143798	AUGUSTUS	transcript	1	2002	0.37	-	.	NODE_143798.g129.t1.AMP-binding.t1
+NODE_143798	AUGUSTUS	internal	7	1055	0.93	-	1	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_143798	AUGUSTUS	internal	1516	1718	0.99	-	0	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_143798	AUGUSTUS	internal	1894	1950	0.38	-	0	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_143798	AUGUSTUS	initial	1991	2002	0.79	-	0	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_143798	AUGUSTUS	intron	1	6	1	-	.	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_143798	AUGUSTUS	intron	1056	1515	0.94	-	.	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_143798	AUGUSTUS	intron	1719	1893	0.42	-	.	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_143798	AUGUSTUS	intron	1951	1990	0.58	-	.	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_143798	AUGUSTUS	CDS	7	1055	0.93	-	1	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_143798	AUGUSTUS	CDS	1516	1718	0.99	-	0	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_143798	AUGUSTUS	CDS	1894	1950	0.38	-	0	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_143798	AUGUSTUS	CDS	1991	2002	0.79	-	0	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_143798	AUGUSTUS	start_codon	2000	2002	.	-	0	transcript_id NODE_143798.g129.t1.AMP-binding; gene_id "NODE_143798.g129.t1.AMP-binding";
+NODE_78583	AUGUSTUS	gene	861	2138	0.91	+	.	NODE_78583.g144+g145.t1.Thiolase_N
+NODE_78583	AUGUSTUS	transcript	861	2138	0.91	+	.	NODE_78583.g144+g145.t1.Thiolase_N
+NODE_78583	AUGUSTUS	start_codon	861	863	.	+	0	transcript_id "NODE_78583.g144+g145.t1.Thiolase_N"; gene_id "NODE_78583.g144+g145.t1.Thiolase_N";
+NODE_78583	AUGUSTUS	initial	861	1293	1	+	0	transcript_id "NODE_78583.g144+g145.t1.Thiolase_N"; gene_id "NODE_78583.g144+g145.t1.Thiolase_N";
+NODE_78583	AUGUSTUS	terminal	1444	2138	1	+	2	transcript_id "NODE_78583.g144+g145.t1.Thiolase_N"; gene_id "NODE_78583.g144+g145.t1.Thiolase_N";
+NODE_78583	AUGUSTUS	intron	1294	1443	0.91	+	.	transcript_id "NODE_78583.g144+g145.t1.Thiolase_N"; gene_id "NODE_78583.g144+g145.t1.Thiolase_N";
+NODE_78583	AUGUSTUS	CDS	861	1293	1	+	0	transcript_id "NODE_78583.g144+g145.t1.Thiolase_N"; gene_id "NODE_78583.g144+g145.t1.Thiolase_N";
+NODE_78583	AUGUSTUS	CDS	1444	2138	1	+	2	transcript_id "NODE_78583.g144+g145.t1.Thiolase_N"; gene_id "NODE_78583.g144+g145.t1.Thiolase_N";
+NODE_78583	AUGUSTUS	stop_codon	2136	2138	.	+	0	transcript_id "NODE_78583.g144+g145.t1.Thiolase_N"; gene_id "NODE_78583.g144+g145.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	gene	1230	2611	0.22	-	.	NODE_89561.g153.t1.Thiolase_N
+NODE_89561	AUGUSTUS	transcript	1230	2611	0.22	-	.	NODE_89561.g153.t1.Thiolase_N.t1
+NODE_89561	AUGUSTUS	stop_codon	1230	1232	.	-	0	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	terminal	1230	1570	0.74	-	2	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	internal	1618	1759	0.75	-	0	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	internal	1939	2177	0.98	-	2	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	internal	2254	2349	0.98	-	2	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	initial	2575	2611	0.99	-	0	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	intron	1571	1617	1	-	.	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	intron	1760	1938	0.75	-	.	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	intron	2178	2253	0.98	-	.	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	intron	2350	2574	0.46	-	.	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	CDS	1230	1570	0.74	-	2	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	CDS	1618	1759	0.75	-	0	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	CDS	1939	2177	0.98	-	2	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	CDS	2254	2349	0.98	-	2	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	CDS	2575	2611	0.99	-	0	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_89561	AUGUSTUS	start_codon	2609	2611	.	-	0	transcript_id NODE_89561.g153.t1.Thiolase_N; gene_id "NODE_89561.g153.t1.Thiolase_N";
+NODE_131514	AUGUSTUS	gene	1843	2170	0.69	+	.	g147
+NODE_131514	AUGUSTUS	transcript	1843	2170	0.69	+	.	g147.t1
+NODE_131514	AUGUSTUS	start_codon	1843	1845	.	+	0	transcript_id "g147.t1"; gene_id "g147";
+NODE_131514	AUGUSTUS	initial	1843	1888	0.69	+	0	transcript_id "g147.t1"; gene_id "g147";
+NODE_131514	AUGUSTUS	terminal	1932	2170	0.76	+	2	transcript_id "g147.t1"; gene_id "g147";
+NODE_131514	AUGUSTUS	intron	1889	1931	0.69	+	.	transcript_id "g147.t1"; gene_id "g147";
+NODE_131514	AUGUSTUS	CDS	1843	1888	0.69	+	0	transcript_id "g147.t1"; gene_id "g147";
+NODE_131514	AUGUSTUS	CDS	1932	2170	0.76	+	2	transcript_id "g147.t1"; gene_id "g147";
+NODE_131514	AUGUSTUS	stop_codon	2168	2170	.	+	0	transcript_id "g147.t1"; gene_id "g147";
+NODE_263666	AUGUSTUS	gene	1	634	0.3	-	.	g156
+NODE_263666	AUGUSTUS	transcript	1	634	0.3	-	.	g156.t1
+NODE_263666	AUGUSTUS	internal	417	428	0.42	-	1	transcript_id "g156.t1"; gene_id "g156";
+NODE_263666	AUGUSTUS	initial	477	634	0.62	-	0	transcript_id "g156.t1"; gene_id "g156";
+NODE_263666	AUGUSTUS	intron	1	416	0.42	-	.	transcript_id "g156.t1"; gene_id "g156";
+NODE_263666	AUGUSTUS	intron	429	476	0.42	-	.	transcript_id "g156.t1"; gene_id "g156";
+NODE_263666	AUGUSTUS	CDS	417	428	0.42	-	1	transcript_id "g156.t1"; gene_id "g156";
+NODE_263666	AUGUSTUS	CDS	477	634	0.62	-	0	transcript_id "g156.t1"; gene_id "g156";
+NODE_263666	AUGUSTUS	start_codon	632	634	.	-	0	transcript_id "g156.t1"; gene_id "g156";
+NODE_200505	AUGUSTUS	gene	28	990	0.38	+	.	NODE_200505.g125.t1.Aminotran_1_2
+NODE_200505	AUGUSTUS	transcript	28	990	0.38	+	.	NODE_200505.g125.t1.Aminotran_1_2.t1
+NODE_200505	AUGUSTUS	start_codon	28	30	.	+	0	transcript_id NODE_200505.g125.t1.Aminotran_1_2; gene_id "NODE_200505.g125.t1.Aminotran_1_2";
+NODE_200505	AUGUSTUS	single	28	990	0.38	+	0	transcript_id NODE_200505.g125.t1.Aminotran_1_2; gene_id "NODE_200505.g125.t1.Aminotran_1_2";
+NODE_200505	AUGUSTUS	CDS	28	990	0.38	+	0	transcript_id NODE_200505.g125.t1.Aminotran_1_2; gene_id "NODE_200505.g125.t1.Aminotran_1_2";
+NODE_200505	AUGUSTUS	stop_codon	988	990	.	+	0	transcript_id NODE_200505.g125.t1.Aminotran_1_2; gene_id "NODE_200505.g125.t1.Aminotran_1_2";
